@@ -34,6 +34,7 @@ Des informations détaillées sur les commandes mis à jour seront expliquer à 
 
 🛠HELP🛠
 * Help.js
+=> Ajustement en  fonction de la V5
 
 ### Event
 

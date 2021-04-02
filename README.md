@@ -21,6 +21,15 @@ Des informations détaillées sur les commandes mis à jour seront expliquer à 
 * rank.js
 => Réajustement et optimisation
 
+* avatarColor.js
+=> Correctif de conversion hex vers rgb et rgb vers hex
+
+* barreColor.js
+=> Correctif de conversion hex vers rgb et rgb vers hex
+
+* textColor.js
+=> Correctif de conversion hex vers rgb et rgb vers hex
+
 🛠API🛠
 * cat.js
 => Changement du fournisseur

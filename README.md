@@ -28,7 +28,7 @@ La data base à été supprimer afin de mètre en place le nouveau système de d
 => Correctif de conversion hex vers rgb et rgb vers hex
 
 * textColor.js
-=> Correctif de conversion hex vers rgb et rgb vers hex
+=> suppresion de la commande
 
 🛠API🛠
 * cat.js

@@ -39,6 +39,9 @@ Des informations détaillées sur les commandes mis à jour seront expliquer à 
 
 🛠UTIL🛠
 * maths.js
+=> Changement du fonctionemen
+
+* poll.js
 => Changement du fonctionement
 
 🛠TICKET🛠
@@ -62,6 +65,9 @@ Des informations détaillées sur les commandes mis à jour seront expliquer à 
 
 * 🩸MessageReactionAdd.js🩸
 => Correction de l'évent en fonction du paramètre rôle staff
+
+* 🩸Logs.js🩸
+=> Correction de tout les event de logs par rappport à la nouvelle structure
 
 ### Dossier
 

@@ -37,6 +37,10 @@ Des informations détaillées sur les commandes mis à jour seront expliquer à 
 * dog.js
 => Changement du fournisseur
 
+🛠UTIL🛠
+* maths.js
+=> Changement du fonctionement
+
 🛠TICKET🛠
 * close.js
 => Correction de la commande en fonction du paramètre rôle staff

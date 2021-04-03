@@ -70,3 +70,6 @@ Des informations détaillées sur les commandes mis à jour seront expliquer à 
 
 * 🎁guild.js
 => Changement de structure de la base de donné pour l'ajout des nouvelles fonctionalité
+
+* 🎁constatnts.js
+=> Changement de l'appel des commandes

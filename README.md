@@ -1,5 +1,5 @@
 # 👾DARKNESS_BOTS_INFOS👾
-Des informations détaillées sur les commandes mis à jour seront expliquer à la sortie de la MaJ❗
+La data base à été supprimer afin de mètre en place le nouveau système de dataJ❗
 
 ## 🤖 Mise à jour DARKNESS V5 (coming soon) 🤖
 

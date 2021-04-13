@@ -5,77 +5,59 @@ La data base à été supprimer afin de mètre en place le nouveau système de d
 
 ### Commands
 
-🛠ADMIN🛠
-* setting.js
-=> Ajout des paramètre visuel On/Off
+🛠INFO🛠
+* guild
+=> Transfère de la commmande en privé
 
-* config.js
-=> Ajout de la fonction On/Off
-=> Ajout de la configuration rôle staff
-
-🛠MODERATION🛠
-* All Commands
-=> Correction des commandes en fonction des paramètre On/Off
+* ping
+=> Ajout d'information
 
 🛠PROFILE🛠
-* rank.js
-=> Réajustement et optimisation
+* rank
+=> Correction des couleurs par défault
 
-* avatarColor.js
-=> Correctif de conversion hex vers rgb et rgb vers hex
+* stats
+=> suppresion définitif
 
-* barreColor.js
-=> Correctif de conversion hex vers rgb et rgb vers hex
+* textColor
+=> suppresion de la commande définitivement
 
-* textColor.js
-=> suppresion de la commande
+* background
+=> Ajout d'information
 
 🛠API🛠
-* cat.js
-=> Changement du fournisseur
-
-* dog.js
-=> Changement du fournisseur
+* mixavatar
+=> Ajout de la possibilité de mix autre que son propre avatar
 
 🛠UTIL🛠
-* maths.js
-=> Changement du fonctionemen
+* math
+=> Correction de la commande
 
-* poll.js
-=> Changement du fonctionement
+🛠FUN🛠
+* dice
+=> Ajout de la possibilité d'éfectuée plusieur lancé de dés
 
-🛠TICKET🛠
-* close.js
-=> Correction de la commande en fonction du paramètre rôle staff
+🛠DARKNESS🛠
+* invite
+=> Réajustement de la commande
+
+🛠ADMIN🛠
+* configList
+=> Ajout de la commande
 
 🛠HELP🛠
 * Help.js
-=> Ajustement en  fonction de la V5
+=> Ajustement en fonction du patch
 
 ### Event
 
 * 🩸Message.js🩸
-=> Correction de l'évent n'executent pas les commandes quand l'utilisateur LVL UP
-
-* 🩸GuildMemberAdd.js🩸
-=> Corection de l'event en fonction des paramètre On/Off
-
-* 🩸GuildMemberRemove.js🩸
-=> Corection de l'évent en fonction des paramètre On/Off
-
-* 🩸MessageReactionAdd.js🩸
-=> Correction de l'évent en fonction du paramètre rôle staff
-
-* 🩸Logs.js🩸
-=> Correction de tout les event de logs par rappport à la nouvelle structure
+=> Correction de l'évent n'executent pas les commandes quand l'utilisateur LVL UP/gagne des xp
 
 ### Dossier
 
-* 🎁config.js
-=> Changement de structure de la base de donné pour l'ajout des nouvelles fonctionalité
-
-* 🎁guild.js
-=> Changement de structure de la base de donné pour l'ajout des nouvelles fonctionalité
+* 🎁function.js
+=> supression de code inutile
 
 * 🎁constatnts.js
-=> Changement de l'appel des commandes
+=> Suppresion de code inutile

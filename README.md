@@ -1,5 +1,4 @@
 # 👾DARKNESS_BOTS_INFOS👾
-La data base à été supprimer afin de mètre en place le nouveau système de data❗
 
 ## 🤖 Mise à jour DARKNESS V5 (coming soon) 🤖
 

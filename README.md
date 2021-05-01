@@ -5,18 +5,23 @@ La data base à été supprimer afin de mètre en place le nouveau système de d
 
 ### Commands
 
-🛠INFO🛠
-* ping
-=> Correction sans inportance
+🛠help🛠
+* help/helpmusic
+=> ajustement pour le module musicale et supresion de l'invitation de Foxxy
+
+🛠Module Music🛠
+* all commande
+=> ajustement / optimisation / correction de plusieurs commande
 
 ### Event
 
-* 🩸Ajout des events suivants🩸
-=> channelCreate/Update/Delete | emojieCreate/Update/Delete | inviteCreate/UpdateDelete | roleCreate/Update/Delete
-
-* 🩸Correction des events suivants🩸
-=> messageUpdate/Delete | memberAdd/Remove
+* 🩸Client🩸
+=> optimisation
 
 ### Dossier
 
-* 🎁aucun changement
+* 🎁config
+=> Ajustement du song par défaut à 50%
+
+* 🎁constant
+=> Ajustement des informations

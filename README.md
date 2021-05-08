@@ -4,6 +4,13 @@
 
 ### Commands
 
+🛠Nick🛠
+- [x] Ajout de la fonction d'édition
+- [x] Ajout de la barre d'édition
+- [x] Ajout de l'édition custom
+- [x] Ajout de la limitation
+- [x] Ajout de la fonction default
+
 🛠Daily🛠
 - [ ] Ajout de la progression
 - [ ] Ajout des items
@@ -41,6 +48,7 @@
 - [x] Ajout du token TOPGG
 
 * 🎁constant
+- [x] Ajout des informations de nick
 - [ ] Ajout des informations de vote
 - [ ] Ajout des informations de claim
 - [ ] Ajout des informations de daily

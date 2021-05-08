@@ -1,6 +1,6 @@
 # 👾DARKNESS_BOTS_INFOS👾
 
-## 🤖 Mise à jour DARKNESS V5 (🎶 module music 🎶)
+## 🤖 Mise à jour DARKNESS V5 (🔥Coming Soon🔥)
 
 ### Commands
 

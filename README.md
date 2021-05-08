@@ -5,32 +5,50 @@
 ### Commands
 
 🛠Daily🛠
-- [x] This is a complete item
+- [ ] Ajout de la progression
+- [ ] Ajout des items
 
 🛠Claim🛠
-- [x] This is a complete item
+- [x] Ajout de la vérification
+- [ ] Ajout du multiplicateur
+- [ ] Correction du cooldown
 
 🛠Vote🛠
-- [x] This is a complete item
+- [x] Ajout des liens de vote
 
 🛠Background🛠
-- [x] This is a complete item
+- [ ] Correction de la mise en forme des images
+- [ ] Correction de l'avatar phantom
+- [ ] Ajout des prix
 
 ### Event
 
 * 🩸Client🩸
-- [x] This is a complete item
+- [x] Ajout de l'envoi des informations de guild à TOPGG
+- [ ] Ajout de l'envoi des informations de guild à DISCORD BOT LIST
 
 * 🩸GuildMemberAdd🩸
-- [x] This is a complete item
+- [x] Édition des informations de guild TOPGG
+- [ ] Édition des informations de guild DISCORD BOT LIST
 
 * 🩸GuildMemberRemove🩸
-- [x] This is a complete item
+- [x] Édition des informations de guild TOPGG
+- [ ] Édition des informations de guild DISCORD BOT LIST
 
 ### Dossier
 
 * 🎁config
-=> Ajustement du song par défaut à 50%
+- [x] Ajout du token TOPGG
 
 * 🎁constant
-=> Ajustement des informations
+- [ ] Ajout des informations de vote
+- [ ] Ajout des informations de claim
+- [ ] Ajout des informations de daily
+
+* 🎁usere
+- [x] Creation de la base de donnée
+
+* 🎁index
+- [x] changement de la base de donnée usere
+
+

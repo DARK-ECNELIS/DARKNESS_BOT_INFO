@@ -4,18 +4,28 @@
 
 ### Commands
 
-🛠help🛠
-* help/helpmusic
-=> ajustement pour le module musicale et supresion de l'invitation de Foxxy
+🛠Daily🛠
+- [x] This is a complete item
 
-🛠Module Music🛠
-* all commande
-=> ajustement / optimisation / correction de plusieurs commande
+🛠Claim🛠
+- [x] This is a complete item
+
+🛠Vote🛠
+- [x] This is a complete item
+
+🛠Background🛠
+- [x] This is a complete item
 
 ### Event
 
 * 🩸Client🩸
-=> optimisation
+- [x] This is a complete item
+
+* 🩸GuildMemberAdd🩸
+- [x] This is a complete item
+
+* 🩸GuildMemberRemove🩸
+- [x] This is a complete item
 
 ### Dossier
 

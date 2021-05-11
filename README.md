@@ -13,7 +13,8 @@
 
 🛠Daily🛠
 - [ ] Ajout de la progression
-- [ ] Ajout des items
+- [x] Ajout des items
+- [x] Ajout des paliers
 
 🛠Claim🛠
 - [x] Ajout de la vérification
@@ -32,15 +33,15 @@
 
 * 🩸Client🩸
 - [x] Ajout de l'envoi des informations de guild à TOPGG
-- [ ] Ajout de l'envoi des informations de guild à DISCORD BOT LIST
+- [x] Ajout de l'envoi des informations de guild à DISCORD BOT LIST
 
 * 🩸GuildMemberAdd🩸
 - [x] Édition des informations de guild TOPGG
-- [ ] Édition des informations de guild DISCORD BOT LIST
+- [x] Édition des informations de guild DISCORD BOT LIST
 
 * 🩸GuildMemberRemove🩸
 - [x] Édition des informations de guild TOPGG
-- [ ] Édition des informations de guild DISCORD BOT LIST
+- [x] Édition des informations de guild DISCORD BOT LIST
 
 ### Dossier
 

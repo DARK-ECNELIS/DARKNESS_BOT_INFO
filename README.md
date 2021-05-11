@@ -4,6 +4,9 @@
 
 ### Commands
 
+🛠avatar🛠
+- [x] Correction du format
+
 🛠Nick🛠
 - [x] Ajout de la fonction d'édition
 - [x] Ajout de la barre d'édition

@@ -4,6 +4,9 @@
 
 ### Commands
 
+🛠emojiAdd🛠
+- [x] Ajout de la creation d'emoji via image/url/emoji
+
 🛠avatar🛠
 - [x] Correction du format
 

@@ -61,6 +61,7 @@
 
 * 🎁config
 - [x] Ajout du token TOPGG
+- [x] Ajout du token DISCORD BOT LIST
 
 * 🎁constant
 - [x] Ajout des informations de emojiAdd

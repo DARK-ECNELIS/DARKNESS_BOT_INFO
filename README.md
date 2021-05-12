@@ -18,9 +18,12 @@
 - [x] Ajout de la fonction default
 
 🛠Daily🛠
-- [ ] Ajout de la progression
+- [x] Ajout de la progression
 - [x] Ajout des items
 - [x] Ajout des paliers
+- [x] Correction de la progression
+- [x] Correction des palier
+- [x] Correction de la verification de la date
 
 🛠Claim🛠
 - [x] Ajout de la vérification
@@ -28,7 +31,9 @@
 - [ ] Correction du cooldown
 
 🛠Vote🛠
-- [x] Ajout des liens de vote
+- [x] Ajout du lien de vote top_gg
+- [ ] Ajout du lien de vote discord_bot_list
+- [ ] Ajout du lien de vote ?je m'en rapel plus?
 
 🛠Background🛠
 - [ ] Correction de la mise en forme des images
@@ -55,10 +60,12 @@
 - [x] Ajout du token TOPGG
 
 * 🎁constant
+- [x] Ajout des informations de emojiAdd
 - [x] Ajout des informations de nick
-- [ ] Ajout des informations de vote
+- [x] Ajout des informations de vote
 - [ ] Ajout des informations de claim
-- [ ] Ajout des informations de daily
+- [x] Ajout des informations de daily
+- [x] Ajout des informations de dailystats
 
 * 🎁usere
 - [x] Creation de la base de donnée

@@ -42,6 +42,9 @@
 
 ### Event
 
+* 🩸Message🩸
+- [x] Ajout de la mention pour récupere le prefix
+
 * 🩸Client🩸
 - [x] Ajout de l'envoi des informations de guild à TOPGG
 - [x] Ajout de l'envoi des informations de guild à DISCORD BOT LIST

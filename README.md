@@ -7,6 +7,9 @@
 🛠emojiAdd🛠
 - [x] Ajout de la creation d'emoji via image/url/emoji
 
+🛠emojiAdd🛠
+- [x] Ajout d'explication et exemple suplémentaire
+
 🛠rank🛠
 - [x] Integration de l'image dans un embed
 - [x] Integration de la couleur de l'embed à la couleur d'avatar

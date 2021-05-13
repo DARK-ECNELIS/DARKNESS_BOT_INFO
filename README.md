@@ -4,10 +4,10 @@
 
 ### Commands
 
-🛠emojiAdd🛠
+🛠EmojiAdd🛠
 - [x] Ajout de la creation d'emoji via image/url/emoji
 
-🛠emojiAdd🛠
+🛠Math🛠
 - [x] Ajout d'explication et exemple suplémentaire
 
 🛠rank🛠
@@ -39,17 +39,18 @@
 
 🛠Claim🛠
 - [x] Ajout de la vérification
-- [ ] Ajout du multiplicateur
-- [ ] Correction du cooldown
+- [x] Ajout de la limite de claim
+- [x] Ajout du multiplicateur
+- [x] Correction du cooldown
 
 🛠Vote🛠
 - [x] Ajout du lien de vote top_gg
-- [ ] Ajout du lien de vote discord_bot_list
-- [ ] Ajout du lien de vote ?je m'en rapel plus?
+- [x] Ajout du lien de vote discord_bot_list (.com)
+- [x] Ajout du lien de vote discord_bot_list (.eu)
 
 🛠Background🛠
 - [ ] Correction de la mise en forme des images
-- [ ] Correction de l'avatar phantom
+- [x] Correction de l'avatar phantom
 - [ ] Ajout des prix
 
 ### Event

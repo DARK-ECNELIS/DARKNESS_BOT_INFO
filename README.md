@@ -7,6 +7,10 @@
 🛠emojiAdd🛠
 - [x] Ajout de la creation d'emoji via image/url/emoji
 
+🛠rank🛠
+- [x] Integration de l'image dans un embed
+- [x] Integration de la couleur de l'embed à la couleur d'avatar
+
 🛠avatar🛠
 - [x] Correction du format
 
@@ -24,6 +28,11 @@
 - [x] Correction de la progression
 - [x] Correction des palier
 - [x] Correction de la verification de la date
+
+🛠Dailystats🛠
+- [x] Ajout de la progression
+- [x] Integration de la progression dans un embed
+- [x] Correction du format de l'image de la progression trop gourmande
 
 🛠Claim🛠
 - [x] Ajout de la vérification

@@ -4,6 +4,10 @@
 
 ### Commands
 
+🛠help🛠
+- [x] Ajout des différente modification
+
+
 🛠EmojiAdd🛠
 - [x] Ajout de la creation d'emoji via image/url/emoji
 
@@ -71,6 +75,7 @@
 * 🩸Client🩸
 - [x] Ajout de l'envoi des informations de guild à TOPGG
 - [x] Ajout de l'envoi des informations de guild à DISCORD BOT LIST
+- [ ] Ajout de l'annonce de l'upate
 
 * 🩸GuildMemberAdd🩸
 - [x] Édition des informations de guild TOPGG

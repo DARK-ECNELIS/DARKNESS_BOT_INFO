@@ -57,7 +57,6 @@
 🛠Vote🛠
 - [x] Ajout du lien de vote top_gg
 - [x] Ajout du lien de vote discord_bot_list (.com)
-- [x] Ajout du lien de vote discord_bot_list (.eu)
 
 🛠Background🛠
 - [ ] Correction de la mise en forme des images
@@ -76,6 +75,7 @@
 * 🩸GuildMemberAdd🩸
 - [x] Édition des informations de guild TOPGG
 - [x] Édition des informations de guild DISCORD BOT LIST
+- [x] Ajout des paramètre de l'autoRole
 
 * 🩸GuildMemberRemove🩸
 - [x] Édition des informations de guild TOPGG
@@ -91,14 +91,15 @@
 - [x] Ajout des informations de emojiAdd
 - [x] Ajout des informations de nick
 - [x] Ajout des informations de vote
-- [ ] Ajout des informations de claim
+- [x] Ajout des informations de claim
 - [x] Ajout des informations de daily
 - [x] Ajout des informations de dailystats
 
 * 🎁usere
 - [x] Creation de la base de donnée
 
+* 🎁config
+- [x] Ajout des paramètre de l'autoRole
+
 * 🎁index
 - [x] changement de la base de donnée usere
-
-

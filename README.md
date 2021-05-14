@@ -10,6 +10,17 @@
 🛠Math🛠
 - [x] Ajout d'explication et exemple suplémentaire
 
+🛠setting🛠
+- [x] Ajout de la fonction autoRole
+- [x] Integration du on/off à autoRole
+
+🛠config🛠
+- [x] Ajout de la fonction autoRole
+- [x] Integration du on/off à autoRole
+
+🛠configList🛠
+- [x] Ajout de la description de l'autoRole
+
 🛠rank🛠
 - [x] Integration de l'image dans un embed
 - [x] Integration de la couleur de l'embed à la couleur d'avatar

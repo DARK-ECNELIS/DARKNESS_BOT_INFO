@@ -20,7 +20,7 @@
 🛠Background🛠
 - [ ] Correction de la mise en forme des images
 - [ ] Ajout des prix
-- [x] Ajout du Srping update insi qu'une nouvealle cathegorie
+- [x] Ajout du Spring update insi qu'une nouvealle cathegorie
 
 ### Dossier
 

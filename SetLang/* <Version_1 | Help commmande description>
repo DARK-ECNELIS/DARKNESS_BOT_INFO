@@ -1,0 +1,379 @@
+{
+  "languages": ["FR-fr", "EN-en"],
+  "translations": {
+    "THE_SUM_IS": {
+      "FR-fr": "Le chasseur",
+      "EN-en": "The hunter"
+    },
+    "DIRECTMESSAGE": {
+      "FR-fr": "Envoyer un DM à un utilisateur",
+      "EN-en": "Send a DM to a user"
+    },
+    "EVAL": {
+      "FR-fr": "Renvoie un code JavaScript testé",
+      "EN-en": "Returns a JavaScript code tested"
+    },
+    "GUILD": {
+      "FR-fr": "Renvoie les guildes auxquelles appartient le bot",
+      "EN-en": "Returns the guilds to which the bot belongs"
+    },
+    "LEAVEGUILD": {
+      "FR-fr": "Quitté une guilde",
+      "EN-en": "Left a guild"
+    },
+    "RESTART": {
+      "FR-fr": "re démarrer le bot",
+      "EN-en": "re start the bot"
+    },
+    "TEST": {
+      "FR-fr": "Commande de test",
+      "EN-en": "Test command"
+    },
+
+    
+    "CONFIG": {
+      "FR-fr": "Changer la base de données",
+      "EN-en": "Change the database"
+    },
+    "CONFIGLIST": {
+      "FR-fr": "Renvoie la liste des paramètres de la commande **config** et leur utilitaire",
+      "EN-en": "Returns the list of the parameters of the command **config** and their utility"
+    },
+    "SETLANG": {
+      "FR-fr": "Définir la langue utilisée par le bot",
+      "EN-en": "Define the language Use by the bot"
+    },
+    "SETTING": {
+      "FR-fr": "Renvoie les paramètres actuels du serveur \n peut être modifié avec la commande **config**",
+      "EN-en": "Returns the current settings of the server \n can be modified with the command **config**"
+    },
+
+
+    "HELP": {
+      "FR-fr": "Renvoie une liste de commandes ou d'informations sur une",
+      "EN-en": "Returns a list of commands or information on one"
+    },
+    "HELPMUSIC": {
+      "FR-fr": "Renvoie une liste de commandes musicales",
+      "EN-en": "Returns a list of musical commands"
+    },
+
+    
+    "ANIMEME": {
+      "FR-fr": "Renvoie un meme d'animé",
+      "EN-en": "Return an anime meme"
+    },
+    "CAT": {
+      "FR-fr": "Retourne une image de chat",
+      "EN-en": "Returns a cat image"
+    },
+    "CRY": {
+      "FR-fr": "Pleurez",
+      "EN-en": "Cry"
+    },
+    "CUDDLE": {
+      "FR-fr": "Câliner",
+      "EN-en": "Cuddle"
+    },
+    "DOG": {
+      "FR-fr": "Renvoie une image de chien",
+      "EN-en": "Returns a dog image"
+    },
+    "FOX": {
+      "FR-fr": "Renvoie une image de renard",
+      "EN-en": "Returns a fox image"
+    },
+    "HUG": {
+      "FR-fr": "Étreinte",
+      "EN-en": "Hug"
+    },
+    "KISS": {
+      "FR-fr": "Embrasser",
+      "EN-en": "Kiss"
+    },
+    "KITSUNE": {
+      "FR-fr": "Renvoie une image d'une Kitsune",
+      "EN-en": "Returns an image of a Kitsune"
+    },
+    "LOVECALL": {
+      "FR-fr": "Test de compatibilité",
+      "EN-en": "Compatibility test"
+    },
+    "MEME": {
+      "FR-fr": "Renvoie un meme",
+      "EN-en": "Returns a meme"
+    },
+    "NEKO": {
+      "FR-fr": "Renvoie une image de Neko",
+      "EN-en": "Returns a Neko image"
+    },
+    "PAT": {
+      "FR-fr": "Tapoter",
+      "EN-en": "Pat"
+    },
+    "PUNCH": {
+      "FR-fr": "Frappé",
+      "EN-en": "Hit"
+    },
+    "SLAP": {
+      "FR-fr": "Giflez",
+      "EN-en": "Slap"
+    },
+    "SMUG": {
+      "FR-fr": "Suffisant(e)",
+      "EN-en": "Smug"
+    },
+    "WAIFU": {
+      "FR-fr": "Rien à dire",
+      "EN-en": "Nothing to say"
+    },
+    "WINK": {
+      "FR-fr": "Faire un clin d'œil",
+      "EN-en": "Wink"
+    },
+
+    
+    "EIGHTBALL": {
+      "FR-fr": "Répond à une question || Enfin essaye ||",
+      "EN-en": "Answers a question || Finally try ||"
+    },
+    "AVATAR": {
+      "FR-fr": "Renvoie votre avatar ou celui d'un utilisateur",
+      "EN-en": "Returns your avatar or that of a user"
+    },
+    "DICE": {
+      "FR-fr": "Renvoie la valeur d'un ou plusieurs lancements de dés",
+      "EN-en": "Returns the value of one or more launches from dice"
+    },
+    "MIXAVATAR": {
+      "FR-fr": "Fusionne votre avatar ou toute autre personne avec les utilisateurs",
+      "EN-en": "Merges your avatar or any other person with users"
+    },
+    "NICK": {
+      "FR-fr": "Modifiez votre nom élégant\n\n⚠ Pause pendant quelques secondes si le texte est trop long",
+      "EN-en": "Modify your name stylishly\n\n\n⚠ Pause for a few seconds if the text is too long"
+    },
+    "RAINBOW": {
+      "FR-fr": "Changer la couleur d'un rôle toutes les x secondes",
+      "EN-en": "Change the color of a role all x seconds"
+    },
+    "SAY": {
+      "FR-fr": "Répétez le message",
+      "EN-en": "Repeat the message"
+    },
+
+    
+    "BOTINFO": {
+      "FR-fr": "Renvoie des informations sur le bot et plus encore",
+      "EN-en": "Returns information about the bot and more"
+    },
+    "PING": {
+      "FR-fr": "Renvoie les informations de connexion",
+      "EN-en": "Returns the login information"
+    },
+    "ROLEINFO": {
+      "FR-fr": "Renvoie les informations sur un rôle",
+      "EN-en": "Returns information about a role"
+    },
+    "SERVERINFO": {
+      "FR-fr": "Renvoie des informations sur le serveur",
+      "EN-en": "Returns information on the server"
+    },
+    "USERINFO": {
+      "FR-fr": "Renvoie les informations d'un utilisateur mentionné ou vos informations",
+      "EN-en": "Returns the information from a user mentioned or your information"
+    },
+
+
+    "BAN": {
+      "FR-fr": "Bannir un utilisateur",
+      "EN-en": "Ban a user"
+    },
+    "EMOJIADD": {
+      "FR-fr": "Ajouter un emoji via un lien ou un fichier",
+      "EN-en": "Add an emoji via a link or file"
+    },
+    "KICK": {  
+      "FR-fr": "Expulser un utilisateur",
+      "EN-en": "Kick a user"
+    },
+    "MUTE": {  
+      "FR-fr": "Rendre un utilisateur muet",
+      "EN-en": "Mute a user"
+    },
+    "PRUNE": {  
+      "FR-fr": "Purger un certain nombre de message spécifié sur un utilisateur spécifié",
+      "EN-en": "Purging a number of message specified on a specified user"
+    },
+    "PURGE": {  
+      "FR-fr": "Purger un nombre spécifié de messages",
+      "EN-en": "Purging a specified number of messages"
+    },
+    "REPORT": {  
+      "FR-fr": "Signaler un utilisateur au personnel du serveur",
+      "EN-en": "Report a user to server staff"
+    },
+    "UNBAN": {  
+      "FR-fr": "Débannir un utilisateur",
+      "EN-en": "Unban a user"
+    },
+    "UNMUTE": {  
+      "FR-fr": "Rendre à un utilisateur la parole",
+      "EN-en": "Unmute a user"
+    },
+
+    
+    "CLIP": {
+      "FR-fr": "Ecouter une lecture privée du bot",
+      "EN-en": "Listen to a private reading of the bot"
+    },
+    "CLIPS": {
+      "FR-fr": "Liste des lecture privée du bot",
+      "EN-en": "List of private reading of the bot"
+    },
+    "LOOP": {
+      "FR-fr": "Jouer la file d'attente de boucle",
+      "EN-en": "Play the loop queue"
+    },
+    "LYRICS": {
+      "FR-fr": "Recherche les paroles d'une musique\n⚠️ Pour améliorer la recherche àjouter le nom de l'auteur",
+      "EN-en": "Search the lyrics of music\n⚠️ To improve the search to add the name of the author"
+    },
+    "MOVE": {
+      "FR-fr": "Déplacez les chansons de la file d'attente",
+      "EN-en": "Move the songs from the queue"
+    },
+    "NOWPLAYING": {
+      "FR-fr": "Voir le temps restant sur la musique jouée",
+      "EN-en": "See the remaining time on the music played"
+    },
+    "PAUSE": {
+      "FR-fr": "Pause de la musique en cour de lecture",
+      "EN-en": "Pause of music in the reading courtyard"
+    },
+    "PLAY": {
+      "FR-fr": "Écoutez de la musique de YouTube ou SoundCloud",
+      "EN-en": "Listen to music from YouTube or SoundCloud"
+    },
+    "PLAYLIST": {
+      "FR-fr": "Écoutez une playlist venant de YouTube",
+      "EN-en": "Listen to a playlist coming from YouTube"
+    },
+    "QUEUE": {
+      "FR-fr": "Voir la file d'attente et la musique jouée",
+      "EN-en": "View the queue and music being played"
+    },
+    "REMOVE": {
+      "FR-fr": "Supprimer une musique de la file d'attente",
+      "EN-en": "Delete a music from the queue"
+    },
+    "RESUME": {
+      "FR-fr": "Reprendre la lecture de la musique actuelle",
+      "EN-en": "Resume reading the current music"
+    },
+    "SEARCH": {
+      "FR-fr": "Rechercher et sélectionner des vidéos à écouter",
+      "EN-en": "Search and select videos to listen"
+    },
+    "SHUFFLE": {
+      "FR-fr": "Mélanger la file d'attente",
+      "EN-en": "Mix the queue"
+    },
+    "SKIP": {
+      "FR-fr": "Passer la musique actuellement jouer",
+      "EN-en": "Pass the music Currently Play"
+    },
+    "SKIPTO": {
+      "FR-fr": "Passer au numéro de la file d'attente sélectionné",
+      "EN-en": "Switch to the selected queue number"
+    },
+    "STOP": {
+      "FR-fr": "Arrêter la lecture",
+      "EN-en": "Stop playback"
+    },
+    "VOLUME": {
+      "FR-fr": "Changez le volume de la musique en cours de lecture\n⚠️ Volume par défaut 50%",
+      "EN-en": "Change the volume of the music being played\n⚠️ default volume 50%"
+    },
+
+    
+    "AVATARCOLOR": {  
+      "FR-fr": "changer la couleur de fond",
+      "EN-en": "change the background color"
+    },
+    "BACKGROUND0": {  
+      "FR-fr": "Accéder à l'ancienne version de l'arrière-plan",
+      "EN-en": "Access the old version of the background"
+    },
+    "BACKGROUND": {  
+      "FR-fr": "Changer le fond du `rang`",
+      "EN-en": "Change the bottom of the rank"
+    },
+    "BARRECOLOR": {  
+      "FR-fr": "Changer la couleur de la barre de profil",
+      "EN-en": "Change the color of the profile bar"
+    },
+    "LEADERBOARD": {  
+      "FR-fr": "Classification de l'expérience d'utilisateur sur le serveur",
+      "EN-en": "User experience Classification on the server"
+    },
+    "RANK": {  
+      "FR-fr": "Renvoie les statistiques des utilisateurs",
+      "EN-en": "Returns user statistics"
+    },
+    
+
+    "SETTICKET": {  
+      "FR-fr": "Configurer le système de ticket",
+      "EN-en": "Configure the ticket system"
+    },
+    "CLOSE": {  
+      "FR-fr": "Fermer un ticket",
+      "EN-en": "Close a ticket"
+    },
+    
+
+    "POLL": {  
+      "FR-fr": "Faire un sondage",
+      "EN-en": "Take a survey"
+    },
+    "MATH": {  
+      "FR-fr": "Exécuter un calcul mathématique\n\nEx: `$math (2/3-100*4) - (23*2/3) + 1`",
+      "EN-en": "Execute a mathematical calculation\n\nEx: `$math (2/3-100*4) - (23*2/3) + 1`"
+    },
+
+
+    "BUG": {  
+      "FR-fr": "Signaler un bug au développeur du bot",
+      "EN-en": "Report a bug to the developer of the bot!"
+    },
+    "CLAIM": {  
+      "FR-fr": "Récupéré votre vote récompense sur top_gg ou la liste des bots de discordation (.com)\n⚠️ Vous ne pouvez en revendiquer qu'un à la fois.",
+      "EN-en": "Recovered your vote reward on top_gg or the list of bots of discord (.com)\n⚠️ you can only claim one at a time."
+    },
+    "DAILY": {  
+      "FR-fr": "Récupéré votre récompense quotidienne",
+      "EN-en": "Récupéré votre récompense quotidienne"
+    },
+    "DAILYSTATS": {  
+      "FR-fr": "Voir vos progrès sur la commande de test",
+      "EN-en": "See your progress on `daily`"
+    },
+    "INVITE": {  
+      "FR-fr": "Invitation du Bot et du Server Support",
+      "EN-en": "Invitation of bot and server support"
+    },
+    "SUGGEST": {  
+      "FR-fr": "Suggérer des changements / nouveauté",
+      "EN-en": "Suggest changes / novelty!"
+    },
+    "SUGGESTIMAGE": {  
+      "FR-fr": "Envoyer une image avec une description\n\n**Envoyé une image**\n$suggest [Description de la raison pour laquelle il est nécessaire de l'ajouter au système de fond] (Ajouter le fichier image)\n\nExemple vidéo [lien](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)",
+      "EN-en": "Send an image with a description\n\n**Sent an image**\n$suggest [Description of the reason why it is necessary to add it to the background system] (Add the image file)\n\nVideo example [link](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)"
+    },
+    "VOTE": {  
+      "FR-fr": "voté pour le bot",
+      "EN-en": "voted for the bot"
+    }
+  }
+}

@@ -22,8 +22,8 @@
       "EN-en": "Left a guild"
     },
     "RESTART": {
-      "FR-fr": "re démarrer le bot",
-      "EN-en": "re start the bot"
+      "FR-fr": "redémarrer le bot",
+      "EN-en": "restart the bot"
     },
     "TEST": {
       "FR-fr": "Commande de test",
@@ -50,12 +50,12 @@
 
 
     "HELP": {
-      "FR-fr": "Renvoie une liste de commandes ou d'informations sur une",
-      "EN-en": "Returns a list of commands or information on one"
+      "FR-fr": "Renvoie une liste de commandes ou d'informations sur une commande",
+      "EN-en": "Returns a list of commands or information on one command"
     },
     "HELPMUSIC": {
-      "FR-fr": "Renvoie une liste de commandes musicales",
-      "EN-en": "Returns a list of musical commands"
+      "FR-fr": "Renvoie la liste des commandes musicales",
+      "EN-en": "Returns the list of the musical commands"
     },
 
     
@@ -64,7 +64,7 @@
       "EN-en": "Return an anime meme"
     },
     "CAT": {
-      "FR-fr": "Retourne une image de chat",
+      "FR-fr": "Renvoie une image de chat",
       "EN-en": "Returns a cat image"
     },
     "CRY": {
@@ -108,19 +108,19 @@
       "EN-en": "Returns a Neko image"
     },
     "PAT": {
-      "FR-fr": "Tapoter",
+      "FR-fr": "Caresser",
       "EN-en": "Pat"
     },
     "PUNCH": {
-      "FR-fr": "Frappé",
+      "FR-fr": "Frapper",
       "EN-en": "Hit"
     },
     "SLAP": {
-      "FR-fr": "Giflez",
+      "FR-fr": "Gifler",
       "EN-en": "Slap"
     },
     "SMUG": {
-      "FR-fr": "Suffisant(e)",
+      "FR-fr": "Classe",
       "EN-en": "Smug"
     },
     "WAIFU": {
@@ -134,20 +134,20 @@
 
     
     "EIGHTBALL": {
-      "FR-fr": "Répond à une question || Enfin essaye ||",
-      "EN-en": "Answers a question || Finally try ||"
+      "FR-fr": "Répond à une question || Enfin essaye de le faire ||",
+      "EN-en": "Answers a question || At least try to do it ||"
     },
     "AVATAR": {
-      "FR-fr": "Renvoie votre avatar ou celui d'un utilisateur",
-      "EN-en": "Returns your avatar or that of a user"
+      "FR-fr": "Renvoie votre avatar ou celui d'un utilisateur donné",
+      "EN-en": "Returns your profile picture or that of a given user"
     },
     "DICE": {
       "FR-fr": "Renvoie la valeur d'un ou plusieurs lancements de dés",
-      "EN-en": "Returns the value of one or more launches from dice"
+      "EN-en": "Returns the value of one or more dice roll"
     },
     "MIXAVATAR": {
-      "FR-fr": "Fusionne votre avatar ou toute autre personne avec les utilisateurs",
-      "EN-en": "Merges your avatar or any other person with users"
+      "FR-fr": "Fusionne votre avatar ou toute autre personne avec les utilisateurs donnés",
+      "EN-en": "Merges your avatar or any other person with given users"
     },
     "NICK": {
       "FR-fr": "Modifiez votre nom élégant\n\n⚠ Pause pendant quelques secondes si le texte est trop long",
@@ -186,16 +186,16 @@
 
 
     "BAN": {
-      "FR-fr": "Bannir un utilisateur",
-      "EN-en": "Ban a user"
+      "FR-fr": "Bannir un utilisateur d'une guilde",
+      "EN-en": "Ban a user of a guild"
     },
     "EMOJIADD": {
       "FR-fr": "Ajouter un emoji via un lien ou un fichier",
       "EN-en": "Add an emoji via a link or file"
     },
     "KICK": {  
-      "FR-fr": "Expulser un utilisateur",
-      "EN-en": "Kick a user"
+      "FR-fr": "Expulser un utilisateur d'une guilde",
+      "EN-en": "Kick a user of a guild"
     },
     "MUTE": {  
       "FR-fr": "Rendre un utilisateur muet",
@@ -248,7 +248,7 @@
       "EN-en": "See the remaining time on the music played"
     },
     "PAUSE": {
-      "FR-fr": "Pause de la musique en cour de lecture",
+      "FR-fr": "Pause de la musique en cours de lecture",
       "EN-en": "Pause of music in the reading courtyard"
     },
     "PLAY": {
@@ -280,8 +280,8 @@
       "EN-en": "Mix the queue"
     },
     "SKIP": {
-      "FR-fr": "Passer la musique actuellement jouer",
-      "EN-en": "Pass the music Currently Play"
+      "FR-fr": "Passer à la prochaine musique de la file d'attente",
+      "EN-en": "Skip the current song"
     },
     "SKIPTO": {
       "FR-fr": "Passer au numéro de la file d'attente sélectionné",
@@ -307,19 +307,19 @@
     },
     "BACKGROUND": {  
       "FR-fr": "Changer le fond du `rang`",
-      "EN-en": "Change the bottom of the rank"
+      "EN-en": "Change the background of the rank"
     },
     "BARRECOLOR": {  
       "FR-fr": "Changer la couleur de la barre de profil",
       "EN-en": "Change the color of the profile bar"
     },
     "LEADERBOARD": {  
-      "FR-fr": "Classification de l'expérience d'utilisateur sur le serveur",
-      "EN-en": "User experience Classification on the server"
+      "FR-fr": "Classement de l'expérience d'utilisateur sur le serveur",
+      "EN-en": "User experience leaderboard on the server"
     },
     "RANK": {  
-      "FR-fr": "Renvoie les statistiques des utilisateurs",
-      "EN-en": "Returns user statistics"
+      "FR-fr": "Renvoie vos statistiques ou celles d'un utilisateur donné",
+      "EN-en": "Returns your or a given user’s statistics"
     },
     
 
@@ -335,7 +335,7 @@
 
     "POLL": {  
       "FR-fr": "Faire un sondage",
-      "EN-en": "Take a survey"
+      "EN-en": "Create a survey"
     },
     "MATH": {  
       "FR-fr": "Exécuter un calcul mathématique\n\nEx: `$math (2/3-100*4) - (23*2/3) + 1`",
@@ -348,32 +348,32 @@
       "EN-en": "Report a bug to the developer of the bot!"
     },
     "CLAIM": {  
-      "FR-fr": "Récupéré votre vote récompense sur top_gg ou la liste des bots de discordation (.com)\n⚠️ Vous ne pouvez en revendiquer qu'un à la fois.",
+      "FR-fr": "Récupéré votre vote récompense sur top_gg ou la liste des bots de discord (.com)\n⚠️ Vous ne pouvez en revendiquer qu'un à la fois.",
       "EN-en": "Recovered your vote reward on top_gg or the list of bots of discord (.com)\n⚠️ you can only claim one at a time."
     },
     "DAILY": {  
-      "FR-fr": "Récupéré votre récompense quotidienne",
-      "EN-en": "Récupéré votre récompense quotidienne"
+      "FR-fr": "Récupérer votre récompense quotidienne",
+      "EN-en": "Claim your daily reward"
     },
     "DAILYSTATS": {  
-      "FR-fr": "Voir vos progrès sur la commande de test",
-      "EN-en": "See your progress on `daily`"
+      "FR-fr": "Voir vos progrès sur la commande `daily`",
+      "EN-en": "See your progress on `daily` command"
     },
     "INVITE": {  
       "FR-fr": "Invitation du Bot et du Server Support",
-      "EN-en": "Invitation of bot and server support"
+      "EN-en": "Bot invite and support server links"
     },
     "SUGGEST": {  
-      "FR-fr": "Suggérer des changements / nouveauté",
-      "EN-en": "Suggest changes / novelty!"
+      "FR-fr": "Suggérer des changements / ajouts",
+      "EN-en": "Suggest changes / additions!"
     },
     "SUGGESTIMAGE": {  
-      "FR-fr": "Envoyer une image avec une description\n\n**Envoyé une image**\n$suggest [Description de la raison pour laquelle il est nécessaire de l'ajouter au système de fond] (Ajouter le fichier image)\n\nExemple vidéo [lien](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)",
+      "FR-fr": "Envoyer une image avec une description\n\n**Envoyer une image**\n$suggest [Description de la raison pour laquelle il est nécessaire de l'ajouter au système de fond] (Ajouter le fichier image)\n\nExemple vidéo [lien](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)",
       "EN-en": "Send an image with a description\n\n**Sent an image**\n$suggest [Description of the reason why it is necessary to add it to the background system] (Add the image file)\n\nVideo example [link](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)"
     },
     "VOTE": {  
-      "FR-fr": "voté pour le bot",
-      "EN-en": "voted for the bot"
+      "FR-fr": "Voter pour le bot",
+      "EN-en": "Vote for the bot"
     }
   }
 }

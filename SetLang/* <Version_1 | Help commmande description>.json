@@ -348,8 +348,8 @@
       "EN-en": "Report a bug to the developer of the bot!"
     },
     "CLAIM": {  
-      "FR-fr": "Récupéré votre vote récompense sur top_gg ou la liste des bots de discord (.com)\n⚠️ Vous ne pouvez en revendiquer qu'un à la fois.",
-      "EN-en": "Recovered your vote reward on top_gg or the list of bots of discord (.com)\n⚠️ you can only claim one at a time."
+      "FR-fr": "Récupéré votre vote récompense sur TOP_GG ou la liste des bots de DiscordBotList (.com)\n⚠️ Vous ne pouvez en revendiquer qu'un à la fois.",
+      "EN-en": "Recovered your vote reward on TOP_GG or the list of bots of DiscordBotList (.com)\n⚠️ you can only claim one at a time."
     },
     "DAILY": {  
       "FR-fr": "Récupérer votre récompense quotidienne",

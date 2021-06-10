@@ -1,28 +1,24 @@
 # 👾DARKNESS_BOTS_INFOS👾
 
-## 🤖 Mise à jour DARKNESS V5.8.s01
+## 🤖 Mise à jour DARKNESS V5.8.2 (Langue systeme partie 1)
+
+Patch
 
 ### Commands
 
-🛠help🛠
-- [x] Ajout des différente modification du ticket
+🛠ping/leaderboard🛠
+- [x] ajustement visuel
 
-🛠daily🛠
-- [x] Patch du bug jour -1
-- [x] Ajout d'information suplémentaire
+🛠config🛠
+- [x] rectification de quelque bugs
 
-🛠setticket🛠
-- [x] Ajout de la commande remplacant: 
-  + ticket
-  + tconfig
-  + tsetting
+🛠userInfo🛠
+- [x] Ajustement visuel des role
 
-🛠Background🛠
-- [ ] Correction de la mise en forme des images
-- [ ] Ajout des prix
-- [x] Ajout du Spring update insi qu'une nouvealle cathegorie
 
-### Dossier
+* 🎁Lang sytème
 
-* 🎁constant
-- [x] Ajout et suppresion des informations des commandes de ticket
+Ajout des langue suivante:
+
+  + FR-fr : Français
+  + EN-en : English

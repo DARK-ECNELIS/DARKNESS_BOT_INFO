@@ -6,6 +6,9 @@ Patch
 
 ### Commands
 
+🛠rank🛠
+- [x] Passage en version BETA
+
 🛠setticket🛠
 - [x] ajustement du systeme de langue
 

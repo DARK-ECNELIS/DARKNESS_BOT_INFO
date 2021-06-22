@@ -1,0 +1,945 @@
+{
+  "languages": ["FR-fr", "EN-en"],
+  "languags": ["Français", "English"],
+  "translations": {
+    "DIRECTMESSAGE": {
+      "FR-fr": "Envoyer un DM à un utilisateur",
+      "EN-en": "Send a DM to a user"
+    },
+    "EVAL": {
+      "FR-fr": "Renvoie un code JavaScript testé",
+      "EN-en": "Returns a JavaScript code tested"
+    },
+    "GUILD": {
+      "FR-fr": "Renvoie les guildes auxquelles appartient le bot",
+      "EN-en": "Returns the guilds to which the bot belongs"
+    },
+    "LEAVEGUILD": {
+      "FR-fr": "Quitté une guilde",
+      "EN-en": "Left a guild"
+    },
+    "RESTART": {
+      "FR-fr": "redémarrer le bot",
+      "EN-en": "restart the bot"
+    },
+    "TEST": {
+      "FR-fr": "Commande de test",
+      "EN-en": "Test command"
+    },
+
+    
+    "CONFIG": {
+      "FR-fr": "Changer la base de données",
+      "EN-en": "Change the database"
+    },
+    "CONFIGLIST": {
+      "FR-fr": "Renvoie la liste des paramètres de la commande **config** et leur utilitaire",
+      "EN-en": "Returns the list of the parameters of the command **config** and their utility"
+    },
+    "SETLANG": {
+      "FR-fr": "Définir la langue utilisée par le bot\n\nEx: setlang FR-fr",
+      "EN-en": "Define the language Use by the bot\n\nEx: setlang FR-fr"
+    },
+    "SETTING": {
+      "FR-fr": "Renvoie les paramètres actuels du serveur \n peut être modifié avec la commande **config**",
+      "EN-en": "Returns the current settings of the server \n can be modified with the command **config**"
+    },
+    "LANGLIST": {
+      "FR-fr": "Renvoie la liste des langues disponibles utilisé par le bot",
+      "EN-en": "Returns the list of available languages ​​Use by the bot"
+    },
+
+
+    "HELP": {
+      "FR-fr": "Renvoie une liste de commandes ou d'informations sur une commande",
+      "EN-en": "Returns a list of commands or information on one commande"
+    },
+    "HELPMUSIC": {
+      "FR-fr": "Renvoie la liste des commandes musicales",
+      "EN-en": "Returns the list of the musical commands"
+    },
+    "HELP.INFO.T": {
+      "FR-fr": "`<>` Argument obligatoire, `[]` Argument facultatif",
+      "EN-en": "`<>` Compulsory argument, `[]` Optional argument"
+    },
+    "HELP.INFO.DESC": {
+      "FR-fr": "Description",
+      "EN-en": "Description"
+    },
+    "HELP.INFO.UTILIS": {
+      "FR-fr": "Utilisation",
+      "EN-en": "Utilisation"
+    },
+    "HELP.INFO.ALIAS": {
+      "FR-fr": "Aliases",
+      "EN-en": "Alias"
+    },
+    "!HELP.INFO": {
+      "FR-fr": "n'est pas une commande ou un alias",
+      "EN-en": "is not a command or alias"
+    },
+    "HELP.INFO.FOOTER": {
+      "FR-fr": "Commande info: <obligatoire>  |  [optionnel]  |  (indisponible)",
+      "EN-en": "Info commande: <obligatory>  |  [optional]  |  (unavailable)"
+    },
+
+    
+    "ANIMEME": {
+      "FR-fr": "Renvoie un meme d'animé",
+      "EN-en": "Return an anime meme"
+    },
+    "CAT": {
+      "FR-fr": "Renvoie une image de chat",
+      "EN-en": "Returns a cat image"
+    },
+    "CRY": {
+      "FR-fr": "Pleurez",
+      "EN-en": "Cry"
+    },
+    "CUDDLE": {
+      "FR-fr": "Câliner",
+      "EN-en": "Cuddle"
+    },
+    "DOG": {
+      "FR-fr": "Renvoie une image de chien",
+      "EN-en": "Returns a dog image"
+    },
+    "FOX": {
+      "FR-fr": "Renvoie une image de renard",
+      "EN-en": "Returns a fox image"
+    },
+    "HUG": {
+      "FR-fr": "Étreinte",
+      "EN-en": "Hug"
+    },
+    "KISS": {
+      "FR-fr": "Embrasser",
+      "EN-en": "Kiss"
+    },
+    "KITSUNE": {
+      "FR-fr": "Renvoie une image d'une Kitsune",
+      "EN-en": "Returns an image of a Kitsune"
+    },
+    "LOVECALL": {
+      "FR-fr": "Test de compatibilité",
+      "EN-en": "Compatibility test"
+    },
+    "MEME": {
+      "FR-fr": "Renvoie un meme",
+      "EN-en": "Returns a meme"
+    },
+    "NEKO": {
+      "FR-fr": "Renvoie une image de Neko",
+      "EN-en": "Returns a Neko image"
+    },
+    "PAT": {
+      "FR-fr": "Caresser",
+      "EN-en": "Pat"
+    },
+    "PUNCH": {
+      "FR-fr": "Frapper",
+      "EN-en": "Hit"
+    },
+    "SLAP": {
+      "FR-fr": "Gifler",
+      "EN-en": "Slap"
+    },
+    "SMUG": {
+      "FR-fr": "Classe",
+      "EN-en": "Smug"
+    },
+    "WAIFU": {
+      "FR-fr": "Rien à dire",
+      "EN-en": "Nothing to say"
+    },
+    "WINK": {
+      "FR-fr": "Faire un clin d'œil",
+      "EN-en": "Wink"
+    },
+
+    
+    "EIGHTBALL": {
+      "FR-fr": "Répond à une question || Enfin essaye de le faire ||",
+      "EN-en": "Answers a question || At least try to do it ||"
+    },
+    "AVATAR": {
+      "FR-fr": "Renvoie votre avatar ou celui d'un utilisateur donné",
+      "EN-en": "Returns your profile picture or that of a given user"
+    },
+    "DICE": {
+      "FR-fr": "Renvoie la valeur d'un ou plusieurs lancements de dés",
+      "EN-en": "Returns the value of one or more dice roll"
+    },
+    "MIXAVATAR": {
+      "FR-fr": "Fusionne votre avatar ou toute autre personne avec les utilisateurs donnés",
+      "EN-en": "Merges your avatar or any other person with given users"
+    },
+    "NICK": {
+      "FR-fr": "Modifiez votre nom élégant\n\n⚠ Pause pendant quelques secondes si le texte est trop long",
+      "EN-en": "Modify your name stylishly\n\n\n⚠ Pause for a few seconds if the text is too long"
+    },
+    "RAINBOW": {
+      "FR-fr": "Changer la couleur d'un rôle toutes les x secondes",
+      "EN-en": "Change the color of a role all x seconds"
+    },
+    "SAY": {
+      "FR-fr": "Répétez le message",
+      "EN-en": "Repeat the message"
+    },
+
+    
+    "BOTINFO": {
+      "FR-fr": "Renvoie des informations sur le bot et plus encore",
+      "EN-en": "Returns information about the bot and more"
+    },
+    "PING": {
+      "FR-fr": "Renvoie les informations de connexion",
+      "EN-en": "Returns the login information"
+    },
+    "ROLEINFO": {
+      "FR-fr": "Renvoie les informations sur un rôle",
+      "EN-en": "Returns information about a role"
+    },
+    "SERVERINFO": {
+      "FR-fr": "Renvoie des informations sur le serveur",
+      "EN-en": "Returns information on the server"
+    },
+    "USERINFO": {
+      "FR-fr": "Renvoie les informations d'un utilisateur mentionné ou vos informations",
+      "EN-en": "Returns the information from a user mentioned or your information"
+    },
+
+
+    "BAN": {
+      "FR-fr": "Bannir un utilisateur d'une guilde",
+      "EN-en": "Ban a user of a guild"
+    },
+    "EMOJIADD": {
+      "FR-fr": "Ajouter un emoji via un lien ou un fichier",
+      "EN-en": "Add an emoji via a link or file"
+    },
+    "KICK": {  
+      "FR-fr": "Expulser un utilisateur d'une guilde",
+      "EN-en": "Kick a user of a guild"
+    },
+    "MUTE": {  
+      "FR-fr": "Rendre un utilisateur muet",
+      "EN-en": "Mute a user"
+    },
+    "PRUNE": {  
+      "FR-fr": "Purger un certain nombre de message spécifié sur un utilisateur spécifié",
+      "EN-en": "Purging a number of message specified on a specified user"
+    },
+    "PURGE": {  
+      "FR-fr": "Purger un nombre spécifié de messages",
+      "EN-en": "Purging a specified number of messages"
+    },
+    "REPORT": {  
+      "FR-fr": "Signaler un utilisateur au personnel du serveur",
+      "EN-en": "Report a user to server staff"
+    },
+    "UNBAN": {  
+      "FR-fr": "Débannir un utilisateur",
+      "EN-en": "Unban a user"
+    },
+    "UNMUTE": {  
+      "FR-fr": "Rendre à un utilisateur la parole",
+      "EN-en": "Unmute a user"
+    },
+
+    
+    "CLIP": {
+      "FR-fr": "Ecouter une lecture privée du bot",
+      "EN-en": "Listen to a private reading of the bot"
+    },
+    "CLIPS": {
+      "FR-fr": "Liste des lecture privée du bot",
+      "EN-en": "List of private reading of the bot"
+    },
+    "LOOP": {
+      "FR-fr": "Jouer la file d'attente de boucle",
+      "EN-en": "Play the loop queue"
+    },
+    "LYRICS": {
+      "FR-fr": "Recherche les paroles d'une musique\n⚠️ Pour améliorer la recherche àjouter le nom de l'auteur",
+      "EN-en": "Search the lyrics of music\n⚠️ To improve the search to add the name of the author"
+    },
+    "MOVE": {
+      "FR-fr": "Déplacez les chansons de la file d'attente",
+      "EN-en": "Move the songs from the queue"
+    },
+    "NOWPLAYING": {
+      "FR-fr": "Voir le temps restant sur la musique jouée",
+      "EN-en": "See the remaining time on the music played"
+    },
+    "PAUSE": {
+      "FR-fr": "Pause de la musique en cours de lecture",
+      "EN-en": "Pause of music in the reading courtyard"
+    },
+    "PLAY": {
+      "FR-fr": "Écoutez de la musique de YouTube ou SoundCloud",
+      "EN-en": "Listen to music from YouTube or SoundCloud"
+    },
+    "PLAYLIST": {
+      "FR-fr": "Écoutez une playlist venant de YouTube",
+      "EN-en": "Listen to a playlist coming from YouTube"
+    },
+    "QUEUE": {
+      "FR-fr": "Voir la file d'attente et la musique jouée",
+      "EN-en": "View the queue and music being played"
+    },
+    "REMOVE": {
+      "FR-fr": "Supprimer une musique de la file d'attente",
+      "EN-en": "Delete a music from the queue"
+    },
+    "RESUME": {
+      "FR-fr": "Reprendre la lecture de la musique actuelle",
+      "EN-en": "Resume reading the current music"
+    },
+    "SEARCH": {
+      "FR-fr": "Rechercher et sélectionner des vidéos à écouter",
+      "EN-en": "Search and select videos to listen"
+    },
+    "SHUFFLE": {
+      "FR-fr": "Mélanger la file d'attente",
+      "EN-en": "Mix the queue"
+    },
+    "SKIP": {
+      "FR-fr": "Passer à la prochaine musique de la file d'attente",
+      "EN-en": "Skip the current song"
+    },
+    "SKIPTO": {
+      "FR-fr": "Passer au numéro de la file d'attente sélectionné",
+      "EN-en": "Switch to the selected queue number"
+    },
+    "STOP": {
+      "FR-fr": "Arrêter la lecture",
+      "EN-en": "Stop playback"
+    },
+    "VOLUME": {
+      "FR-fr": "Changez le volume de la musique en cours de lecture\n⚠️ Volume par défaut 50%",
+      "EN-en": "Change the volume of the music being played\n⚠️ default volume 50%"
+    },
+
+    
+    "AVATARCOLOR": {  
+      "FR-fr": "changer la couleur de fond",
+      "EN-en": "change the background color"
+    },
+    "BACKGROUND0": {  
+      "FR-fr": "Accéder à l'ancienne version de l'arrière-plan",
+      "EN-en": "Access the old version of the background"
+    },
+    "BACKGROUND": {  
+      "FR-fr": "Changer le fond du `rang`",
+      "EN-en": "Change the background of the rank"
+    },
+    "BARRECOLOR": {  
+      "FR-fr": "Changer la couleur de la barre de profil",
+      "EN-en": "Change the color of the profile bar"
+    },
+    "LEADERBOARD": {  
+      "FR-fr": "Classement de l'expérience d'utilisateur sur le serveur",
+      "EN-en": "User experience leaderboard on the server"
+    },
+    "RANK": {  
+      "FR-fr": "Renvoie vos statistiques ou celles d'un utilisateur donné",
+      "EN-en": "Returns your or a given user’s statistics"
+    },
+    
+
+    "SETTICKET": {  
+      "FR-fr": "Configurer le système de ticket",
+      "EN-en": "Configure the ticket system"
+    },
+    "CLOSE": {  
+      "FR-fr": "Fermer un ticket",
+      "EN-en": "Close a ticket"
+    },
+    
+
+    "POLL": {  
+      "FR-fr": "Faire un sondage",
+      "EN-en": "Create a survey"
+    },
+    "MATH": {  
+      "FR-fr": "Exécuter un calcul mathématique\n\nEx: `$math (2/3-100*4) - (23*2/3) + 1`",
+      "EN-en": "Execute a mathematical calculation\n\nEx: `$math (2/3-100*4) - (23*2/3) + 1`"
+    },
+
+
+    "BUG": {  
+      "FR-fr": "Signaler un bug au développeur du bot",
+      "EN-en": "Report a bug to the developer of the bot!"
+    },
+    "CLAIM": {  
+      "FR-fr": "Récupéré votre vote récompense sur TOP_GG ou la liste des bots de DiscordBotList (.com)\n⚠️ Vous ne pouvez en revendiquer qu'un à la fois.",
+      "EN-en": "Recovered your vote reward on TOP_GG or the list of bots of DiscordBotList (.com)\n⚠️ you can only claim one at a time."
+    },
+    "DAILY": {  
+      "FR-fr": "Récupérer votre récompense quotidienne",
+      "EN-en": "Claim your daily reward"
+    },
+    "DAILYSTATS": {  
+      "FR-fr": "Voir vos progrès sur la commande `daily`",
+      "EN-en": "See your progress on `daily` command"
+    },
+    "INVITE": {  
+      "FR-fr": "Invitation du Bot et du Server Support",
+      "EN-en": "Bot invite and support server links"
+    },
+    "SUGGEST": {  
+      "FR-fr": "Suggérer des changements / ajouts",
+      "EN-en": "Suggest changes / additions!"
+    },
+    "SUGGESTIMAGE": {  
+      "FR-fr": "Envoyer une image avec une description\n\n**Envoyer une image**\n$suggest [Description de la raison pour laquelle il est nécessaire de l'ajouter au système de fond] (Ajouter le fichier image)\n\nExemple vidéo [lien](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)",
+      "EN-en": "Send an image with a description\n\n**Sent an image**\n$suggest [Description of the reason why it is necessary to add it to the background system] (Add the image file)\n\nVideo example [link](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)"
+    },
+    "VOTE": {  
+      "FR-fr": "voter pour le bot",
+      "EN-en": "vote for the bot"
+    },
+
+
+
+
+    
+    "CONFIG.CHANNEL": {  
+      "FR-fr": "Vous devez mentionner un salon auquel j'ai accès",
+      "EN-en": "You must mention a channel to which I have access"
+    },
+    "CONFIG.PREFIX": {  
+      "FR-fr": "Préfixe actuel",
+      "EN-en": "Current prefix"
+    },
+    "CONFIG.PREFIX.UPDATE": {  
+      "FR-fr": "Préfixe mis à jour",
+      "EN-en": "Prefix updated"
+    },
+    "CONFIG.STAFF": {  
+      "FR-fr": "Rôle actuel du personnel",
+      "EN-en": "Current role of the staff"
+    },
+    "CONFIG.!STAFF": {  
+      "FR-fr": "Vous devez mentionner un rôle",
+      "EN-en": "You must mention a role"
+    },
+    "CONFIG.STAFF.UPDATE": {  
+      "FR-fr": "Rôle du personnel mis à jour",
+      "EN-en": "Role of updated staff"
+    },
+    "CONFIG.AUTOROLE": {  
+      "FR-fr": "Rôle donné à l'arrivée",
+      "EN-en": "Given role on arrival"
+    },
+    "CONFIG.AUTOROLE.ON/OFF": { 
+      "FR-fr": "Le rôle automatique est maintenant",
+      "EN-en": "The automatic role is now"
+    },
+    "CONFIG.AUTOROLE.UPDATE": {  
+      "FR-fr": "Rôle automatique mis à jour",
+      "EN-en": "Automatic role updated"
+    },
+    "CONFIG.LOGS.ON/OFF": { 
+      "FR-fr": "La journalisation est maintenant",
+      "EN-en": "Logging is now"
+    },
+    "CONFIG.LOGS.UPDATE": {  
+      "FR-fr": "Journalisation mise à jour",
+      "EN-en": "Logging updated"
+    },
+    "CONFIG.SANCTION.ON/OFF": { 
+      "FR-fr": "Sanction est maintenant",
+      "EN-en": "Sanction is now"
+    },
+    "CONFIG.SANCTION.UPDATE": {  
+      "FR-fr": "Sanction mise à jour",
+      "EN-en": "Sanction updated"
+    },
+    "CONFIG.WELCOME.ON/OFF": { 
+      "FR-fr": "L'accueil est maintenant",
+      "EN-en": "Welcome is now"
+    },
+    "CONFIG.WELCOME.UPDATE": {  
+      "FR-fr": "L'accueil mise à jour",
+      "EN-en": "Welcome updated"
+    },
+    "CONFIG.EXIT.ON/OFF": { 
+      "FR-fr": "La sortie est maintenant",
+      "EN-en": "Exit is now"
+    },
+    "CONFIG.EXIT.UPDATE": {  
+      "FR-fr": "Sortie mise à jour",
+      "EN-en": "Updated output"
+    },
+    "CONFIG.WELCOME_MESSAGE.ON/OFF": { 
+      "FR-fr": "Le message de bienvenue est maintenant",
+      "EN-en": "Welcome message is now"
+    },
+    "CONFIG.WELCOME_MESSAGE.UPDATE": {  
+      "FR-fr": "Message de bienvenue mise à jour",
+      "EN-en": "Welcome message updated"
+    },
+    "CONFIG.EXIT_MESSAGE.ON/OFF": { 
+      "FR-fr": "Le message de sortie est maintenant",
+      "EN-en": "Output message is now"
+    },
+    "CONFIG.EXIT_MESSAGE.UPDATE": {  
+      "FR-fr": "Message de sortie mis à jour",
+      "EN-en": "Output message updated"
+    },
+    "CONFIG.WELCOME_URL.ON/OFF": { 
+      "FR-fr": "L'URL de bienvenue est maintenant",
+      "EN-en": "Welcome URL is now"
+    },
+    "CONFIG.WELCOME_URL.UPDATE": {  
+      "FR-fr": "L'URL de bienvenue mise à jour",
+      "EN-en": "Updated welcome URL"
+    },
+    "CONFIG.EXIT_URL.ON/OFF": { 
+      "FR-fr": "L'URL de sortie est maintenant",
+      "EN-en": "Output URL is now"
+    },
+    "CONFIG.EXIT_URL.UPDATE": {  
+      "FR-fr": "L'URL de sortie mise à jour",
+      "EN-en": "Updated output URL"
+    },
+    "CONFIG.XP.ON/OFF": { 
+      "FR-fr": "La progression de la discussion sur le serveur est maintenant",
+      "EN-en": "The progression of the discussion on the server is now"
+    },
+    "CONFIG.XP.UPDATE": {  
+      "FR-fr": "Salon de progression mis à jour",
+      "EN-en": "Updated progress channel"
+    },
+    "CONFIG.POLL.ON/OFF": { 
+      "FR-fr": "Le salon de sondage est maintenant",
+      "EN-en": "Poll channel is now"
+    },
+    "CONFIG.POLL.UPDATE": {  
+      "FR-fr": "Le salon de sondage mise à jour",
+      "EN-en": "Poll channel Update"
+    },
+
+
+    "CONFIG_LIST": {
+      "FR-fr": "`prefix` - Change le prefix du bot.\n`staff` - Stock le rôle du staff.\n`autoRole` - Stock le rôle des nouveaux membres.\n\n`logs` - Stock le salon des logs du serveur.\n\n`sanction` - Stock le salon des sanction lors de l'utilisation des commandes Ban / Munte / Kick / Report etc... .\n\n`welcome/exit` - Stock le canal où le message et l'URL d'arrivée et de sortie sont envoyés.\n\n`welcomeMessage/exitMessage` - Le message envoyez dans le salon d'arrivée et le salon de sortie (ajouter `{USER}` dans votre texte personnalisé pour que le bot le remplace par le nom de l'utilisateur).\n\n`welcomeURL/exitURL` - l'URL de l'image envoyer dans le salon d'arriver et de sortie contenant le nom et l'avatar du membre.\n\n`xpChannel` - Stock le salon dans lequel le message de niveau supérieur est envoyé.\n**⚠️ Si désactivé le bot n'est plus mis à réagir lorsque vous avez passé au niveau supérieur**.\n\n`pollChannel` - Stock le salon dans lequel le bot envoie le sondage effectuer avec la commande **poll**",
+      "EN-en": "`prefix` - Change bot prefix.\n`staff` - Stock the role of staff.\n`autoRole` - Stock the role of new members.\n\n`logs` - Stock the channel logs of the server.\n\n`sanction` - Stock the channel of Sanction when using commands Ban / Munte / Kick / Report etc ... .\n\n`welcome/exit` - Stock the channel where the message and the arrival and output URL are sent.\n\n`welcomeMessage/exitMessage` - The message send in the arrival channel and exit channel (add `{USER}` In your Custom text so that the bot replaces it with the username).\n\n`welcomeURL/exitURL` - The URL of the image send in the channel to arrive and exit containing the name and the avatar of the member.\n\n`xpChannel` - Stock the channel in which the higher level message is sent.\n**⚠️ If deactivated the bot no longer reacted when you have passed at the upper level**.\n\n`pollChannel` - Stock the channel in which the bot sends the poll perform with the **poll** command"
+    },
+
+    "!SET_LANG": {
+      "FR_fr": "Cette langue n'est pas prise en charge.\nUtiliser la commande `pour voir les langues disponibles",
+      "EN-en": "This language is not supported.\nUse the command `langList` to see the languages ​​available"
+    },
+
+    "!SET_LANG_ARGS": {
+      "FR_fr": "Utiliser la commande `langList`",
+      "EN-en": "Use the command `langList`"
+    },
+    "SET_LANG": {
+      "FR-fr": "Nouvelle langue définie!",
+      "EN-en": "New language defined!"
+    },
+
+    "SETTINGS.P": {
+      "FR-fr": "Paramètre actuel",
+      "EN-en": "Current parameter"
+    },
+    "SETTINGS.M": {
+      "FR-fr": "Modération",
+      "EN-en": "Moderation"
+    },
+    "SETTINGS.G": {
+      "FR-fr": "Serveur",
+      "EN-en": "Server"
+    },
+
+    
+    "DARKNESS.BUG": {
+      "FR-fr": "Message envoyé. Merci pour ton aide",
+      "EN-en": "Message sent. Thanks for your help"
+    },
+    
+    "DARKNESS.CLAIM.SEARCH": {
+      "FR-fr": "Recherche de données",
+      "EN-en": "Data search"
+    },
+    "DARKNESS.CLAIM.TOP_GG": {
+      "FR-fr": "Merci pour votre contribution",
+      "EN-en": "thank for your contribution"
+    },
+    "DARKNESS.CLAIM.TOP_GG.BONUS": {
+      "FR-fr": "Le bonus de week-end est actif, vous recevez 2 fois les lots de base",
+      "EN-en": "The weekend bonus is active, you receive 2 times the basic lots"
+    },
+    "!DARKNESS.CLAIM.TOP_GG": {
+      "FR-fr": "Vous n'avez pas voté au cours des 12 dernières heures, vous ne pouvez rien réclamer",
+      "EN-en": "You have not voted in the last 12 hours, you can not claim anything"
+    },
+    "!DARKNESS.CLAIM.DBL.COM": {
+      "FR-fr": "Désolé mais il n'y aura aucune réclamation avec DBL à cause d'un problème technique",
+      "EN-en": "Sorry but there will be no claim with DBL because of some technical problem"
+    },
+
+    "!DARKNESS.DAILY": {
+      "FR-fr": "Création de données",
+      "EN-en": "Data creation"
+    },
+    "DARKNESS.DAILY": {
+      "FR-fr": "Vous avez déjà réclamé votre récompense quotidienne",
+      "EN-en": "You have already claimed your daily reward"
+    },
+
+    "DARKNESS.INVITATION": {
+      "FR-fr": "Invitations",
+      "EN-en": "Invitations"
+    },
+    "DARKNESS.INVITATION.SUPPORT": {
+      "FR-fr": "Support",
+      "EN-en": "Support"
+    },
+
+    "DARKNESS.SUGGEST": {
+      "FR-fr": "Message envoyé. Nous traiterons votre demande",
+      "EN-en": "Message sent. We will process your request"
+    },
+
+    "DARKNESS.SUGGEST_IMAGE": {
+      "FR-fr": "Image envoyée. Nous traiterons votre demande",
+      "EN-en": "Image sent. We will process your request"
+    },
+    "!DARKNESS.SUGGEST_IMAGE": {
+      "FR-fr": "Vous devez intégrer une image à votre message",
+      "EN-en": "You have to integrate an image to your message"
+    },
+
+    "DARKNESS.VOTE": {
+      "FR-fr": "Votes",
+      "EN-en": "Votes"
+    },
+    "DARKNESS.VOTES": {
+      "FR-fr": "Voté pour",
+      "EN-en": "Voted for"
+    },
+
+    "FUN.8BALL": {
+      "FR-fr": ["Oui", "Non", "Peut-être", "Sans aucun doute", "Réfléchie par toi même", "je ne suis pas omniscient ", "Impossible", "jamais", "Je ne peut pas le prédir"],
+      "EN-en": ["Yes", "No", "Perhaps", "Without a doubt", "Reflected by yourself", "I am not omniscient", "Impossible", "never", "I can not predict it"]
+    },
+
+    "FUN.AVATAR": {
+      "FR-fr": "Lien d'avatar",
+      "EN-en": "Avatar link"
+    },
+
+    "FUN.DICE": {
+      "FR-fr": "Voici comment utiliser la commande `<nombres de dé(s)> <nombre de face(s)>`",
+      "EN-en": "Here's how to use the command `<number of dice(s)> <number of face(s)>`"
+    },
+    "!FUN.DICE": {
+      "FR-fr": "Veuillez choisir les numéros conpris entre 0 et 100",
+      "EN-en": "Please choose Conpris numbers between 0 and 100"
+    },
+    "FUN.DICE.R": {
+      "FR-fr": ["Vous avez lancé", "dés de", "face(s) et tu obtiens"],
+      "EN-en": ["You launched", "dice of", "face(s) And you get"]
+    },
+
+    "!FUN.NICK": {
+      "FR-fr": "Désolé je peux changer le propriétaire du serveur",
+      "EN-en": "Sorry I can change the owner of the server"
+    },
+    "FUN.NICK": {
+      "FR-fr": "S'il vous plaît entrer moins de 32 caractères",
+      "EN-en": "Please enter less than 32 characters"
+    },
+
+
+    "INFO.BINFO": {
+      "FR-fr": ["Info", "Mémoire", "Redémarrage", "Version", "Serveurs", "Utilisateurs", "En ligne", "Développeur", "Source", "Support", "Lien de l'avatar"],
+      "EN-en": ["Info", "Memory", "Restart", "Version", "Servers", "Users", "Online", "Developer", "Source", "Support", "Avatar link"]
+    },
+
+    "INFO.PING": {
+      "FR-fr": ["Déconnecté", "Disponible", "Occupé", "Indisponible", "Latence du bot", "Latence de l'API", "Base de données", "Actif", "Maintenance", "Dernier redémarrage", "est actuellement"],
+      "EN-en": ["Disconnected", "Available", "Busy", "Unavailable", "Bot latency", "API latency", "Database", "Active", "Maintenance", "Last restart", "is actually"]
+    },
+
+    "INFO.RINFO": {
+      "FR-fr": ["Désolé mais il semble que quelque chose ne va pas (je ne prends pas en compte le everyone)", "Infos", "Couleur", "Mentionnable", "Position", "Hisser", "Membre(s)", "Créé le", "DD/MM/YYYY | hh:mm"],
+      "EN-en": ["Sorry but it seems that something is wrong (I do not take into account everyone)", "Infos", "Color", "Mentionable", "Position", "Hoist", "Member(s)", "Created the", "MM/DD/YYYY | hh:mm"]
+    },
+
+    "INFO.SINFO": {
+      "FR-fr": ["Aucun", "Faible", "Moyen", "Elevé", "Très élevé", "Propriétaire", "Infos", "Région", "Rôles", "Membre", "Salon", "Catégorie", "Texte", "Vocal", "Premium", "Boost", "Niveau", "Sécurité", "Règles", "Liste d'emoji", "Date d'anniversaire", "DD/MM/YYYY | hh:mm"],
+
+      "EN-en": ["None", "Low", "Medium", "High", "Very high", "Owner", "Infos", "Region", "Roles", "Member", "channel", "Category", "Text", "Voice", "Premium", "Boost", "Level", "Security", "Rules", "Emoji list", "Birthday", "MM/DD/YYYY | hh:mm"]
+    },
+
+    "INFO.UINFO": {
+      "FR-fr": ["Infos", "Bot", "Statut", "Membre", "DD/MM/YYYY | hh:mm", "Rôle(s)", "Créé le"],
+      "EN-en": ["Infos", "Bot", "Status", "Member", "MM/DD/YYYY | hh:mm", "Role (s)", "Created the"]
+    },
+
+
+    "UTILES.MATH": {
+      "FR-fr": ["Entrez un calcul", "Entrez une équation **valide** ou **simple**, les opérations disponibles sont", "Calculatrice", "Équation", "résultat"],
+      "EN-en": ["Enter a calcul", "Enter a **valid** or **simple** equation, the available operations are", "Calculator", "Équation", "result"]
+    },
+
+    "UTILES.POLL": {
+      "FR-fr": ["pollChannel est désactivé", "pollChannel n'est pas configuré", "Sondage", "Vous pouvez envoyer d'autre sondage!", "votre sondage à été envoyé!"],
+      "EN-en": ["pollChannel is disabled", "pollChannel is not configured", "Poll", "You can send another poll!", "Your poll was sent!"]
+    },
+
+
+    "TICKET.SET": {
+      "FR-fr": ["Pour arreter la collection taper `cancel`", "Entrez un titre pour le système de ticket", "Arrêt de la collection", "Réagir avec 🎟️ pour créer un ticket.", "Temps écoulé", "Entrez une description pour le système de ticket"],
+      "EN-en": ["To stop the tape `cancel` collection", "Enter a title for the ticket system", "Stopping the collection", "React with 🎟️ to create a ticket.", "Time elapsed", "Enter a description for the ticket system"]
+    },
+
+
+    "PROFILE.COLOR": {
+      "FR-fr": ["Erreur", "Les formats disponible sont", "Vérifié que", "est disponible **[ici]", "Mise à jour de la couleur"],
+      "EN-en": ["Error", "The available formats are", "Verified that", "is available **[here]", "Color update"]
+    },
+
+    "PROFILE.LEAD": {
+      "FR-fr": ["Classement du serveur", "Niveau"],
+      "EN-en": ["Server ranking", "Level"]
+    },
+
+    "PROFILE.RANK": {
+      "FR-fr": ["Je suis trop puissant pour toi", "Désolé mais je ne prends pas en compte l'un de mes confrères", "Choisissez d'abord un background avec la commande `background` ou `background0`", "Oups j'ai oublié ce que je devais faire, essayez à nouveau."],
+      "EN-en": ["I'm too powerful for you", "Sorry but I do not take into account one of my confreres", "Choose a background first with the command `background` or `background0`", "Oops I forgot what I had to do, try again."]
+    },
+
+
+    "MODERATION.GENERAL": {
+      "FR-fr": ["Aucune raison spécifiée", "L'utilisateur n'existe pas!", "Action", "Raison", "sanctionChannel est actif mais non configuré, pensé à le définir", "logChannel est actif mais non configuré, pensé à le définir"],
+      "EN-en": ["No specified reason", "The user does not exist!", "Action", "Reason", "sanctionChannel is active but not configured, thought to define it", "logChannel is active but not configured, thought to define it"]
+    },
+
+    "MODERATION.MUTE": {
+      "FR-fr": ["l'utilisateur mentionné n'est pas muté!", "n'est plus muté!", "est muté pour", "Temps"],
+      "EN-en": ["The user mentioned is not mutated!", "is no longer mutated!", "is mutated for",  "Time"]
+    },
+
+    "MODERATION.REPORT": {
+      "FR-fr": ["Lien du message", "[Cliquez sur moi!]", "Aucun lien spécifié", "Une sanction est demandée!"],
+      "EN-en": ["Message link", "[Click Me!]", "No link specified", "A sanction is requested!"]
+    },
+
+    "MODERATION.PURGES": {
+      "FR-fr": ["Vous devez spécifier un **nombre** entre 1 et 100!", "Nombre de messages", "Salon", "Aucun message à supprimer sur cet utilisateur (ou cet utilisateur n'existe pas).", "Utilisateur"],
+      "EN-en": ["You have to specify a **number** between 1 and 100!", "Number of messages", "Channel", "No message to delete on this user (or this user does not exist).", "User"]
+    },
+
+    "MODERATION.EMOJIADD": {
+      "FR-fr": ["S'il vous plaît choisissez une image ne dépasse pas 256ko", "Veuillez choisir un lien dont l'image ne dépassent pas les 256ko", "Ajouter avec succès"],
+      "EN-en": ["Please choose an image do not exceed 256Ko", "Please choose a link whose image does not exceed 256KO", "Add successfully"]
+    },
+
+
+    "MUSIC.GENERAL": {
+      "FR-fr": ["Vous devez d'abord rejoindre un canal vocal!", "Il n'y a rien à jouer", "arrête la musique!", "Il n'y a pas de file d'attente."],
+
+      "EN-en": ["You must first join a vocal channel!", "There is nothing to play", "stop the music!", "There is no queue."]
+    },
+
+    "MUSIC.VOL": {
+      "FR-fr": ["Le volume actuel est de", "Veuillez utiliser un numéro pour ajuster le volume.", "Veuillez utiliser un nombre compris entre 0 et 100.", "Volume défini sur"],
+      "EN-en": ["The current volume is", "Please use a number to adjust the volume.", "Please use a number between 0 and 100.", "Volume set to"]
+    },
+
+    "MUSIC.SKIPTO": {
+      "FR-fr": ["La file d'attente ne contient que", "chansons!", "à skip", "musiques"],
+      "EN-en": ["The queue contains only", "songs!", "at skip", "musics"]
+    },
+
+    "MUSIC.SKIP": {
+      "FR-fr": ["Il n'y a rien que je puisse sauter pour vous.", "a skip la musique"],
+      "EN-en": ["There is nothing I could skip for you.", "skip the music"]
+    },
+
+    "MUSIC.SHUF": {
+      "FR-fr": "a mélange la file d'attente",
+      "EN-en": "mixing the queue"
+    },
+
+    "MUSIC.SEARCH": {
+      "FR-fr": ["Un collecteur de messages est déjà actif dans ce canal.", "**Répondez avec le numéro de la chanson que vous souhaitez écouter**", "Résultat pour", "[Cliquez ici pour accéder au lien]"],
+      "EN-en": ["A message collector is already active in this channel.", "**Answer with the number of the song you want to listen to**", "Result for", "[Click here to access the link]"]
+    },
+
+    "MUSIC.RESUME": {
+      "FR-fr": ["reprend la musique!", "La file d'attente n'est pas en pause."],
+      "EN-en": ["resumes music!", "The queue is not paused."]
+    },
+
+    "MUSIC.QUEUE": {
+      "FR-fr": ["Il me manque l'autorisation de gérer les messages ou d'ajouter des réactions", "**Rien ne joue sur ce serveur**", "Page actuelle", "File d'attente de chanson\n", "En cours de lecture"],
+      "EN-en": ["I miss the permission to manage messages or add reactions", "**Nothing plays on this server**", "Current page", "Song Queue\n", "Reading"]
+    },
+
+    "MUSIC.REMOVE": {
+      "FR-fr": ["Vous ne pouvez pas retirer de la queue la musique en cour de lecture", "a rétiré", "de la file d'attente.", "je ne sais pas quoi faire"],
+      "EN-en": ["You can not remove from the tail music in playback yard", "remove", "of the queue.", "I do not know what to do"]
+    },
+
+    "MUSIC.CLIP": {
+      "FR-fr": ["Impossible d'écouter le clip car une file d'attente est active.", "désolé mais une erreur c'est produite"],
+      "EN-en": ["Can not listen to the clip because a queue is active.", "sorry but a mistake it's produced"]
+    },
+
+    "MUSIC.LOOP": {
+      "FR-fr": ["Il n'y a rien à écouter.", "est","**Activé**", "**Désactivé**"],
+      "EN-en": ["There is nothing to listen.", "is","**Activated**", "**Deactivated**"]
+    },
+
+    "MUSIC.LYRICS": {
+      "FR-fr": ["Veuillez entrer le titre d'une musique.\n\nAfin de trouver les bonnes parôles nous avons désactiver la recherche sur la lecture en cour\n\nNous recherchons une liste large afin d'améliorer la recherche Entrez un titre connu ou d'ajouter le nom de l'auteur améliore la recherche.", "Recherche de l'auteur","Recherche du titre", "Recherche des paroles", "Recherche de la couverture", "Profité du karaoké"],
+      "EN-en": ["Please enter the title of a music.\n\nIn order to find the right lyrics We disable research on reading\n\nWe are looking for a wide list so to improve research enter a known title or adding the author's name enhances search", "Author's search","Search title", "Search for lyrics", "Looking for the cover", "Taken from karaoke"]
+    },
+
+    "MUSIC.MOVE": {
+      "FR-fr": ["à été déplacé vers la position", "de la file d'attente."],
+      "EN-en": ["has been moved to the position", "of the queue."]
+    },
+
+    "MUSIC.NOWP": {
+      "FR-fr": ["Il n'y a rien à jouer.", "Lecture en cours", "Temps restant"],
+      "EN-en": ["There is nothing to play.", "Reading in progress", "Remaining time"]
+    },
+
+    "MUSIC.PAUSE": {
+      "FR-fr": ["à mis en pause la musique.", "La file d'attente est déjà en pause."],
+      "EN-en": ["paused the music.", "The queue is already paused."]
+    },
+
+    "MUSIC.PLAY": {
+      "FR-fr": ["Vous devez être dans le même canal que", "Impossible de se connecter au canal vocal, autorisations manquantes", "Aucun contenu n'a pu être trouvé à cette URL.", "Suite à la redirection de l'URL ...", "Impossible de trouver une vidéo associer à cette URL", "Impossible de trouver", "Ajout à la file d'attente", "Ajout de", "Impossible de rejoindre le channel", "Je ne peux pas parler dans ce canal vocal, assurez-vous que j'ai les autorisations appropriées!"],
+      "EN-en": ["You must be in the same channel as", "Can not connect to the voice channel, missing permissions", "No content could be found at this URL.", "Following the redirection of URL ...", "Can not find a video associate with this URL", "Can not find", "Add to the queue", "Add of", "Can not join the channel", "I can not speak in this vocal channel, make sure I have the appropriate permissions!"]
+    },
+
+    "MUSIC.PLAYLIST": {
+      "FR-fr": ["Playlist introuvable", "⌛ récupére la playlist...", "\nListe de lecture supérieure à la limite de caractères...", "à commencé une playlist"],
+      "EN-en": ["Playlist not found", "⌛ Recover the playlist ...", "\nPlaylist superior to the character limit ...", "started a playlist"]
+    },
+
+
+    "MUSIC.PLAY+": {
+      "FR-fr": ["Quitte le canal vocal...", "`❌ La file d'attente est terminée.`", "Lecture en cour", "Vocal", "Salon", "Durée", "Infos supplémentaire", "skip la musique,", "à mis en pause la musique.", "reprend la musique!", "à unmute la musique!", "à mute la musique!", "diminue le volume, le volume est maintenant", "augmente le volume, le volume est maintenant", "Loop est maintenant", "arrête la musique!"],
+      "EN-en": ["Leave the vocal channel ...", "`❌ The queue is complete.`", "Playback", "Vocal", "Channel", "Duration", "Additional Info", "skip music,", "paused the music.", "Resumes music!", "Unmute music!", "Mute music!", "decreases the volume, the volume is now", "increase the volume, the volume is now", "Loop is now", "Stop music!"]
+    },
+
+
+
+    "GENERAL_CHANNEL": {
+      "FR-fr": ["Propriété", "Nom", "Catégorie", "Type", "Position", "Nsfw", "Activé", "Désactivé", "ID", "Permission par défaut autorisé", "Permission par défaut refusé"],
+      "EN-en": ["Property", "Name", "Category", "Type", "Position", "Nsfw", "Activated", "Deactivated", "ID", "Authorized default permission", "Default permission refused"]
+    },
+
+    "CHANNEL_CREATE": {
+      "FR-fr": "Nouveau channel",
+      "EN-en": "New Channel"
+    },
+
+    "CHANNEL_DELETE": {
+      "FR-fr": "Channel supprimé",
+      "EN-en": "Channel deleted"
+    },
+
+    "CHANNEL_UPDATE": {
+      "FR-fr": ["Channel modifié", "Mise à jour"],
+      "EN-en": ["Channel modified", "Update"]
+    },
+
+
+    "GENERAL_EMOJI": {
+      "FR-fr": ["Propriété", "Nom", "ID", "Animé", "Identifient", "URL"],
+      "EN-en": ["Property", "Name", "ID", "Animated", "Identify", "URL"]
+    },
+
+    "EMOJI_CREATE": {
+      "FR-fr": "Ajout d'emoji",
+      "EN-en": "Adding emoji"
+    },
+
+    "EMOJI_DELETE": {
+      "FR-fr": "Emoji supprimé",
+      "EN-en": "Deleted emoji"
+    },
+
+    "EMOJI_UPDATE": {
+      "FR-fr": "Emoji modifié",
+      "EN-en": "Modified emoji"
+    },
+
+
+    "GENERAL_INVITE": {
+      "FR-fr": ["illimité", "Propriété", "Code", "Channel", "Channel_id", "Invite_id", "Temps", "Usage_Max", "Utilisation"],
+      "EN-en": ["unlimited", "Property", "Code", "Channel", "Channel_id", "Invite_id", "Time", "Usage_max", "Usage"]
+    },
+
+    "INVITE_CREATE": {
+      "FR-fr": "Nouvelle invitation",
+      "EN-en": "New invitation"
+    },
+
+    "INVITE_DELETE": {
+      "FR-fr": "Invitation supprimée",
+      "EN-en": "Deleted invitation"
+    },
+
+    "INVITE_UPDATE": {
+      "FR-fr": "Invitation modifié",
+      "EN-en": "Modified invitation"
+    },
+
+
+    "GENERAL_ROLE": {
+      "FR-fr": ["Propriété", "Nom", "Couleur", "Mentionable", "Non", "Oui", "ID", "Permission"],
+
+      "EN-en": ["Property", "Name", "Color", "Mention", "No", "Yes", "ID", "Permission"]
+    },
+
+    "ROLE_CREATE": {
+      "FR-fr": "Nouveau rôle",
+      "EN-en": "New role"
+    },
+
+    "ROLE_DELETE": {
+      "FR-fr": "Rôle supprimé",
+      "EN-en": "Deleted role"
+    },
+
+    "ROLE_UPDATE": {
+      "FR-fr": ["Rôle Modifié", "Mise à jour", "Ancienne permission", "Nouvelle permission"],
+      "EN-en": ["Modified role", "Update", "Old permission", "New permission"]
+    },
+
+
+    "EXIT_MEMBER": {
+      "FR-fr": ["est actif mais non configuré, pensé à le définir", "Un utilisateur est parti", "Nouveau congé", "Membre", "Oups j'ai oublié ce que je devais faire, quand quelqu'un quitte.", "n'existe pas ou je n'ai pas accès"],
+      "EN-en": ["is active but not configured, thought to define it", "A user is gone", "New leave", "Member", "Oops I forgot what I had to do, when someone leaves.", "does not exist or I do not have access"]
+    },
+
+    "WELCOME_MEMBER": {
+      "FR-fr": ["Un utilisateur a rejoint", "autoRole est actif mais pas configurer", "Nouveau venu"],
+      "EN-en": ["A user has joined", "autoRole is active but not configure", "Newcomer"]
+    },
+
+
+    "MESSAGE": {
+      "FR-fr": ["Vous venez de gagner un niveau", "pour plus d'infos", "Vous n'êtes pas autorisé à utiliser cette commande sans l'accord de mon créateur!", "Vous n'avez pas les autorisations pour taper cette commande!", "Nous avons besoin d'arguments pour cette commande", "Voici comment utiliser la commande", "Vous devez mentionner un utilisateur!", "Vous ne pouvez pas utiliser cette commande sur cet utilisateur!", "merci d'attendre", "seconde(s) avant de ré-utiliser la commande", "heure(s) avant de ré-utiliser la commande", "minute(s) avant de ré-utiliser la commande"],
+      "EN-en": ["You have just won a level", "For more info", "You are not allowed to use this command without the agreement of my creator!", "You do not have the permissions to type this order!", "We need arguments for this command", "Here's how to use the command", "You have to mention a user!", "You can not use this command on this user!", "thank you for waiting", "second(s) before re-use the command", "hour(s) before re-use the command", "minute(s) before re-use the command"]
+    },
+
+    "MESSAGE_DELETE/UPDATE": {
+      "FR-fr": ["Message supprimé", "Propriété", "Channel", "Channel_id", "Auteur", "Message", "Message modifié", "Ancien Message", "Nouveau Message", "Lien"],
+      "EN-en": ["Deleted message", "Property", "Channel", "Channel_id", "Author", "Message", "Modified message", "Old message", "Nouveau message", "Link"]
+    }
+  }
+}

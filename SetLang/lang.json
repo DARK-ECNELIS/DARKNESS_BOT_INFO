@@ -2,6 +2,11 @@
   "languages": ["FR-fr", "EN-en"],
   "languags": ["Français", "English"],
   "translations": {
+    "ERROR": {
+      "FR-fr":"Le module musical est temporairement désactivé en attente d'une mise à jour du module YTDL-CORE.\nVous pouvez utiliser le nouveau module avec la commande `together` ou `yt`\n\n⚠ Le module est disponible en français et sera traduit dans la prochaine mise à jour",
+      "EN-en": "The musical module is temporarily disabled waiting for an update of the YTDL-CORE module.\nYou can use the new module with the `together` or` yt` command\n\n⚠ The module is available in French and will be translated in next update"
+    },
+
     "DIRECTMESSAGE": {
       "FR-fr": "Envoyer un DM à un utilisateur",
       "EN-en": "Send a DM to a user"
@@ -399,6 +404,10 @@
     "VOTE": {  
       "FR-fr": "voter pour le bot",
       "EN-en": "vote for the bot"
+    },
+    "YOUTUBE": {  
+      "FR-fr": "Regarder des vidéo Youtube avec vos amis ou jouer à différents jeux",
+      "EN-en": "Watch the YouTube video with your friends or play various games"
     },
 
 

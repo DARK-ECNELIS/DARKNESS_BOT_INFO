@@ -13,6 +13,9 @@ ___
 ### [music]
 > - **[-]** Le module musical à été desactiver en attente d'une second mis à jour du module YTDL-CORE, corrigent la recherche de music, l'envoie des information de cel-ci insi que la correction du song qui n'est pas jouer
 
+### [config]
+> - **[+]** Correction de la configuration des channels vierge de la base de donnée
+
 ### 📄News
 
 ### [together]
@@ -34,6 +37,12 @@ ___
 
 ### [guildDelete]
 > - **[+]** Suppresion des information de la guild dans la base de donnée
+
+### [guildMemberAdd]
+> - **[+]** Modification de l'afichage
+
+### [guildMemberDelete]
+> - **[+]** Modification de l'afichage
 ___
 ### Autre
 

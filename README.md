@@ -1,6 +1,6 @@
 # 👾DARKNESS_BOTS_INFOS👾
 
-## 🤖 Mise à jour DARKNESS V5.8.3 (comming soon)
+## 🤖 Mise à jour DARKNESS V5.8.3
 
 ### Commands
 ___

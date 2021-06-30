@@ -16,6 +16,10 @@ ___
 ### [config]
 > - **[+]** Correction de la configuration des channels vierge de la base de donnée
 
+### [daily]
+> - **[+]** Amélioration et réajustement des gains
+> - **[-]** Supression des anciens gains
+
 ### 📄News
 
 ### [together]

@@ -1,38 +1,56 @@
 # 👾DARKNESS_BOTS_INFOS👾
 
-## 🤖 Mise à jour DARKNESS V5.8.3
+## 🤖 Mise à jour DARKNESS V5.9
 
 ### Commands
 ___
 ### 🛠Patch
 
+### [together]
+> - **[+]** Optimisation du menu
+> - **[+]** Stabilisation de certin jeux
+> - **[+]** Ajout de la possibilité d'utiliser dans plusieur channel together
+> - **[+]** Ajout de la possibilité d'utiliser plusieur together dans le même channel
+> - **[+]** Ajout des paraètre de traduction
+
 ### [rank]
-> - **[+]** Changement du preset `BETA-1` par le preset  `BETA-2`
-> - **[~]** Un système permetant de definir un preset par défault seras bientôt implémenter
+> - **[+]** Fusion des preset `BETA_1` et `BETA_2`
 
-### [music]
-> - **[-]** Le module musical à été desactiver en attente d'une second mis à jour du module YTDL-CORE, corrigent la recherche de music, l'envoie des information de cel-ci insi que la correction du song qui n'est pas jouer
+### [close]
+> - **[+]** Ajout d'un timer de 5sec avant la supresion du ticket
+> - **[+]** Ajout des paramètre de traduction
 
-### [config]
-> - **[+]** Correction de la configuration des channels vierge de la base de donnée
-
-### [daily]
-> - **[+]** Amélioration et réajustement des gains
-> - **[-]** Supression des anciens gains
+### [help]
+> - **[+]** Ajout des nouvelle commande
+> - **[~]** Une update du help sera avenir afin d'être le plus adapté que possible
 
 ### 📄News
 
-### [together]
-> - **[+]** Un nouveau moyen de profité du voc avec vos amis ou en solo
-> - **[-]** Mis à part le `youtube` certainne application seront instable
+### [profile]
+> - **[+]** Consulté vos paramètre personalisé ou celui d'un autre utilisateur
+> - **[+]** Ajoout du statistique suivant:
+  - AFK Message
+  - Total de cash
+  - Total d'image acheté
+  - Total easter-eggs trouvé
+
+### [setprofile]
+> - **[+]** Un nouveau moyen de personalisé les paramètre d'utilisateur
+> - **[+]** Ajout du choix des preset du rank
+> - **[+]** Ajout du custom afk message
 ___
 ### Event
 ___
 ### 🛠Patch
 
 ### [message]
-> - **[+]** Correction de l'execution des commande qui ne se font pas pour les nouveau membre de guild
-> - **[+]** Conversion des seconds du cooldown trop long en minute/heure
+> - **[+]** Correction de la mention du bot
+
+### [guildDelete]
+> - **[+]** Correction de la suppression des data lang de la base de donné
+
+### [ticketReaction]
+> - **[+]** Ajout des paramètre de langue
 
 ### 📄News
 
@@ -53,23 +71,14 @@ ___
 ___
 ### 📄News
 
-### [language]
-> - **[+]** Déplacement de la base afin d'améliorer le temps de réponse au maximum
+### [clickMenu]
+> - **[+]** Ajout d'un menu interactif pour les together
+> - **[+]** Ajout des paramètre de traduction
 
-### [usere]
-> - **[+]** Suppression des dates
-
-### [constant]
-> - **[+]** Ajout des nouvelles configuration
-
-### [lang]
-> - **[+]** Changement des ancienne configuration
 
 __Comming Soon__
 
 - Refonte/Optimisation des backgrouds + ajout d'un shop
 - Refonte/Ajout de preset quand un membre rejoind ou quite la guild
-- Traduction du module `together`
-- Traduction des logs ticket
 - Ajout d'un système économic
 - Refonte du `help`

@@ -347,9 +347,17 @@
       "FR-fr": "Classement de l'expérience d'utilisateur sur le serveur",
       "EN-en": "User experience leaderboard on the server"
     },
+    "PROFILE": {  
+      "FR-fr": "Consulter vos paramètres ou celle d'un autre membre",
+      "EN-en": "Consult your parameters or that of another member"
+    },
     "RANK": {  
       "FR-fr": "Renvoie vos statistiques ou celles d'un utilisateur donné",
       "EN-en": "Returns your or a given user’s statistics"
+    },
+    "SETPROFILE": {  
+      "FR-fr": "Configurez vos paramètres",
+      "EN-en": "Configure your settings"
     },
     
 
@@ -360,6 +368,14 @@
     "CLOSE": {  
       "FR-fr": "Fermer un ticket",
       "EN-en": "Close a ticket"
+    },
+    "TICKETADD": {  
+      "FR-fr": "Ajouter un membre au ticket",
+      "EN-en": "Add a member to the ticket"
+    },
+    "TICKETREMOVE": {  
+      "FR-fr": "Supprimer un membre du ticket",
+      "EN-en": "Remove a member of the ticket"
     },
     
 
@@ -384,10 +400,6 @@
     "DAILY": {  
       "FR-fr": "Récupérer votre récompense quotidienne",
       "EN-en": "Claim your daily reward"
-    },
-    "DAILYSTATS": {  
-      "FR-fr": "Voir vos progrès sur la commande `daily`",
-      "EN-en": "See your progress on `daily` command"
     },
     "INVITE": {  
       "FR-fr": "Invitation du Bot et du Server Support",
@@ -708,6 +720,21 @@
       "EN-en": ["To stop the tape `cancel` collection", "Enter a title for the ticket system", "Stopping the collection", "React with 🎟️ to create a ticket.", "Time elapsed", "Enter a description for the ticket system"]
     },
 
+    "TICKET.CLOSE": {
+      "FR-fr": ["🗑️ | Ticket Fermé", "L'auteur du ticket à procédé à la fermeture de celui-ci.", "Informations", "**Utilisateur :**", "Le rôle `Staff` n'existe pas, veuillez le configuré.", "Un membre ayant le rôle", "a supprimé un ticket de force.", "a forcé la fermeture de votre ticket.", "a demandé la fermeture du ticket.", "Désolé, vous n'avez pas le rôle", "📥 | Ticket Fermé", "🗑️| Demande de Fermeture", "🎟️ | Ticket Terminé", "Réagissez avec \\🗑️ pour fermer le ticket ou ne réagissez pas si vous avez d'autres demandes.", "Fermeture du ticket dans 5sec"],
+      "EN-en": ["🗑️ | Closed Ticket", "The author of the ticket has closed it.", "Informations", "**User :**", "The role `staff` does not exist, please configure.", "A member with the role", "Deleted a force ticket.", "forced the closing of your ticket.", "asked for closing the ticket.", "Sorry, you do not have the role", "📥 | Closed Ticket", "🗑️| Closing request", "🎟️ | Ticket finished", "React with \\🗑️ To close the ticket or do not react if you have other requests.", "Closing the ticket in 5sec"]
+    },
+
+    "TICKET.ADD": {
+      "FR-fr": ["Impossible de trouver cet utilisateur", "vient d'ajouter", "au ticket"],
+      "EN-en": ["Can not find this user", "just added", "ticket"]
+    },
+
+    "TICKET.REMOVE": {
+      "FR-fr": ["Impossible de trouver cet utilisateur", "vient de retirer", "au ticket"],
+      "EN-en": ["Can not find this user", "has just removed", "ticket"]
+    },
+
 
     "PROFILE.COLOR": {
       "FR-fr": ["Erreur", "Les formats disponible sont", "Vérifié que", "est disponible **[ici]", "Mise à jour de la couleur"],
@@ -844,6 +871,12 @@
     },
 
 
+    "TOGETHER.TOGETHER": {
+      "FR-fr": ["Désolé, mais vous êtes invisible, je ne peux pas vérifier certains paramètres et vous permettre d'exécuter cette commande.", "Cette fonctionnalité n'est pas disponible pour les utilisateurs mobiles", "Regarder youtube vidéos", "Lancé un partie de pêche", "Lancer Betrayal.io", "Lancer un jeu d'échecs", "Lancer une partie de poker", "Cliquez sur moi!"],
+      "EN-en": ["Sorry, but you are invisible, I can not check some settings and allow you to run this command.", "This feature is not available for mobile users", "Watch youtube videos", "Launched a fishing party", "Launch betrayal.io", "Launch a chess game", "Launch a poker part", "Click Me!"]
+    },
+
+
 
     "GENERAL_CHANNEL": {
       "FR-fr": ["Propriété", "Nom", "Catégorie", "Type", "Position", "Nsfw", "Activé", "Désactivé", "ID", "Permission par défaut autorisé", "Permission par défaut refusé"],
@@ -949,6 +982,18 @@
     "MESSAGE_DELETE/UPDATE": {
       "FR-fr": ["Message supprimé", "Propriété", "Channel", "Channel_id", "Auteur", "Message", "Message modifié", "Ancien Message", "Nouveau Message", "Lien"],
       "EN-en": ["Deleted message", "Property", "Channel", "Channel_id", "Author", "Message", "Modified message", "Old message", "Nouveau message", "Link"]
+    },
+
+
+    "MESSAGE_REACTION": {
+      "FR-fr": ["⛔ | Éh non ..", "Vous pouvez avoir qu'un seul ticket d'ouvert à la fois.", "🎟️ | Système de Ticket", "Veuillez expliquer la raison de votre demande. Un membre de l'équipe prendra en charge votre ticket sous peu.", "Le staff a besoin de ce rôle pour voir les tickets.", "S'il vous plaît, veuillez réagir une nouvelle fois au message de création de ticket.", "Cet utilisateur a besoin d'aide.", "📝 | Ticket Ouvert", "Un utilisateur à ouvert un ticket et attend qu'on s'occupe de sa demande.", "**Utilisateur :**", "L'auteur a confirmé la fermeture du ticket."],
+      "EN-en": ["⛔ | Ish no ..", "You can have only one ticket from open at a time.", "🎟️ | Ticket system", "Please explain the reason for your request. A member of the team will take care of your ticket shortly.", "Staff needs this role to see tickets.", "Please, please react again to the ticket creation message.", "This user needs help.", "📝 | Open ticket", "A user opens a ticket and waits for his request.", "**User :**", "The author confirmed the closure of the ticket."]
+    },
+
+
+    "BUTTON_CLICKMENU": {
+      "FR-fr": ["Cliquez ici", "Pour commencer l'activité", "dans"],
+      "EN-en": ["Click here", "To start the activity", "in"]
     }
   }
 }

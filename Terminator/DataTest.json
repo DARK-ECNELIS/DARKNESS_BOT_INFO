@@ -1,0 +1,109 @@
+{
+  "name": {
+    "nav": "『NAVIGATION』",
+    "game" : "『GAMING』",
+    "anime": "『ANIME』",
+    "fan-art": "『Fan-Art』",
+    "natural": "『Natural』",
+    "art": "『ART』",
+    "censored": "『CENSORED』"
+  },
+  "title": {
+    "event": {
+      "Nouvel an": [],
+      "Saint-Valentin": [],
+      "Pâques": [],
+      "Saint-Patrick": [],
+      "Poisson d'avril": [],
+      "Halloween": [],
+      "Noël": []
+    },
+    "game": {
+      "gameName": ["imageURL"],
+      "OSU": ["imageURL"],
+      "BrawlStars": [
+        { "channelID": ""},
+        { "code": { "index": "", "num": 0 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 1 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 2 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 3 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 4 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 5 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 6 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 7 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 8 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 9 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 10 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 11 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+        { "code": { "index": "", "num": 12 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } }
+    ]
+    },
+    "anime": {
+      "animeName": {
+        "persoName": ["imageURL"]
+      },
+      "ThePromisedNeverland": {
+        "Emma": ["imageURL"],
+        "Norman": ["imageURL"],
+        "Ray": ["imageURL"],
+        "Isabella": ["imageURL"],
+        "Krone": ["imageURL"],
+        "Gilda": ["imageURL"],
+        "Don": ["imageURL"]
+      },
+      "MyHeroAcademia": {
+        "Deku": ["imageURL"]
+      },
+      "NanatsuNoTaizai": {
+        "Meliodas": ["imageURL"],
+        "Elizabeth": ["imageURL"]
+      }
+    },
+    "fan-art": {
+      "Gawr Gura" :["imageURL"]
+    },
+    "natural": {
+      "fourElement": {
+        "fire": ["URL"],
+        "earth": ["URL"],
+        "water": ["URL"],
+        "wind": ["URL"]
+      },
+      "environment": {
+        "plain": ["URL"],
+        "mountain": ["URL"],
+        "ocean": ["URL"],
+        "desert": ["URL"],
+        "space": ["URL"]
+      }
+    },
+    "art": ["imageURL"],
+    "censored": ["Comming Soon"]
+  },
+  "embed": {
+    "author": {
+      "name": "message.guild.me.user.username",
+      "icon_url": "message.guild.me.user.displayAvatarURL({ dynamic: true })"
+    },
+    "footer": {
+      "icon_url": "message.author.displayAvatarURL({ dynamic: true })",
+      "text": "message.author.username"
+    },
+    "description": ["Comming Soon"],
+    "color": {
+      "red": "#FF0000",
+      "orange": "#FF7F00",
+      "yellow": "#EBEB02",
+      "green": "#34C923",
+      "blue": "#0077E6",
+      "purpule": "#9400D3",
+      "white": "FFFFFF",
+      "black": "#000000",
+      "pink": "#FF6699",
+      "brown": "#C35C43",
+      "grey": "#C2C5CC",
+      "beige": "#FAF0E6",
+      "indigo": "#9999FF"
+    }
+  }
+}

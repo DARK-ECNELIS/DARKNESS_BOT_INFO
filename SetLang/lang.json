@@ -1,999 +1,1213 @@
 {
-  "languages": ["FR-fr", "EN-en"],
-  "languags": ["Français", "English"],
+  "languages": ["FR-fr", "EN-en", "ES-es"],
+  "languags": ["Français", "English", "Español"],
   "translations": {
     "ERROR": {
       "FR-fr":"Le module musical est temporairement désactivé en attente d'une mise à jour du module YTDL-CORE.\nVous pouvez utiliser le nouveau module avec la commande `together` ou `yt`\n\n⚠ Le module est disponible en français et sera traduit dans la prochaine mise à jour",
-      "EN-en": "The musical module is temporarily disabled waiting for an update of the YTDL-CORE module.\nYou can use the new module with the `together` or` yt` command\n\n⚠ The module is available in French and will be translated in next update"
+      "EN-en": "The musical module is temporarily disabled waiting for an update of the YTDL-CORE module.\nYou can use the new module with the `together` or` yt` command\n\n⚠ The module is available in French and will be translated in next update",
+      "ES-es": "El módulo musical está temporalmente deshabilitado esperando una actualización del módulo YTDL-CORE.\nPuedes usar el nuevo módulo con el comando. `together` o `yt`\n\n⚠ El módulo está disponible en francés y se traducirá en la próxima actualización."
     },
 
     "DIRECTMESSAGE": {
       "FR-fr": "Envoyer un DM à un utilisateur",
-      "EN-en": "Send a DM to a user"
+      "EN-en": "Send a DM to a user",
+      "ES-es": "Enviar un DM a un usuario"
     },
     "EVAL": {
       "FR-fr": "Renvoie un code JavaScript testé",
-      "EN-en": "Returns a JavaScript code tested"
+      "EN-en": "Returns a JavaScript code tested",
+      "ES-es": "Devuelve un código JavaScript probado"
     },
     "GUILD": {
       "FR-fr": "Renvoie les guildes auxquelles appartient le bot",
-      "EN-en": "Returns the guilds to which the bot belongs"
+      "EN-en": "Returns the guilds to which the bot belongs",
+      "ES-es": "Devuelve los gremios a los que pertenece el bot."
     },
     "LEAVEGUILD": {
       "FR-fr": "Quitté une guilde",
-      "EN-en": "Left a guild"
+      "EN-en": "Left a guild",
+      "ES-es": "Dejó un gremio"
     },
     "RESTART": {
       "FR-fr": "redémarrer le bot",
-      "EN-en": "restart the bot"
+      "EN-en": "restart the bot",
+      "ES-es": "reiniciar"
     },
     "TEST": {
       "FR-fr": "Commande de test",
-      "EN-en": "Test command"
+      "EN-en": "Test command",
+      "ES-es": "Comando de prueba"
     },
 
     
     "CONFIG": {
       "FR-fr": "Changer la base de données",
-      "EN-en": "Change the database"
+      "EN-en": "Change the database",
+      "ES-es": "Cambiar la base de datos"
     },
     "CONFIGLIST": {
       "FR-fr": "Renvoie la liste des paramètres de la commande **config** et leur utilitaire",
-      "EN-en": "Returns the list of the parameters of the command **config** and their utility"
+      "EN-en": "Returns the list of the parameters of the command **config** and their utility",
+      "ES-es": "Devuelve la lista de Configuración de comandos ** config ** y su utilidad"
     },
     "SETLANG": {
-      "FR-fr": "Définir la langue utilisée par le bot\n\nEx: setlang FR-fr",
-      "EN-en": "Define the language Use by the bot\n\nEx: setlang FR-fr"
+      "FR-fr": "Définir la langue utilisée par le bot\n\nExemple: setlang FR-fr",
+      "EN-en": "Define the language Use by the bot\n\nExample: setlang EN-en",
+      "ES-es": "Definir el idioma utilizado por el bot\n\nEjemplo: setlang ES-es"
     },
     "SETTING": {
-      "FR-fr": "Renvoie les paramètres actuels du serveur \n peut être modifié avec la commande **config**",
-      "EN-en": "Returns the current settings of the server \n can be modified with the command **config**"
+      "FR-fr": "Renvoie les paramètres actuels du serveur\npeut être modifié avec la commande **config**",
+      "EN-en": "Returns the current settings of the server\ncan be modified with the command **config**",
+      "ES-es": "Devuelve la configuración actual del servidor\npuede ser modificado con el comando **config**"
     },
     "LANGLIST": {
       "FR-fr": "Renvoie la liste des langues disponibles utilisé par le bot",
-      "EN-en": "Returns the list of available languages ​​Use by the bot"
+      "EN-en": "Returns the list of available languages ​​Use by the bot",
+      "ES-es": "Devuelve la lista de idiomas disponibles usados ​​por el bot."
     },
 
 
     "HELP": {
       "FR-fr": "Renvoie une liste de commandes ou d'informations sur une commande",
-      "EN-en": "Returns a list of commands or information on one commande"
+      "EN-en": "Returns a list of commands or information on one commande",
+      "ES-es": "Devuelve una lista de comandos o información en un comando"
     },
     "HELPMUSIC": {
       "FR-fr": "Renvoie la liste des commandes musicales",
-      "EN-en": "Returns the list of the musical commands"
+      "EN-en": "Returns the list of the musical commands",
+      "ES-es": "Devuelve la lista de los comandos musicales."
     },
     "HELP.INFO.T": {
       "FR-fr": "`<>` Argument obligatoire, `[]` Argument facultatif",
-      "EN-en": "`<>` Compulsory argument, `[]` Optional argument"
+      "EN-en": "`<>` Compulsory argument, `[]` Optional argument",
+      "ES-es": "`<>` Argumento obligatorio, `[]` Argumento opcional"
     },
     "HELP.INFO.DESC": {
       "FR-fr": "Description",
-      "EN-en": "Description"
+      "EN-en": "Description",
+      "ES-es": "Descripción"
     },
     "HELP.INFO.UTILIS": {
       "FR-fr": "Utilisation",
-      "EN-en": "Utilisation"
+      "EN-en": "Utilisation",
+      "ES-es": "usar"
     },
     "HELP.INFO.ALIAS": {
-      "FR-fr": "Aliases",
-      "EN-en": "Alias"
+      "FR-fr": "Alias",
+      "EN-en": "Alias",
+      "ES-es": "Alias"
     },
     "!HELP.INFO": {
       "FR-fr": "n'est pas une commande ou un alias",
-      "EN-en": "is not a command or alias"
+      "EN-en": "is not a command or alias",
+      "ES-es": "no es un comando o alias"
     },
     "HELP.INFO.FOOTER": {
       "FR-fr": "Commande info: <obligatoire>  |  [optionnel]  |  (indisponible)",
-      "EN-en": "Info commande: <obligatory>  |  [optional]  |  (unavailable)"
+      "EN-en": "Info commande: <obligatory>  |  [optional]  |  (unavailable)",
+      "ES-es": "Orden de información: <obligatorio>  |  [Opcional]  |  (indisponible)"
     },
 
     
     "ANIMEME": {
       "FR-fr": "Renvoie un meme d'animé",
-      "EN-en": "Return an anime meme"
+      "EN-en": "Return an anime meme",
+      "ES-es": "Devuelve el mismo animado."
     },
     "CAT": {
       "FR-fr": "Renvoie une image de chat",
-      "EN-en": "Returns a cat image"
+      "EN-en": "Returns a cat image",
+      "ES-es": "Devuelve una imagen de gato"
     },
     "CRY": {
       "FR-fr": "Pleurez",
-      "EN-en": "Cry"
+      "EN-en": "Cry",
+      "ES-es": "Llorar"
     },
     "CUDDLE": {
       "FR-fr": "Câliner",
-      "EN-en": "Cuddle"
+      "EN-en": "Cuddle",
+      "ES-es": "Abrazo"
     },
     "DOG": {
       "FR-fr": "Renvoie une image de chien",
-      "EN-en": "Returns a dog image"
+      "EN-en": "Returns a dog image",
+      "ES-es": "Devuelve una imagen de perro"
     },
     "FOX": {
       "FR-fr": "Renvoie une image de renard",
-      "EN-en": "Returns a fox image"
+      "EN-en": "Returns a fox image",
+      "ES-es": "Devuelve una imagen de Fox"
     },
     "HUG": {
       "FR-fr": "Étreinte",
-      "EN-en": "Hug"
+      "EN-en": "Hug",
+      "ES-es": "Abarcar"
     },
     "KISS": {
       "FR-fr": "Embrasser",
-      "EN-en": "Kiss"
+      "EN-en": "Kiss",
+      "ES-es": "Besar"
     },
     "KITSUNE": {
       "FR-fr": "Renvoie une image d'une Kitsune",
-      "EN-en": "Returns an image of a Kitsune"
+      "EN-en": "Returns an image of a Kitsune",
+      "ES-es": "Devuelve una imagen de un kitsune."
     },
     "LOVECALL": {
       "FR-fr": "Test de compatibilité",
-      "EN-en": "Compatibility test"
+      "EN-en": "Compatibility test",
+      "ES-es": "Prueba de compatibilidad"
     },
     "MEME": {
       "FR-fr": "Renvoie un meme",
-      "EN-en": "Returns a meme"
+      "EN-en": "Returns a meme",
+      "ES-es": "Devuelve lo mismo"
     },
     "NEKO": {
       "FR-fr": "Renvoie une image de Neko",
-      "EN-en": "Returns a Neko image"
+      "EN-en": "Returns a Neko image",
+      "ES-es": "Devuelve una imagen de neko"
     },
     "PAT": {
       "FR-fr": "Caresser",
-      "EN-en": "Pat"
+      "EN-en": "Pat",
+      "ES-es": "Caricia"
     },
     "PUNCH": {
       "FR-fr": "Frapper",
-      "EN-en": "Hit"
+      "EN-en": "Hit",
+      "ES-es": "Pegar"
     },
     "SLAP": {
       "FR-fr": "Gifler",
-      "EN-en": "Slap"
+      "EN-en": "Slap",
+      "ES-es": "Gifs"
     },
     "SMUG": {
       "FR-fr": "Classe",
-      "EN-en": "Smug"
+      "EN-en": "Smug",
+      "ES-es": "Suficiente"
     },
     "WAIFU": {
       "FR-fr": "Rien à dire",
-      "EN-en": "Nothing to say"
+      "EN-en": "Nothing to say",
+      "ES-es": "Nada que decir"
     },
     "WINK": {
       "FR-fr": "Faire un clin d'œil",
-      "EN-en": "Wink"
+      "EN-en": "Wink",
+      "ES-es": "Guiño"
     },
 
     
     "EIGHTBALL": {
       "FR-fr": "Répond à une question || Enfin essaye de le faire ||",
-      "EN-en": "Answers a question || At least try to do it ||"
+      "EN-en": "Answers a question || At least try to do it ||",
+      "ES-es": "Responde a una pregunta || Finalmente trata de hacerlo. ||"
     },
     "AVATAR": {
       "FR-fr": "Renvoie votre avatar ou celui d'un utilisateur donné",
-      "EN-en": "Returns your profile picture or that of a given user"
+      "EN-en": "Returns your profile picture or that of a given user",
+      "ES-es": "Devuelve su avatar o el de un usuario determinado"
     },
     "DICE": {
       "FR-fr": "Renvoie la valeur d'un ou plusieurs lancements de dés",
-      "EN-en": "Returns the value of one or more dice roll"
+      "EN-en": "Returns the value of one or more dice roll",
+      "ES-es": "Devuelve el valor de uno o más lanzamientos de dados"
     },
     "MIXAVATAR": {
       "FR-fr": "Fusionne votre avatar ou toute autre personne avec les utilisateurs donnés",
-      "EN-en": "Merges your avatar or any other person with given users"
+      "EN-en": "Merges your avatar or any other person with given users",
+      "ES-es": "Fuma su avatar o cualquier otra persona con los usuarios dados"
     },
     "NICK": {
       "FR-fr": "Modifiez votre nom élégant\n\n⚠ Pause pendant quelques secondes si le texte est trop long",
-      "EN-en": "Modify your name stylishly\n\n\n⚠ Pause for a few seconds if the text is too long"
+      "EN-en": "Modify your name stylishly\n\n\n⚠ Pause for a few seconds if the text is too long",
+      "ES-es": "Modifica tu nombre elegante\n\n⚠ Pausa durante unos segundos si el texto es demasiado largo"
     },
     "RAINBOW": {
       "FR-fr": "Changer la couleur d'un rôle toutes les x secondes",
-      "EN-en": "Change the color of a role all x seconds"
+      "EN-en": "Change the color of a role all x seconds",
+      "ES-es": "Cambiar el color de un papel cada x segundos"
     },
     "SAY": {
       "FR-fr": "Répétez le message",
-      "EN-en": "Repeat the message"
+      "EN-en": "Repeat the message",
+      "ES-es": "Repite el mensaje"
     },
 
     
     "BOTINFO": {
       "FR-fr": "Renvoie des informations sur le bot et plus encore",
-      "EN-en": "Returns information about the bot and more"
+      "EN-en": "Returns information about the bot and more",
+      "ES-es": "Devuelve información sobre el bot y más."
     },
     "PING": {
       "FR-fr": "Renvoie les informations de connexion",
-      "EN-en": "Returns the login information"
+      "EN-en": "Returns the login information",
+      "ES-es": "Devuelve la información de inicio de sesión"
     },
     "ROLEINFO": {
       "FR-fr": "Renvoie les informations sur un rôle",
-      "EN-en": "Returns information about a role"
+      "EN-en": "Returns information about a role",
+      "ES-es": "Devuelve información sobre un papel"
     },
     "SERVERINFO": {
       "FR-fr": "Renvoie des informations sur le serveur",
-      "EN-en": "Returns information on the server"
+      "EN-en": "Returns information on the server",
+      "ES-es": "Devuelve información sobre el servidor."
     },
     "USERINFO": {
       "FR-fr": "Renvoie les informations d'un utilisateur mentionné ou vos informations",
-      "EN-en": "Returns the information from a user mentioned or your information"
+      "EN-en": "Returns the information from a user mentioned or your information",
+      "ES-es": "Devuelve la información de un usuario mencionado o su información"
     },
 
 
     "BAN": {
       "FR-fr": "Bannir un utilisateur d'une guilde",
-      "EN-en": "Ban a user of a guild"
+      "EN-en": "Ban a user of a guild",
+      "ES-es": "Desterrar a un usuario con un gremio"
     },
     "EMOJIADD": {
       "FR-fr": "Ajouter un emoji via un lien ou un fichier",
-      "EN-en": "Add an emoji via a link or file"
+      "EN-en": "Add an emoji via a link or file",
+      "ES-es": "Añadir un Emoji a través de un enlazar o archivo"
     },
-    "KICK": {  
+    "KICK": {
       "FR-fr": "Expulser un utilisateur d'une guilde",
-      "EN-en": "Kick a user of a guild"
+      "EN-en": "Kick a user of a guild",
+      "ES-es": "Expresar a un usuario de un gremio"
     },
-    "MUTE": {  
+    "MUTE": {
       "FR-fr": "Rendre un utilisateur muet",
-      "EN-en": "Mute a user"
+      "EN-en": "Mute a user",
+      "ES-es": "Silencio"
     },
-    "PRUNE": {  
+    "PRUNE": {
       "FR-fr": "Purger un certain nombre de message spécifié sur un utilisateur spécifié",
-      "EN-en": "Purging a number of message specified on a specified user"
+      "EN-en": "Purging a number of message specified on a specified user",
+      "ES-es": "Purgar una serie de mensajes especificados en un usuario específico"
     },
-    "PURGE": {  
+    "PURGE": {
       "FR-fr": "Purger un nombre spécifié de messages",
-      "EN-en": "Purging a specified number of messages"
+      "EN-en": "Purging a specified number of messages",
+      "ES-es": "Purgando un número específico de mensajes"
     },
-    "REPORT": {  
+    "REPORT": {
       "FR-fr": "Signaler un utilisateur au personnel du serveur",
-      "EN-en": "Report a user to server staff"
+      "EN-en": "Report a user to server staff",
+      "ES-es": "Reportar un usuario al personal del servidor"
     },
-    "UNBAN": {  
+    "UNBAN": {
       "FR-fr": "Débannir un utilisateur",
-      "EN-en": "Unban a user"
+      "EN-en": "Unban a user",
+      "ES-es": "Dispensar a un usuario"
     },
-    "UNMUTE": {  
+    "UNMUTE": {
       "FR-fr": "Rendre à un utilisateur la parole",
-      "EN-en": "Unmute a user"
+      "EN-en": "Unmute a user",
+      "ES-es": "Haz un usuario la palabra"
     },
 
     
     "CLIP": {
       "FR-fr": "Ecouter une lecture privée du bot",
-      "EN-en": "Listen to a private reading of the bot"
+      "EN-en": "Listen to a private reading of the bot",
+      "ES-es": "Escuchar una lectura privada del bot."
     },
     "CLIPS": {
       "FR-fr": "Liste des lecture privée du bot",
-      "EN-en": "List of private reading of the bot"
+      "EN-en": "List of private reading of the bot",
+      "ES-es": "Lista de lectura privada del bot."
     },
     "LOOP": {
       "FR-fr": "Jouer la file d'attente de boucle",
-      "EN-en": "Play the loop queue"
+      "EN-en": "Play the loop queue",
+      "ES-es": "Juega la cola de bucle"
     },
     "LYRICS": {
       "FR-fr": "Recherche les paroles d'une musique\n⚠️ Pour améliorer la recherche àjouter le nom de l'auteur",
-      "EN-en": "Search the lyrics of music\n⚠️ To improve the search to add the name of the author"
+      "EN-en": "Search the lyrics of music\n⚠️ To improve the search to add the name of the author",
+      "ES-es": "Busca las letras de una música.\n⚠️ Para mejorar la búsqueda para agregar el nombre del autor."
     },
     "MOVE": {
       "FR-fr": "Déplacez les chansons de la file d'attente",
-      "EN-en": "Move the songs from the queue"
+      "EN-en": "Move the songs from the queue",
+      "ES-es": "Mover las canciones de la cola"
     },
     "NOWPLAYING": {
       "FR-fr": "Voir le temps restant sur la musique jouée",
-      "EN-en": "See the remaining time on the music played"
+      "EN-en": "See the remaining time on the music played",
+      "ES-es": "Ver el tiempo restante en la música reproducida"
     },
     "PAUSE": {
       "FR-fr": "Pause de la musique en cours de lecture",
-      "EN-en": "Pause of music in the reading courtyard"
+      "EN-en": "Pause of music in the reading courtyard",
+      "ES-es": "Pausa de la música durante la lectura."
     },
     "PLAY": {
       "FR-fr": "Écoutez de la musique de YouTube ou SoundCloud",
-      "EN-en": "Listen to music from YouTube or SoundCloud"
+      "EN-en": "Listen to music from YouTube or SoundCloud",
+      "ES-es": "Escucha a YouTube o SoundCloud Music"
     },
     "PLAYLIST": {
       "FR-fr": "Écoutez une playlist venant de YouTube",
-      "EN-en": "Listen to a playlist coming from YouTube"
+      "EN-en": "Listen to a playlist coming from YouTube",
+      "ES-es": "Escucha una lista de reproducción que viene de YouTube"
     },
     "QUEUE": {
       "FR-fr": "Voir la file d'attente et la musique jouée",
-      "EN-en": "View the queue and music being played"
+      "EN-en": "View the queue and music being played",
+      "ES-es": "Ver la cola y la música jugada"
     },
     "REMOVE": {
       "FR-fr": "Supprimer une musique de la file d'attente",
-      "EN-en": "Delete a music from the queue"
+      "EN-en": "Delete a music from the queue",
+      "ES-es": "Eliminar música de la cola"
     },
     "RESUME": {
       "FR-fr": "Reprendre la lecture de la musique actuelle",
-      "EN-en": "Resume reading the current music"
+      "EN-en": "Resume reading the current music",
+      "ES-es": "Reanudar leyendo música actual"
     },
     "SEARCH": {
       "FR-fr": "Rechercher et sélectionner des vidéos à écouter",
-      "EN-en": "Search and select videos to listen"
+      "EN-en": "Search and select videos to listen",
+      "ES-es": "Busca y selecciona Videos para escuchar"
     },
     "SHUFFLE": {
       "FR-fr": "Mélanger la file d'attente",
-      "EN-en": "Mix the queue"
+      "EN-en": "Mix the queue",
+      "ES-es": "Mezclar la cola"
     },
     "SKIP": {
       "FR-fr": "Passer à la prochaine musique de la file d'attente",
-      "EN-en": "Skip the current song"
+      "EN-en": "Skip the current song",
+      "ES-es": "Saltar a la siguiente música de la cola."
     },
     "SKIPTO": {
       "FR-fr": "Passer au numéro de la file d'attente sélectionné",
-      "EN-en": "Switch to the selected queue number"
+      "EN-en": "Switch to the selected queue number",
+      "ES-es": "Cambie al número de la cola seleccionada"
     },
     "STOP": {
       "FR-fr": "Arrêter la lecture",
-      "EN-en": "Stop playback"
+      "EN-en": "Stop playback",
+      "ES-es": "Detener la reproducción"
     },
     "VOLUME": {
       "FR-fr": "Changez le volume de la musique en cours de lecture\n⚠️ Volume par défaut 50%",
-      "EN-en": "Change the volume of the music being played\n⚠️ default volume 50%"
+      "EN-en": "Change the volume of the music being played\n⚠️ default volume 50%",
+      "ES-es": "Cambia el volumen de la música durante la reproducción.\n⚠️ volumen predeterminado 50%"
     },
 
     
-    "AVATARCOLOR": {  
+    "AVATARCOLOR": {
       "FR-fr": "changer la couleur de fond",
-      "EN-en": "change the background color"
+      "EN-en": "change the background color",
+      "ES-es": "cambiar el color de fondo"
     },
-    "BACKGROUND0": {  
+    "BACKGROUND0": {
       "FR-fr": "Accéder à l'ancienne version de l'arrière-plan",
-      "EN-en": "Access the old version of the background"
+      "EN-en": "Access the old version of the background",
+      "ES-es": "Accede a la versión antigua del fondo."
     },
-    "BACKGROUND": {  
-      "FR-fr": "Changer le fond du `rang`",
-      "EN-en": "Change the background of the rank"
+    "BACKGROUND": {
+      "FR-fr": "Changer le fond du rang",
+      "EN-en": "Change the background of the rank",
+      "ES-es": "Cambiar el fondo del rango"
     },
-    "BARRECOLOR": {  
+    "BARRECOLOR": {
       "FR-fr": "Changer la couleur de la barre de profil",
-      "EN-en": "Change the color of the profile bar"
+      "EN-en": "Change the color of the profile bar",
+      "ES-es": "Cambia el color de la barra de perfil."
     },
-    "LEADERBOARD": {  
+    "LEADERBOARD": {
       "FR-fr": "Classement de l'expérience d'utilisateur sur le serveur",
-      "EN-en": "User experience leaderboard on the server"
+      "EN-en": "User experience leaderboard on the server",
+      "ES-es": "Clasificación de la experiencia del usuario en el servidor"
     },
-    "PROFILE": {  
+    "PROFILE": {
       "FR-fr": "Consulter vos paramètres ou celle d'un autre membre",
-      "EN-en": "Consult your parameters or that of another member"
+      "EN-en": "Consult your parameters or that of another member",
+      "ES-es": "Consulte sus parámetros o la de otro miembro"
     },
-    "RANK": {  
+    "RANK": {
       "FR-fr": "Renvoie vos statistiques ou celles d'un utilisateur donné",
-      "EN-en": "Returns your or a given user’s statistics"
+      "EN-en": "Returns your or a given user’s statistics",
+      "ES-es": "Devuelve sus estadísticas o las de un usuario determinado"
     },
-    "SETPROFILE": {  
+    "SETPROFILE": {
       "FR-fr": "Configurez vos paramètres",
-      "EN-en": "Configure your settings"
+      "EN-en": "Configure your settings",
+      "ES-es": "Configure su configuración"
     },
     
 
-    "SETTICKET": {  
+    "SETTICKET": {
       "FR-fr": "Configurer le système de ticket",
-      "EN-en": "Configure the ticket system"
+      "EN-en": "Configure the ticket system",
+      "ES-es": "Configurar el sistema de entradas"
     },
-    "CLOSE": {  
+    "CLOSE": {
       "FR-fr": "Fermer un ticket",
-      "EN-en": "Close a ticket"
+      "EN-en": "Close a ticket",
+      "ES-es": "Cerrar un boleto"
     },
-    "TICKETADD": {  
+    "TICKETADD": {
       "FR-fr": "Ajouter un membre au ticket",
-      "EN-en": "Add a member to the ticket"
+      "EN-en": "Add a member to the ticket",
+      "ES-es": "Añadir un miembro al boleto"
     },
-    "TICKETREMOVE": {  
+    "TICKETREMOVE": {
       "FR-fr": "Supprimer un membre du ticket",
-      "EN-en": "Remove a member of the ticket"
+      "EN-en": "Remove a member of the ticket",
+      "ES-es": "Eliminar un miembro del boleto"
     },
     
 
-    "POLL": {  
+    "POLL": {
       "FR-fr": "Faire un sondage",
-      "EN-en": "Create a survey"
+      "EN-en": "Create a survey",
+      "ES-es": "Realizar una encuesta"
     },
-    "MATH": {  
-      "FR-fr": "Exécuter un calcul mathématique\n\nEx: `$math (2/3-100*4) - (23*2/3) + 1`",
-      "EN-en": "Execute a mathematical calculation\n\nEx: `$math (2/3-100*4) - (23*2/3) + 1`"
+    "MATH": {
+      "FR-fr": "Exécuter un calcul mathématique\n\nExemple: `$math (2/3-100*4) - (23*2/3) + 1`",
+      "EN-en": "Execute a mathematical calculation\n\nExample: `$math (2/3-100*4) - (23*2/3) + 1`",
+      "ES-es": "Ejecutar un cálculo matemático.\n\nEjemplo: `$math (2/3-100*4) - (23*2/3) + 1`"
     },
 
 
-    "BUG": {  
+    "BUG": {
       "FR-fr": "Signaler un bug au développeur du bot",
-      "EN-en": "Report a bug to the developer of the bot!"
+      "EN-en": "Report a bug to the developer of the bot!",
+      "ES-es": "Reportar un error al desarrollador del bot."
     },
-    "CLAIM": {  
+    "CLAIM": {
       "FR-fr": "Récupéré votre vote récompense sur TOP_GG ou la liste des bots de DiscordBotList (.com)\n⚠️ Vous ne pouvez en revendiquer qu'un à la fois.",
-      "EN-en": "Recovered your vote reward on TOP_GG or the list of bots of DiscordBotList (.com)\n⚠️ you can only claim one at a time."
+      "EN-en": "Recovered your vote reward on TOP_GG or the list of bots of DiscordBotList (.com)\n⚠️ you can only claim one at a time.",
+      "ES-es": "Recuperó tus recompensas de voto TOP_GG o la lista de bots de DiscordBotList (.com)\n⚠️ Solo puedes reclamar uno a la vez."
     },
-    "DAILY": {  
+    "DAILY": {
       "FR-fr": "Récupérer votre récompense quotidienne",
-      "EN-en": "Claim your daily reward"
+      "EN-en": "Claim your daily reward",
+      "ES-es": "Recupera tu recompensa diaria"
     },
-    "INVITE": {  
-      "FR-fr": "Invitation du Bot et du Server Support",
-      "EN-en": "Bot invite and support server links"
+    "INVITE": {
+      "FR-fr": "Invitation du Bot et du Serveur Support",
+      "EN-en": "Bot invite and support server links",
+      "ES-es": "Invitación Bot y servidor apoyo"
     },
-    "SUGGEST": {  
+    "SUGGEST": {
       "FR-fr": "Suggérer des changements / ajouts",
-      "EN-en": "Suggest changes / additions!"
+      "EN-en": "Suggest changes / additions!",
+      "ES-es": "Sugerir cambios / agrega"
     },
-    "SUGGESTIMAGE": {  
+    "SUGGESTIMAGE": {
       "FR-fr": "Envoyer une image avec une description\n\n**Envoyer une image**\n$suggest [Description de la raison pour laquelle il est nécessaire de l'ajouter au système de fond] (Ajouter le fichier image)\n\nExemple vidéo [lien](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)",
-      "EN-en": "Send an image with a description\n\n**Sent an image**\n$suggest [Description of the reason why it is necessary to add it to the background system] (Add the image file)\n\nVideo example [link](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)"
+      "EN-en": "Send an image with a description\n\n**Sent an image**\n$suggest [Description of the reason why it is necessary to add it to the background system] (Add the image file)\n\nVideo example [link](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)",
+      "ES-es": "Enviar una imagen con una descripción.\n\n**Imagen**\n$suggest [Descripción de la razón por la que es necesario agregarlo al sistema de fondo.] (Añadir el archivo de imagen)\n\nEjemplo de video [enlazar](https://www.youtube.com/playlist?list=PLsl8NwEwMsnDxYrdnj02qFQ4I_vj_zXU6)"
     },
-    "VOTE": {  
+    "VOTE": {
       "FR-fr": "voter pour le bot",
-      "EN-en": "vote for the bot"
+      "EN-en": "vote for the bot",
+      "ES-es": "votar por el bot"
     },
-    "YOUTUBE": {  
+    "TOGETHER": {
       "FR-fr": "Regarder des vidéo Youtube avec vos amis ou jouer à différents jeux",
-      "EN-en": "Watch the YouTube video with your friends or play various games"
+      "EN-en": "Watch the YouTube video with your friends or play various games",
+      "ES-es": "Mira el video de YouTube con tus amigos o juega diferentes juegos"
     },
 
 
 
 
     
-    "CONFIG.CHANNEL": {  
+    "CONFIG.CHANNEL": {
       "FR-fr": "Vous devez mentionner un salon auquel j'ai accès",
-      "EN-en": "You must mention a channel to which I have access"
+      "EN-en": "You must mention a channel to which I have access",
+      "ES-es": "Debes mencionar un espectáculo al que tengo acceso.so."
     },
-    "CONFIG.PREFIX": {  
+    "CONFIG.PREFIX": {
       "FR-fr": "Préfixe actuel",
-      "EN-en": "Current prefix"
+      "EN-en": "Current prefix",
+      "ES-es": "Prefijo actual"
     },
-    "CONFIG.PREFIX.UPDATE": {  
+    "CONFIG.PREFIX.UPDATE": {
       "FR-fr": "Préfixe mis à jour",
-      "EN-en": "Prefix updated"
+      "EN-en": "Prefix updated",
+      "ES-es": "Prefijo actualizado"
     },
-    "CONFIG.STAFF": {  
+    "CONFIG.STAFF": {
       "FR-fr": "Rôle actuel du personnel",
-      "EN-en": "Current role of the staff"
+      "EN-en": "Current role of the staff",
+      "ES-es": "Papel actual del personal"
     },
-    "CONFIG.!STAFF": {  
+    "CONFIG.!STAFF": {
       "FR-fr": "Vous devez mentionner un rôle",
-      "EN-en": "You must mention a role"
+      "EN-en": "You must mention a role",
+      "ES-es": "Debes mencionar un papel"
     },
-    "CONFIG.STAFF.UPDATE": {  
+    "CONFIG.STAFF.UPDATE": {
       "FR-fr": "Rôle du personnel mis à jour",
-      "EN-en": "Role of updated staff"
+      "EN-en": "Role of updated staff",
+      "ES-es": "Papel del personal actualizado"
     },
-    "CONFIG.AUTOROLE": {  
+    "CONFIG.AUTOROLE": {
       "FR-fr": "Rôle donné à l'arrivée",
-      "EN-en": "Given role on arrival"
+      "EN-en": "Given role on arrival",
+      "ES-es": "Dado un papel a la llegada"
     },
-    "CONFIG.AUTOROLE.ON/OFF": { 
+    "CONFIG.AUTOROLE.ON/OFF": {
       "FR-fr": "Le rôle automatique est maintenant",
-      "EN-en": "The automatic role is now"
+      "EN-en": "The automatic role is now",
+      "ES-es": "El rol automático es ahora."
     },
-    "CONFIG.AUTOROLE.UPDATE": {  
+    "CONFIG.AUTOROLE.UPDATE": {
       "FR-fr": "Rôle automatique mis à jour",
-      "EN-en": "Automatic role updated"
+      "EN-en": "Automatic role updated",
+      "ES-es": "Rol automático actualizado"
     },
-    "CONFIG.LOGS.ON/OFF": { 
+    "CONFIG.LOGS.ON/OFF": {
       "FR-fr": "La journalisation est maintenant",
-      "EN-en": "Logging is now"
+      "EN-en": "Logging is now",
+      "ES-es": "El registro es ahora"
     },
-    "CONFIG.LOGS.UPDATE": {  
+    "CONFIG.LOGS.UPDATE": {
       "FR-fr": "Journalisation mise à jour",
-      "EN-en": "Logging updated"
+      "EN-en": "Logging updated",
+      "ES-es": "Registro actualizado"
     },
-    "CONFIG.SANCTION.ON/OFF": { 
+    "CONFIG.SANCTION.ON/OFF": {
       "FR-fr": "Sanction est maintenant",
-      "EN-en": "Sanction is now"
+      "EN-en": "Sanction is now",
+      "ES-es": "Sanction es ahora"
     },
-    "CONFIG.SANCTION.UPDATE": {  
+    "CONFIG.SANCTION.UPDATE": {
       "FR-fr": "Sanction mise à jour",
-      "EN-en": "Sanction updated"
+      "EN-en": "Sanction updated",
+      "ES-es": "Actualización de la sanción"
     },
-    "CONFIG.WELCOME.ON/OFF": { 
+    "CONFIG.WELCOME.ON/OFF": {
       "FR-fr": "L'accueil est maintenant",
-      "EN-en": "Welcome is now"
+      "EN-en": "Welcome is now",
+      "ES-es": "La bienvenida es ahora"
     },
-    "CONFIG.WELCOME.UPDATE": {  
+    "CONFIG.WELCOME.UPDATE": {
       "FR-fr": "L'accueil mise à jour",
-      "EN-en": "Welcome updated"
+      "EN-en": "Welcome updated",
+      "ES-es": "Actualización del hogar"
     },
-    "CONFIG.EXIT.ON/OFF": { 
+    "CONFIG.EXIT.ON/OFF": {
       "FR-fr": "La sortie est maintenant",
-      "EN-en": "Exit is now"
+      "EN-en": "Exit is now",
+      "ES-es": "La salida es ahora"
     },
-    "CONFIG.EXIT.UPDATE": {  
+    "CONFIG.EXIT.UPDATE": {
       "FR-fr": "Sortie mise à jour",
-      "EN-en": "Updated output"
+      "EN-en": "Updated output",
+      "ES-es": "Salida actualizada"
     },
-    "CONFIG.WELCOME_MESSAGE.ON/OFF": { 
+    "CONFIG.WELCOME_MESSAGE.ON/OFF": {
       "FR-fr": "Le message de bienvenue est maintenant",
-      "EN-en": "Welcome message is now"
+      "EN-en": "Welcome message is now",
+      "ES-es": "El mensaje de bienvenida es ahora"
     },
-    "CONFIG.WELCOME_MESSAGE.UPDATE": {  
+    "CONFIG.WELCOME_MESSAGE.UPDATE": {
       "FR-fr": "Message de bienvenue mise à jour",
-      "EN-en": "Welcome message updated"
+      "EN-en": "Welcome message updated",
+      "ES-es": "Actualización de mensaje de bienvenida"
     },
-    "CONFIG.EXIT_MESSAGE.ON/OFF": { 
+    "CONFIG.EXIT_MESSAGE.ON/OFF": {
       "FR-fr": "Le message de sortie est maintenant",
-      "EN-en": "Output message is now"
+      "EN-en": "Output message is now",
+      "ES-es": "El mensaje de salida es ahora"
     },
-    "CONFIG.EXIT_MESSAGE.UPDATE": {  
+    "CONFIG.EXIT_MESSAGE.UPDATE": {
       "FR-fr": "Message de sortie mis à jour",
-      "EN-en": "Output message updated"
+      "EN-en": "Output message updated",
+      "ES-es": "Mensaje de salida actualizado"
     },
-    "CONFIG.WELCOME_URL.ON/OFF": { 
+    "CONFIG.WELCOME_URL.ON/OFF": {
       "FR-fr": "L'URL de bienvenue est maintenant",
-      "EN-en": "Welcome URL is now"
+      "EN-en": "Welcome URL is now",
+      "ES-es": "La URL de bienvenida es ahora"
     },
-    "CONFIG.WELCOME_URL.UPDATE": {  
+    "CONFIG.WELCOME_URL.UPDATE": {
       "FR-fr": "L'URL de bienvenue mise à jour",
-      "EN-en": "Updated welcome URL"
+      "EN-en": "Updated welcome URL",
+      "ES-es": "Actualización de la URL de bienvenida"
     },
-    "CONFIG.EXIT_URL.ON/OFF": { 
+    "CONFIG.EXIT_URL.ON/OFF": {
       "FR-fr": "L'URL de sortie est maintenant",
-      "EN-en": "Output URL is now"
+      "EN-en": "Output URL is now",
+      "ES-es": "La URL de salida es ahora"
     },
-    "CONFIG.EXIT_URL.UPDATE": {  
+    "CONFIG.EXIT_URL.UPDATE": {
       "FR-fr": "L'URL de sortie mise à jour",
-      "EN-en": "Updated output URL"
+      "EN-en": "Updated output URL",
+      "ES-es": "La URL de salida actualizada"
     },
-    "CONFIG.XP.ON/OFF": { 
+    "CONFIG.XP.ON/OFF": {
       "FR-fr": "La progression de la discussion sur le serveur est maintenant",
-      "EN-en": "The progression of the discussion on the server is now"
+      "EN-en": "The progression of the discussion on the server is now",
+      "ES-es": "La progresión de la discusión sobre el servidor es ahora."
     },
-    "CONFIG.XP.UPDATE": {  
+    "CONFIG.XP.UPDATE": {
       "FR-fr": "Salon de progression mis à jour",
-      "EN-en": "Updated progress channel"
+      "EN-en": "Updated progress channel",
+      "ES-es": "Show de progreso actualizado"
     },
-    "CONFIG.POLL.ON/OFF": { 
+    "CONFIG.POLL.ON/OFF": {
       "FR-fr": "Le salon de sondage est maintenant",
-      "EN-en": "Poll channel is now"
+      "EN-en": "Poll channel is now",
+      "ES-es": "El show de la encuesta es ahora"
     },
-    "CONFIG.POLL.UPDATE": {  
+    "CONFIG.POLL.UPDATE": {
       "FR-fr": "Le salon de sondage mise à jour",
-      "EN-en": "Poll channel Update"
+      "EN-en": "Poll channel Update",
+      "ES-es": "La encuesta de actualización muestra"
     },
 
 
     "CONFIG_LIST": {
-      "FR-fr": "`prefix` - Change le prefix du bot.\n`staff` - Stock le rôle du staff.\n`autoRole` - Stock le rôle des nouveaux membres.\n\n`logs` - Stock le salon des logs du serveur.\n\n`sanction` - Stock le salon des sanction lors de l'utilisation des commandes Ban / Munte / Kick / Report etc... .\n\n`welcome/exit` - Stock le canal où le message et l'URL d'arrivée et de sortie sont envoyés.\n\n`welcomeMessage/exitMessage` - Le message envoyez dans le salon d'arrivée et le salon de sortie (ajouter `{USER}` dans votre texte personnalisé pour que le bot le remplace par le nom de l'utilisateur).\n\n`welcomeURL/exitURL` - l'URL de l'image envoyer dans le salon d'arriver et de sortie contenant le nom et l'avatar du membre.\n\n`xpChannel` - Stock le salon dans lequel le message de niveau supérieur est envoyé.\n**⚠️ Si désactivé le bot n'est plus mis à réagir lorsque vous avez passé au niveau supérieur**.\n\n`pollChannel` - Stock le salon dans lequel le bot envoie le sondage effectuer avec la commande **poll**",
-      "EN-en": "`prefix` - Change bot prefix.\n`staff` - Stock the role of staff.\n`autoRole` - Stock the role of new members.\n\n`logs` - Stock the channel logs of the server.\n\n`sanction` - Stock the channel of Sanction when using commands Ban / Munte / Kick / Report etc ... .\n\n`welcome/exit` - Stock the channel where the message and the arrival and output URL are sent.\n\n`welcomeMessage/exitMessage` - The message send in the arrival channel and exit channel (add `{USER}` In your Custom text so that the bot replaces it with the username).\n\n`welcomeURL/exitURL` - The URL of the image send in the channel to arrive and exit containing the name and the avatar of the member.\n\n`xpChannel` - Stock the channel in which the higher level message is sent.\n**⚠️ If deactivated the bot no longer reacted when you have passed at the upper level**.\n\n`pollChannel` - Stock the channel in which the bot sends the poll perform with the **poll** command"
+      "FR-fr": "`prefix` - Change le prefix du bot.\n`staff` - Stock le rôle du staff.\n`autoRole` - Stock le rôle des nouveaux membres.\n\n`logs` - Stock le salon des logs du serveur.\n\n`sanction` - Stock le salon des sanction lors de l'utilisation des commandes Ban / Munte / Kick / Report etc... .\n\n`welcome/exit` - Stock le canal où le message et l'URL d'arrivée et de sortie sont envoyés.\n\n`welcomeMessage/exitMessage` - Le message envoyez dans le salon d'arrivée et le salon de sortie (ajouter `{USER}` dans votre texte personnalisé pour que le bot le remplace par le nom de l'utilisateur).\n\n`welcomeURL/exitURL` - l'URL de l'image envoyer dans le salon d'arriver et de sortie contenant le nom et l'avatar du membre.\n\n`xpChannel` - Stock le salon dans lequel le message de niveau supérieur est envoyé.\n**⚠️ Si désactivé le bot ne réagir plus lorsque vous passé au niveau supérieur**.\n\n`pollChannel` - Stock le salon dans lequel le bot envoie le sondage effectuer avec la commande **poll**",
+      "EN-en": "`prefix` - Change bot prefix.\n`staff` - Stock the role of staff.\n`autoRole` - Stock the role of new members.\n\n`logs` - Stock the channel logs of the server.\n\n`sanction` - Stock the channel of Sanction when using commands Ban / Munte / Kick / Report etc ... .\n\n`welcome/exit` - Stock the channel where the message and the arrival and output URL are sent.\n\n`welcomeMessage/exitMessage` - The message send in the arrival channel and exit channel (add `{USER}` In your Custom text so that the bot replaces it with the username).\n\n`welcomeURL/exitURL` - The URL of the image send in the channel to arrive and exit containing the name and the avatar of the member.\n\n`xpChannel` - Stock the channel in which the higher level message is sent.\n**⚠️ If deactivated the bot no longer reacted when you have passed at the upper level**.\n\n`pollChannel` - Stock the channel in which the bot sends the poll perform with the **poll** command",
+      "ES-es": "`prefix` - Cambiar el prefijo del bot..\n`staff` - Stock el papel del personal.\n`autoRole` - Stock el papel de los nuevos miembros.\n\n`logs` - Stock The Server Log Salon.\n\n`sanction` - Stock The Sanction Show al usar pedidos Ban / Munte / Kick / Report etc... .\n\n`welcome/exit` - Stock El canal donde se envían el mensaje y la URL de llegada y salida..\n\n`welcomeMessage/exitMessage` - El mensaje envía en el salón de llegada y el salón de salida.(agregar `{USER}` En su texto personalizado para que el BOT lo reemplace con el nombre del usuario).\n\n`welcomeURL/exitURL` - La URL de la imagen envía en el programa para llegar y salir que contiene el nombre y el avatar del miembro.\n\n`xpChannel` - Stock La sala de estar en la que se envía el mensaje de nivel superior..\n**⚠️ Tan discapacitado, el bot no reacciona cuando pasaste en el nivel superior**.\n\n`pollChannel` - Stock La sala de estar en la que el bot envía la encuesta con el comando **poll**"
     },
 
     "!SET_LANG": {
-      "FR_fr": "Cette langue n'est pas prise en charge.\nUtiliser la commande `pour voir les langues disponibles",
-      "EN-en": "This language is not supported.\nUse the command `langList` to see the languages ​​available"
+      "FR_fr": "Cette langue n'est pas prise en charge.\nUtiliser la commande `langList` pour voir les langues disponibles",
+      "EN-en": "This language is not supported.\nUse the command `langList` to see the languages ​​available",
+      "ES-es": "Este idioma no es compatible.\nUsa el comando `langList` para ver los idiomas disponibles."
     },
 
     "!SET_LANG_ARGS": {
       "FR_fr": "Utiliser la commande `langList`",
-      "EN-en": "Use the command `langList`"
+      "EN-en": "Use the command `langList`",
+      "ES-es": "Usa el comando `langList`"
     },
     "SET_LANG": {
       "FR-fr": "Nouvelle langue définie!",
-      "EN-en": "New language defined!"
+      "EN-en": "New language defined!",
+      "ES-es": "Nuevo idioma definido!"
     },
 
     "SETTINGS.P": {
       "FR-fr": "Paramètre actuel",
-      "EN-en": "Current parameter"
+      "EN-en": "Current parameter",
+      "ES-es": "Parámetro actual"
     },
     "SETTINGS.M": {
       "FR-fr": "Modération",
-      "EN-en": "Moderation"
+      "EN-en": "Moderation",
+      "ES-es": "Moderación"
     },
     "SETTINGS.G": {
       "FR-fr": "Serveur",
-      "EN-en": "Server"
+      "EN-en": "Server",
+      "ES-es": "Servidor"
     },
 
     
     "DARKNESS.BUG": {
       "FR-fr": "Message envoyé. Merci pour ton aide",
-      "EN-en": "Message sent. Thanks for your help"
+      "EN-en": "Message sent. Thanks for your help",
+      "ES-es": "Mensaje enviado. gracias por su ayuda"
     },
     
     "DARKNESS.CLAIM.SEARCH": {
       "FR-fr": "Recherche de données",
-      "EN-en": "Data search"
+      "EN-en": "Data search",
+      "ES-es": "Búsqueda de datos"
     },
     "DARKNESS.CLAIM.TOP_GG": {
       "FR-fr": "Merci pour votre contribution",
-      "EN-en": "thank for your contribution"
+      "EN-en": "thank for your contribution",
+      "ES-es": "Gracias por tu contribución"
     },
     "DARKNESS.CLAIM.TOP_GG.BONUS": {
       "FR-fr": "Le bonus de week-end est actif, vous recevez 2 fois les lots de base",
-      "EN-en": "The weekend bonus is active, you receive 2 times the basic lots"
+      "EN-en": "The weekend bonus is active, you receive 2 times the basic lots",
+      "ES-es": "El bono de fin de semana está activo, recibes 2 veces los lotes básicos."
     },
     "!DARKNESS.CLAIM.TOP_GG": {
       "FR-fr": "Vous n'avez pas voté au cours des 12 dernières heures, vous ne pouvez rien réclamer",
-      "EN-en": "You have not voted in the last 12 hours, you can not claim anything"
+      "EN-en": "You have not voted in the last 12 hours, you can not claim anything",
+      "ES-es": "No has votado en las últimas 12 horas, no puedes reclamar nada."
     },
     "!DARKNESS.CLAIM.DBL.COM": {
       "FR-fr": "Désolé mais il n'y aura aucune réclamation avec DBL à cause d'un problème technique",
-      "EN-en": "Sorry but there will be no claim with DBL because of some technical problem"
+      "EN-en": "Sorry but there will be no claim with DBL because of some technical problem",
+      "ES-es": "Lo sentimos, pero no habrá ninguna queja con DBL debido a un problema técnico."
     },
 
     "!DARKNESS.DAILY": {
       "FR-fr": "Création de données",
-      "EN-en": "Data creation"
+      "EN-en": "Data creation",
+      "ES-es": "Creación de datos"
     },
     "DARKNESS.DAILY": {
       "FR-fr": "Vous avez déjà réclamé votre récompense quotidienne",
-      "EN-en": "You have already claimed your daily reward"
+      "EN-en": "You have already claimed your daily reward",
+      "ES-es": "Ya has reclamado tu recompensa diaria."
     },
 
     "DARKNESS.INVITATION": {
       "FR-fr": "Invitations",
-      "EN-en": "Invitations"
+      "EN-en": "Invitations",
+      "ES-es": "Invitaciones"
     },
     "DARKNESS.INVITATION.SUPPORT": {
       "FR-fr": "Support",
-      "EN-en": "Support"
+      "EN-en": "Support",
+      "ES-es": "Apoyo"
     },
 
     "DARKNESS.SUGGEST": {
       "FR-fr": "Message envoyé. Nous traiterons votre demande",
-      "EN-en": "Message sent. We will process your request"
+      "EN-en": "Message sent. We will process your request",
+      "ES-es": "Mensaje enviado. Procesaremos su solicitud."
     },
 
     "DARKNESS.SUGGEST_IMAGE": {
       "FR-fr": "Image envoyée. Nous traiterons votre demande",
-      "EN-en": "Image sent. We will process your request"
+      "EN-en": "Image sent. We will process your request",
+      "ES-es": "Imagen enviada. Procesaremos su solicitud."
     },
     "!DARKNESS.SUGGEST_IMAGE": {
       "FR-fr": "Vous devez intégrer une image à votre message",
-      "EN-en": "You have to integrate an image to your message"
+      "EN-en": "You have to integrate an image to your message",
+      "ES-es": "Tienes que integrar una imagen a tu mensaje."
     },
 
     "DARKNESS.VOTE": {
       "FR-fr": "Votes",
-      "EN-en": "Votes"
+      "EN-en": "Votes",
+      "ES-es": "Votos"
     },
     "DARKNESS.VOTES": {
       "FR-fr": "Voté pour",
-      "EN-en": "Voted for"
+      "EN-en": "Voted for",
+      "ES-es": "Votado por"
     },
 
     "FUN.8BALL": {
-      "FR-fr": ["Oui", "Non", "Peut-être", "Sans aucun doute", "Réfléchie par toi même", "je ne suis pas omniscient ", "Impossible", "jamais", "Je ne peut pas le prédir"],
-      "EN-en": ["Yes", "No", "Perhaps", "Without a doubt", "Reflected by yourself", "I am not omniscient", "Impossible", "never", "I can not predict it"]
+      "FR-fr": ["Oui", "Non", "Peut-être", "Sans aucun doute", "Réfléchie par toi même", "je ne suis pas omniscient", "Impossible", "jamais", "Je ne peut pas le prédir"],
+      "EN-en": ["Yes", "No", "Perhaps", "Without a doubt", "Reflected by yourself", "I am not omniscient", "Impossible", "never", "I can not predict it"],
+      "ES-es": ["Sí", "No", "Puede ser", "Sin ninguna duda", "Reflejado por ti mismo", "No soy omnisciente", "Imposible", "Nunca", "No puedo predecirlo"]
     },
 
     "FUN.AVATAR": {
       "FR-fr": "Lien d'avatar",
-      "EN-en": "Avatar link"
+      "EN-en": "Avatar link",
+      "ES-es": "Enlace de avatar"
     },
 
     "FUN.DICE": {
       "FR-fr": "Voici comment utiliser la commande `<nombres de dé(s)> <nombre de face(s)>`",
-      "EN-en": "Here's how to use the command `<number of dice(s)> <number of face(s)>`"
+      "EN-en": "Here's how to use the command `<number of dice(s)> <number of face(s)>`",
+      "ES-es": "Aquí es cómo usar el comando `<Número de dado(s)> <número de cara(s)>`"
     },
     "!FUN.DICE": {
-      "FR-fr": "Veuillez choisir les numéros conpris entre 0 et 100",
-      "EN-en": "Please choose Conpris numbers between 0 and 100"
+      "FR-fr": "Veuillez choisir les numéros compris entre 0 et 100",
+      "EN-en": "Please choose Conpris numbers between 0 and 100",
+      "ES-es": "Por favor, elija los números entre 0 y 100."
     },
     "FUN.DICE.R": {
       "FR-fr": ["Vous avez lancé", "dés de", "face(s) et tu obtiens"],
-      "EN-en": ["You launched", "dice of", "face(s) And you get"]
+      "EN-en": ["You launched", "dice of", "face(s) And you get"],
+      "ES-es": ["Tu lanzaste", "dado", "Cara(s) y obtienes"]
     },
 
     "!FUN.NICK": {
       "FR-fr": "Désolé je peux changer le propriétaire du serveur",
-      "EN-en": "Sorry I can change the owner of the server"
+      "EN-en": "Sorry I can change the owner of the server",
+      "ES-es": "Lo siento, puedo cambiar el propietario del servidor"
     },
     "FUN.NICK": {
       "FR-fr": "S'il vous plaît entrer moins de 32 caractères",
-      "EN-en": "Please enter less than 32 characters"
+      "EN-en": "Please enter less than 32 characters",
+      "ES-es": "Por favor ingrese menos de 32 caracteres"
     },
 
 
     "INFO.BINFO": {
       "FR-fr": ["Info", "Mémoire", "Redémarrage", "Version", "Serveurs", "Utilisateurs", "En ligne", "Développeur", "Source", "Support", "Lien de l'avatar"],
-      "EN-en": ["Info", "Memory", "Restart", "Version", "Servers", "Users", "Online", "Developer", "Source", "Support", "Avatar link"]
+      "EN-en": ["Info", "Memory", "Restart", "Version", "Servers", "Users", "Online", "Developer", "Source", "Support", "Avatar link"],
+      "ES-es": ["Información", "Memoria", "Reanudar", "Versión", "Servidores", "Usuarios", "En línea", "Desarrollador", "Fuente", "Apoyo", "Enlace de avatar"]
     },
 
     "INFO.PING": {
       "FR-fr": ["Déconnecté", "Disponible", "Occupé", "Indisponible", "Latence du bot", "Latence de l'API", "Base de données", "Actif", "Maintenance", "Dernier redémarrage", "est actuellement"],
-      "EN-en": ["Disconnected", "Available", "Busy", "Unavailable", "Bot latency", "API latency", "Database", "Active", "Maintenance", "Last restart", "is actually"]
+      "EN-en": ["Disconnected", "Available", "Busy", "Unavailable", "Bot latency", "API latency", "Database", "Active", "Maintenance", "Last restart", "is actually"],
+      "ES-es": ["Desconectado", "Disponible", "Ocupado", "Indisponible", "Latencia bot", "Latencia de la API", "Base de datos", "Activo", "Mantenimiento", "Último reinicio", "es en realidad"]
     },
 
     "INFO.RINFO": {
       "FR-fr": ["Désolé mais il semble que quelque chose ne va pas (je ne prends pas en compte le everyone)", "Infos", "Couleur", "Mentionnable", "Position", "Hisser", "Membre(s)", "Créé le", "DD/MM/YYYY | hh:mm"],
-      "EN-en": ["Sorry but it seems that something is wrong (I do not take into account everyone)", "Infos", "Color", "Mentionable", "Position", "Hoist", "Member(s)", "Created the", "MM/DD/YYYY | hh:mm"]
+      "EN-en": ["Sorry but it seems that something is wrong (I do not take into account everyone)", "Infos", "Color", "Mentionable", "Position", "Hoist", "Member(s)", "Created the", "MM/DD/YYYY | hh:mm"],
+      "ES-es": ["Lo siento, pero parece que algo está mal (no tengo en cuenta el everyone)", "Información", "Color", "Mencionado", "Posición", "Izar", "Miembro(s)", "Creado el", "DD/MM/YYYY | hh:mm"]
     },
 
     "INFO.SINFO": {
       "FR-fr": ["Aucun", "Faible", "Moyen", "Elevé", "Très élevé", "Propriétaire", "Infos", "Région", "Rôles", "Membre", "Salon", "Catégorie", "Texte", "Vocal", "Premium", "Boost", "Niveau", "Sécurité", "Règles", "Liste d'emoji", "Date d'anniversaire", "DD/MM/YYYY | hh:mm"],
-
-      "EN-en": ["None", "Low", "Medium", "High", "Very high", "Owner", "Infos", "Region", "Roles", "Member", "channel", "Category", "Text", "Voice", "Premium", "Boost", "Level", "Security", "Rules", "Emoji list", "Birthday", "MM/DD/YYYY | hh:mm"]
+      "EN-en": ["None", "Low", "Medium", "High", "Very high", "Owner", "Infos", "Region", "Roles", "Member", "channel", "Category", "Text", "Voice", "Premium", "Boost", "Level", "Security", "Rules", "Emoji list", "Birthday", "MM/DD/YYYY | hh:mm"],
+      "ES-es": ["Ninguna", "Bajo", "Manera", "Elevado", "Muy elevado", "Dueño", "Información", "Región", "Roles", "Miembro", "Salón", "Categoría", "Texto", "Vocal", "Prima", "Aumentar", "Nivel", "Seguridad", "Reglas", "Lista de emoji", "Fecha de cumpleaños", "DD/MM/YYYY | hh:mm"]
     },
 
     "INFO.UINFO": {
       "FR-fr": ["Infos", "Bot", "Statut", "Membre", "DD/MM/YYYY | hh:mm", "Rôle(s)", "Créé le"],
-      "EN-en": ["Infos", "Bot", "Status", "Member", "MM/DD/YYYY | hh:mm", "Role (s)", "Created the"]
+      "EN-en": ["Infos", "Bot", "Status", "Member", "MM/DD/YYYY | hh:mm", "Role(s)", "Created the"],
+      "ES-es": ["Información", "Bot", "Estado", "Miembro", "DD/MM/YYYY | hh:mm", "Role(s)", "Creado el"]
     },
 
 
     "UTILES.MATH": {
-      "FR-fr": ["Entrez un calcul", "Entrez une équation **valide** ou **simple**, les opérations disponibles sont", "Calculatrice", "Équation", "résultat"],
-      "EN-en": ["Enter a calcul", "Enter a **valid** or **simple** equation, the available operations are", "Calculator", "Équation", "result"]
+      "FR-fr": ["Entrez un calcul", "Entrez une équation **valide**, les opérations disponibles sont", "Calculatrice", "Équation", "résultat"],
+      "EN-en": ["Enter a calcul", "Enter a **valid**, the available operations are", "Calculator", "Équation", "result"],
+      "ES-es": ["Entrar en un cálculo", "Entrar en una ecuación **válido**, Las operaciones disponibles son", "Calculadora", "Ecuación", "resultados"]
     },
 
     "UTILES.POLL": {
       "FR-fr": ["pollChannel est désactivé", "pollChannel n'est pas configuré", "Sondage", "Vous pouvez envoyer d'autre sondage!", "votre sondage à été envoyé!"],
-      "EN-en": ["pollChannel is disabled", "pollChannel is not configured", "Poll", "You can send another poll!", "Your poll was sent!"]
+      "EN-en": ["pollChannel is disabled", "pollChannel is not configured", "Poll", "You can send another poll!", "Your poll was sent!"],
+      "ES-es": ["pollChannel está desactivado", "pollChannel no esta configurado", "Encuesta", "¡Puedes enviar otra encuesta!", "¡Tu encuesta fue enviada!"]
     },
 
 
     "TICKET.SET": {
       "FR-fr": ["Pour arreter la collection taper `cancel`", "Entrez un titre pour le système de ticket", "Arrêt de la collection", "Réagir avec 🎟️ pour créer un ticket.", "Temps écoulé", "Entrez une description pour le système de ticket"],
-      "EN-en": ["To stop the tape `cancel` collection", "Enter a title for the ticket system", "Stopping the collection", "React with 🎟️ to create a ticket.", "Time elapsed", "Enter a description for the ticket system"]
+      "EN-en": ["To stop the tape `cancel` collection", "Enter a title for the ticket system", "Stopping the collection", "React with 🎟️ to create a ticket.", "Time elapsed", "Enter a description for the ticket system"],
+      "ES-es": ["Para detener la colección de escritura. `cancel`", "Ingrese un título para el sistema de entradas", "Deteniendo la colección", "Reacciona con 🎟️ para crear un boleto.", "Tiempo pasado", "Ingrese una descripción para el sistema de entradas"]
     },
 
     "TICKET.CLOSE": {
       "FR-fr": ["🗑️ | Ticket Fermé", "L'auteur du ticket à procédé à la fermeture de celui-ci.", "Informations", "**Utilisateur :**", "Le rôle `Staff` n'existe pas, veuillez le configuré.", "Un membre ayant le rôle", "a supprimé un ticket de force.", "a forcé la fermeture de votre ticket.", "a demandé la fermeture du ticket.", "Désolé, vous n'avez pas le rôle", "📥 | Ticket Fermé", "🗑️| Demande de Fermeture", "🎟️ | Ticket Terminé", "Réagissez avec \\🗑️ pour fermer le ticket ou ne réagissez pas si vous avez d'autres demandes.", "Fermeture du ticket dans 5sec"],
-      "EN-en": ["🗑️ | Closed Ticket", "The author of the ticket has closed it.", "Informations", "**User :**", "The role `staff` does not exist, please configure.", "A member with the role", "Deleted a force ticket.", "forced the closing of your ticket.", "asked for closing the ticket.", "Sorry, you do not have the role", "📥 | Closed Ticket", "🗑️| Closing request", "🎟️ | Ticket finished", "React with \\🗑️ To close the ticket or do not react if you have other requests.", "Closing the ticket in 5sec"]
+      "EN-en": ["🗑️ | Closed Ticket", "The author of the ticket has closed it.", "Informations", "**User :**", "The role `staff` does not exist, please configure.", "A member with the role", "Deleted a force ticket.", "forced the closing of your ticket.", "asked for closing the ticket.", "Sorry, you do not have the role", "📥 | Closed Ticket", "🗑️| Closing request", "🎟️ | Ticket finished", "React with \\🗑️ To close the ticket or do not react if you have other requests.", "Closing the ticket in 5sec"],
+      "ES-es": ["🗑️ | Boleto cerrado", "El autor d d d du billete a procindé a Fermelale de Floreli-allí.", "Información", "**Usuario :**", "El role `Staff` No existes, por favor configure.", "Un membre ayant le rôle", "Eliminado un boleto receptor.", "forzó el cierre de tu boleto.", "solicitó cerrar el boleto.", "Lo siento, no tienes el role", "📥 | Boleto cerrado", "🗑️| Solicitud de cierre", "🎟️ | Ticket terminado", "Reaccionar con \\🗑️ Para cerrar el boleto o no reaccionar si tiene otras solicitudes.", "Cerrando el boleto en 5sec"]
     },
 
     "TICKET.ADD": {
       "FR-fr": ["Impossible de trouver cet utilisateur", "vient d'ajouter", "au ticket"],
-      "EN-en": ["Can not find this user", "just added", "ticket"]
+      "EN-en": ["Can not find this user", "just added", "ticket"],
+      "ES-es": ["No se puede encontrar este usuario", "Recien agregado", "billete"]
     },
 
     "TICKET.REMOVE": {
       "FR-fr": ["Impossible de trouver cet utilisateur", "vient de retirer", "au ticket"],
-      "EN-en": ["Can not find this user", "has just removed", "ticket"]
+      "EN-en": ["Can not find this user", "has just removed", "ticket"],
+      "ES-es": ["No se puede encontrar este usuario", "acaba de eliminar", "billete"]
     },
 
 
     "PROFILE.COLOR": {
       "FR-fr": ["Erreur", "Les formats disponible sont", "Vérifié que", "est disponible **[ici]", "Mise à jour de la couleur"],
-      "EN-en": ["Error", "The available formats are", "Verified that", "is available **[here]", "Color update"]
+      "EN-en": ["Error", "The available formats are", "Verified that", "is available **[here]", "Color update"],
+      "ES-es": ["Culpa", "Los formatos disponibles son", "Verificado que", "está disponible **[aquí]", "Actualización de color"]
     },
 
     "PROFILE.LEAD": {
       "FR-fr": ["Classement du serveur", "Niveau"],
-      "EN-en": ["Server ranking", "Level"]
+      "EN-en": ["Server ranking", "Level"],
+      "ES-es": ["Ranking del servidor", "Nivel"]
     },
 
     "PROFILE.RANK": {
       "FR-fr": ["Je suis trop puissant pour toi", "Désolé mais je ne prends pas en compte l'un de mes confrères", "Choisissez d'abord un background avec la commande `background` ou `background0`", "Oups j'ai oublié ce que je devais faire, essayez à nouveau."],
-      "EN-en": ["I'm too powerful for you", "Sorry but I do not take into account one of my confreres", "Choose a background first with the command `background` or `background0`", "Oops I forgot what I had to do, try again."]
+      "EN-en": ["I'm too powerful for you", "Sorry but I do not take into account one of my confreres", "Choose a background first with the command `background` or `background0`", "Oops I forgot what I had to do, try again."],
+      "ES-es": ["Soy demasiado poderoso para ti", "Lo siento, pero no tengo en cuenta uno de mis cohermanos.", "Elija un fondo primero con el comando `background` o `background0`", "Vaya, olvidé lo que tenía que hacer, inténtalo de nuevo."]
     },
 
 
     "MODERATION.GENERAL": {
       "FR-fr": ["Aucune raison spécifiée", "L'utilisateur n'existe pas!", "Action", "Raison", "sanctionChannel est actif mais non configuré, pensé à le définir", "logChannel est actif mais non configuré, pensé à le définir"],
-      "EN-en": ["No specified reason", "The user does not exist!", "Action", "Reason", "sanctionChannel is active but not configured, thought to define it", "logChannel is active but not configured, thought to define it"]
+      "EN-en": ["No specified reason", "The user does not exist!", "Action", "Reason", "sanctionChannel is active but not configured, thought to define it", "logChannel is active but not configured, thought to define it"],
+      "ES-es": ["Ninguna razón especificada", "¡El usuario no existe!", "Acción", "Razón", "sanctionChannel está activo pero no configurado, pensado para definirlo", "logChannel está activo pero no configurado, pensado para definirlo"]
     },
 
     "MODERATION.MUTE": {
       "FR-fr": ["l'utilisateur mentionné n'est pas muté!", "n'est plus muté!", "est muté pour", "Temps"],
-      "EN-en": ["The user mentioned is not mutated!", "is no longer mutated!", "is mutated for",  "Time"]
+      "EN-en": ["The user mentioned is not mutated!", "is no longer mutated!", "is mutated for",  "Time"],
+      "ES-es": ["¡El usuario mencionado no está mutado!", "ya no está mutado!", "esta mutado", "Hora"]
     },
 
     "MODERATION.REPORT": {
       "FR-fr": ["Lien du message", "[Cliquez sur moi!]", "Aucun lien spécifié", "Une sanction est demandée!"],
-      "EN-en": ["Message link", "[Click Me!]", "No link specified", "A sanction is requested!"]
+      "EN-en": ["Message link", "[Click Me!]", "No link specified", "A sanction is requested!"],
+      "ES-es": ["Mensaje", "[¡Haz click en mi!]", "Ningún enlace especificado", "Se solicita una sanción!"]
     },
 
     "MODERATION.PURGES": {
       "FR-fr": ["Vous devez spécifier un **nombre** entre 1 et 100!", "Nombre de messages", "Salon", "Aucun message à supprimer sur cet utilisateur (ou cet utilisateur n'existe pas).", "Utilisateur"],
-      "EN-en": ["You have to specify a **number** between 1 and 100!", "Number of messages", "Channel", "No message to delete on this user (or this user does not exist).", "User"]
+      "EN-en": ["You have to specify a **number** between 1 and 100!", "Number of messages", "Channel", "No message to delete on this user (or this user does not exist).", "User"],
+      "ES-es": ["Debes especificar un **número** entre 1 y 100!", "Número de mensajes", "Salón", "Ningún mensaje para eliminar en este usuario (o este usuario no existe).", "Usuario"]
     },
 
     "MODERATION.EMOJIADD": {
       "FR-fr": ["S'il vous plaît choisissez une image ne dépasse pas 256ko", "Veuillez choisir un lien dont l'image ne dépassent pas les 256ko", "Ajouter avec succès"],
-      "EN-en": ["Please choose an image do not exceed 256Ko", "Please choose a link whose image does not exceed 256KO", "Add successfully"]
+      "EN-en": ["Please choose an image do not exceed 256Ko", "Please choose a link whose image does not exceed 256KO", "Add successfully"],
+      "ES-es": ["Por favor, elija una imagen no exceda de 256ko.", "Por favor, elija un enlace cuya imagen no exceda de 256ko", "Añadir con éxito"]
     },
 
 
     "MUSIC.GENERAL": {
       "FR-fr": ["Vous devez d'abord rejoindre un canal vocal!", "Il n'y a rien à jouer", "arrête la musique!", "Il n'y a pas de file d'attente."],
-
-      "EN-en": ["You must first join a vocal channel!", "There is nothing to play", "stop the music!", "There is no queue."]
+      "EN-en": ["You must first join a vocal channel!", "There is nothing to play", "stop the music!", "There is no queue."],
+      "ES-es": ["¡Primero debes unirte a un canal vocal!", "No hay nada que jugar", "¡Deja de música!", "No hay cola."]
     },
 
     "MUSIC.VOL": {
       "FR-fr": ["Le volume actuel est de", "Veuillez utiliser un numéro pour ajuster le volume.", "Veuillez utiliser un nombre compris entre 0 et 100.", "Volume défini sur"],
-      "EN-en": ["The current volume is", "Please use a number to adjust the volume.", "Please use a number between 0 and 100.", "Volume set to"]
+      "EN-en": ["The current volume is", "Please use a number to adjust the volume.", "Please use a number between 0 and 100.", "Volume set to"],
+      "ES-es": ["El volumen actual es", "Por favor, use un número para ajustar el volumen.", "Por favor, use un número entre 0 y 100.", "Volumen definido en"]
     },
 
     "MUSIC.SKIPTO": {
       "FR-fr": ["La file d'attente ne contient que", "chansons!", "à skip", "musiques"],
-      "EN-en": ["The queue contains only", "songs!", "at skip", "musics"]
+      "EN-en": ["The queue contains only", "songs!", "at skip", "musics"],
+      "ES-es": ["La cola contiene solo", "¡Canciones!", "en saltar", "música"]
     },
 
     "MUSIC.SKIP": {
       "FR-fr": ["Il n'y a rien que je puisse sauter pour vous.", "a skip la musique"],
-      "EN-en": ["There is nothing I could skip for you.", "skip the music"]
+      "EN-en": ["There is nothing I could skip for you.", "skip the music"],
+      "ES-es": ["No hay nada que pueda saltar por ti.", "omitir la música"]
     },
 
     "MUSIC.SHUF": {
       "FR-fr": "a mélange la file d'attente",
-      "EN-en": "mixing the queue"
+      "EN-en": "mixing the queue",
+      "ES-es": "Una mezclando la cola"
     },
 
     "MUSIC.SEARCH": {
       "FR-fr": ["Un collecteur de messages est déjà actif dans ce canal.", "**Répondez avec le numéro de la chanson que vous souhaitez écouter**", "Résultat pour", "[Cliquez ici pour accéder au lien]"],
-      "EN-en": ["A message collector is already active in this channel.", "**Answer with the number of the song you want to listen to**", "Result for", "[Click here to access the link]"]
+      "EN-en": ["A message collector is already active in this channel.", "**Answer with the number of the song you want to listen to**", "Result for", "[Click here to access the link]"],
+      "ES-es": ["Un colector de mensajes ya está activo en este canal.", "**Responde con el número de la canción que quieres escuchar**", "Resultado para", "[Haga clic aquí para acceder al enlace.]"]
     },
 
     "MUSIC.RESUME": {
       "FR-fr": ["reprend la musique!", "La file d'attente n'est pas en pause."],
-      "EN-en": ["resumes music!", "The queue is not paused."]
+      "EN-en": ["resumes music!", "The queue is not paused."],
+      "ES-es": ["Reanuda la música!", "La cola no está en pausa."]
     },
 
     "MUSIC.QUEUE": {
       "FR-fr": ["Il me manque l'autorisation de gérer les messages ou d'ajouter des réactions", "**Rien ne joue sur ce serveur**", "Page actuelle", "File d'attente de chanson\n", "En cours de lecture"],
-      "EN-en": ["I miss the permission to manage messages or add reactions", "**Nothing plays on this server**", "Current page", "Song Queue\n", "Reading"]
+      "EN-en": ["I miss the permission to manage messages or add reactions", "**Nothing plays on this server**", "Current page", "Song Queue\n", "Reading"],
+      "ES-es": ["Extraño el permiso para administrar mensajes o agregar reacciones.", "**Nada juega en este servidor**", "Página actual", "Cola de canciones\n", "Leyendo"]
     },
 
     "MUSIC.REMOVE": {
       "FR-fr": ["Vous ne pouvez pas retirer de la queue la musique en cour de lecture", "a rétiré", "de la file d'attente.", "je ne sais pas quoi faire"],
-      "EN-en": ["You can not remove from the tail music in playback yard", "remove", "of the queue.", "I do not know what to do"]
+      "EN-en": ["You can not remove from the tail music in playback yard", "remove", "of the queue.", "I do not know what to do"],
+      "ES-es": ["No se puede quitar de la música cola en el patio de reproducción.", "el Prado", "de la cola.", "No sé qué hacer"]
     },
 
     "MUSIC.CLIP": {
       "FR-fr": ["Impossible d'écouter le clip car une file d'attente est active.", "désolé mais une erreur c'est produite"],
-      "EN-en": ["Can not listen to the clip because a queue is active.", "sorry but a mistake it's produced"]
+      "EN-en": ["Can not listen to the clip because a queue is active.", "sorry but a mistake it's produced"],
+      "ES-es": ["No se puede escuchar el clip porque una cola está activa.", "lo siento, pero un error se produce"]
     },
 
     "MUSIC.LOOP": {
       "FR-fr": ["Il n'y a rien à écouter.", "est","**Activé**", "**Désactivé**"],
-      "EN-en": ["There is nothing to listen.", "is","**Activated**", "**Deactivated**"]
+      "EN-en": ["There is nothing to listen.", "is","**Activated**", "**Deactivated**"],
+      "ES-es": ["No hay nada que escuchar.", "es","**Activado**", "**Desactivado**"]
     },
 
     "MUSIC.LYRICS": {
       "FR-fr": ["Veuillez entrer le titre d'une musique.\n\nAfin de trouver les bonnes parôles nous avons désactiver la recherche sur la lecture en cour\n\nNous recherchons une liste large afin d'améliorer la recherche Entrez un titre connu ou d'ajouter le nom de l'auteur améliore la recherche.", "Recherche de l'auteur","Recherche du titre", "Recherche des paroles", "Recherche de la couverture", "Profité du karaoké"],
-      "EN-en": ["Please enter the title of a music.\n\nIn order to find the right lyrics We disable research on reading\n\nWe are looking for a wide list so to improve research enter a known title or adding the author's name enhances search", "Author's search","Search title", "Search for lyrics", "Looking for the cover", "Taken from karaoke"]
+      "EN-en": ["Please enter the title of a music.\n\nIn order to find the right lyrics We disable research on reading\n\nWe are looking for a wide list so to improve research enter a known title or adding the author's name enhances search", "Author's search","Search title", "Search for lyrics", "Looking for the cover", "Taken from karaoke"],
+      "ES-es": ["Por favor ingrese el título de la música.\n\nPara encontrar la derecha Maririres desactivamos la investigación sobre la lectura en la corte.\n\nEstamos buscando una amplia lista para mejorar la búsqueda, ingrese un título conocido o agregue el nombre del autor. Mejora la búsqueda.", "Búsqueda del autor","Título de la búsqueda", "Buscar letras", "Buscando la portada", "Tomado de karaoke"]
     },
 
     "MUSIC.MOVE": {
       "FR-fr": ["à été déplacé vers la position", "de la file d'attente."],
-      "EN-en": ["has been moved to the position", "of the queue."]
+      "EN-en": ["has been moved to the position", "of the queue."],
+      "ES-es": ["se ha movido a la posición", "de la cola."]
     },
 
     "MUSIC.NOWP": {
       "FR-fr": ["Il n'y a rien à jouer.", "Lecture en cours", "Temps restant"],
-      "EN-en": ["There is nothing to play.", "Reading in progress", "Remaining time"]
+      "EN-en": ["There is nothing to play.", "Reading in progress", "Remaining time"],
+      "ES-es": ["No hay nada que jugar.", "Leyendo en progreso", "Tiempo restante"]
     },
 
     "MUSIC.PAUSE": {
       "FR-fr": ["à mis en pause la musique.", "La file d'attente est déjà en pause."],
-      "EN-en": ["paused the music.", "The queue is already paused."]
+      "EN-en": ["paused the music.", "The queue is already paused."],
+      "ES-es": ["Haciendo una pausa la música.", "La cola ya está en pausa."]
     },
 
     "MUSIC.PLAY": {
       "FR-fr": ["Vous devez être dans le même canal que", "Impossible de se connecter au canal vocal, autorisations manquantes", "Aucun contenu n'a pu être trouvé à cette URL.", "Suite à la redirection de l'URL ...", "Impossible de trouver une vidéo associer à cette URL", "Impossible de trouver", "Ajout à la file d'attente", "Ajout de", "Impossible de rejoindre le channel", "Je ne peux pas parler dans ce canal vocal, assurez-vous que j'ai les autorisations appropriées!"],
-      "EN-en": ["You must be in the same channel as", "Can not connect to the voice channel, missing permissions", "No content could be found at this URL.", "Following the redirection of URL ...", "Can not find a video associate with this URL", "Can not find", "Add to the queue", "Add of", "Can not join the channel", "I can not speak in this vocal channel, make sure I have the appropriate permissions!"]
+      "EN-en": ["You must be in the same channel as", "Can not connect to the voice channel, missing permissions", "No content could be found at this URL.", "Following the redirection of URL ...", "Can not find a video associate with this URL", "Can not find", "Add to the queue", "Add of", "Can not join the channel", "I can not speak in this vocal channel, make sure I have the appropriate permissions!"],
+      "ES-es": ["Debes estar en el mismo canal que", "No se puede conectar al canal de voz., Permisos faltantes", "No se puede encontrar contenido en esta URL.", "Siguiendo la redirección de la URL. ...", "No se puede encontrar un video asociado con esta URL.", "No puede encontrar", "Añadir a la cola", "Además de", "No se puede unir al canal", "No puedo hablar en este canal vocal., ¡Asegúrate de tener los permisos apropiados!"]
     },
 
     "MUSIC.PLAYLIST": {
       "FR-fr": ["Playlist introuvable", "⌛ récupére la playlist...", "\nListe de lecture supérieure à la limite de caractères...", "à commencé une playlist"],
-      "EN-en": ["Playlist not found", "⌛ Recover the playlist ...", "\nPlaylist superior to the character limit ...", "started a playlist"]
+      "EN-en": ["Playlist not found", "⌛ Recover the playlist ...", "\nPlaylist superior to the character limit ...", "started a playlist"],
+      "ES-es": ["Lista de reproducción no encontrada", "⌛ Juega la lista de reproducción...", "\nLista de reproducción sobre el límite de carácter...", "comenzó una lista de reproducción"]
     },
 
 
     "MUSIC.PLAY+": {
       "FR-fr": ["Quitte le canal vocal...", "`❌ La file d'attente est terminée.`", "Lecture en cour", "Vocal", "Salon", "Durée", "Infos supplémentaire", "skip la musique,", "à mis en pause la musique.", "reprend la musique!", "à unmute la musique!", "à mute la musique!", "diminue le volume, le volume est maintenant", "augmente le volume, le volume est maintenant", "Loop est maintenant", "arrête la musique!"],
-      "EN-en": ["Leave the vocal channel ...", "`❌ The queue is complete.`", "Playback", "Vocal", "Channel", "Duration", "Additional Info", "skip music,", "paused the music.", "Resumes music!", "Unmute music!", "Mute music!", "decreases the volume, the volume is now", "increase the volume, the volume is now", "Loop is now", "Stop music!"]
+      "EN-en": ["Leave the vocal channel ...", "`❌ The queue is complete.`", "reading in court", "Vocal", "Channel", "Duration", "Additional Info", "skip music,", "paused the music.", "Resumes music!", "to unmute the music!", "Mute music!", "decreases the volume, the volume is now", "increase the volume, the volume is now", "Loop is now", "Stop music!"],
+      "ES-es": ["Deja el canal vocal ...", "`❌ La cola está completa.`", "leyendo en la corte", "Vocal", "Canal", "Duración", "Información adicional", "Saltar música,", "Haciendo una pausa la música.", "Reanuda la música!", "para reactivar la música!", "para silenciar la música!", "Disminuye el volumen, el volumen es ahora.", "Aumenta el volumen, el volumen es ahora.", "Loop es ahora", "¡Deja de música!"]
     },
 
 
     "TOGETHER.TOGETHER": {
       "FR-fr": ["Désolé, mais vous êtes invisible, je ne peux pas vérifier certains paramètres et vous permettre d'exécuter cette commande.", "Cette fonctionnalité n'est pas disponible pour les utilisateurs mobiles", "Regarder youtube vidéos", "Lancé un partie de pêche", "Lancer Betrayal.io", "Lancer un jeu d'échecs", "Lancer une partie de poker", "Cliquez sur moi!"],
-      "EN-en": ["Sorry, but you are invisible, I can not check some settings and allow you to run this command.", "This feature is not available for mobile users", "Watch youtube videos", "Launched a fishing party", "Launch betrayal.io", "Launch a chess game", "Launch a poker part", "Click Me!"]
+      "EN-en": ["Sorry, but you are invisible, I can not check some settings and allow you to run this command.", "This feature is not available for mobile users", "Watch youtube videos", "Launched a fishing party", "Launch betrayal.io", "Launch a chess game", "Launch a poker part", "Click Me!"],
+      "ES-es": ["Lo sentimos, pero usted es invisible, no puedo verificar algunas configuraciones y permitirle ejecutar este comando.", "Esta característica no está disponible para usuarios móviles.", "Ver videos youtube", "Lanzó una fiesta de pesca", "Lanzamiento Betrayal.io", "Lanzar un juego de ajedrez", "Lanzar un juego de póquer", "¡Haz click en mi!"]
     },
 
 
 
     "GENERAL_CHANNEL": {
       "FR-fr": ["Propriété", "Nom", "Catégorie", "Type", "Position", "Nsfw", "Activé", "Désactivé", "ID", "Permission par défaut autorisé", "Permission par défaut refusé"],
-      "EN-en": ["Property", "Name", "Category", "Type", "Position", "Nsfw", "Activated", "Deactivated", "ID", "Authorized default permission", "Default permission refused"]
+      "EN-en": ["Property", "Name", "Category", "Type", "Position", "Nsfw", "Activated", "Deactivated", "ID", "Authorized default permission", "Default permission refused"],
+      "ES-es": ["Propiedad", "Apellido", "Categoría", "Tipo", "Posición", "Nsfw", "Activado", "Desactivado", "ID", "Permiso de incumplimiento autorizado", "Permiso predeterminado rechazado"]
     },
 
     "CHANNEL_CREATE": {
       "FR-fr": "Nouveau channel",
-      "EN-en": "New Channel"
+      "EN-en": "New Channel",
+      "ES-es": "Nuevo canal"
     },
 
     "CHANNEL_DELETE": {
       "FR-fr": "Channel supprimé",
-      "EN-en": "Channel deleted"
+      "EN-en": "Channel deleted",
+      "ES-es": "Canal borrado"
     },
 
     "CHANNEL_UPDATE": {
       "FR-fr": ["Channel modifié", "Mise à jour"],
-      "EN-en": ["Channel modified", "Update"]
+      "EN-en": ["Channel modified", "Update"],
+      "ES-es": ["Canal modificado", "Actualización"]
     },
 
 
     "GENERAL_EMOJI": {
       "FR-fr": ["Propriété", "Nom", "ID", "Animé", "Identifient", "URL"],
-      "EN-en": ["Property", "Name", "ID", "Animated", "Identify", "URL"]
+      "EN-en": ["Property", "Name", "ID", "Animated", "Identify", "URL"],
+      "ES-es": ["Propiedad", "Apellido", "ID", "Animado", "Identificar", "URL"]
     },
 
     "EMOJI_CREATE": {
       "FR-fr": "Ajout d'emoji",
-      "EN-en": "Adding emoji"
+      "EN-en": "Adding emoji",
+      "ES-es": "Añadiendo emoji"
     },
 
     "EMOJI_DELETE": {
       "FR-fr": "Emoji supprimé",
-      "EN-en": "Deleted emoji"
+      "EN-en": "Deleted emoji",
+      "ES-es": "Emoji eliminado"
     },
 
     "EMOJI_UPDATE": {
       "FR-fr": "Emoji modifié",
-      "EN-en": "Modified emoji"
+      "EN-en": "Modified emoji",
+      "ES-es": "Emoji modificado"
     },
 
 
     "GENERAL_INVITE": {
       "FR-fr": ["illimité", "Propriété", "Code", "Channel", "Channel_id", "Invite_id", "Temps", "Usage_Max", "Utilisation"],
-      "EN-en": ["unlimited", "Property", "Code", "Channel", "Channel_id", "Invite_id", "Time", "Usage_max", "Usage"]
+      "EN-en": ["unlimited", "Property", "Code", "Channel", "Channel_id", "Invite_id", "Time", "Usage_max", "Usage"],
+      "ES-es": ["ilimitado", "Propiedad", "Código", "Canal", "Canal_id", "Invitación_id", "Hora", "Uso_Max", "usar"]
     },
 
     "INVITE_CREATE": {
       "FR-fr": "Nouvelle invitation",
-      "EN-en": "New invitation"
+      "EN-en": "New invitation",
+      "Fr-fr": "Nueva invitación"
     },
 
     "INVITE_DELETE": {
       "FR-fr": "Invitation supprimée",
-      "EN-en": "Deleted invitation"
+      "EN-en": "Deleted invitation",
+      "ES-es": "Invitación suprimida"
     },
 
     "INVITE_UPDATE": {
       "FR-fr": "Invitation modifié",
-      "EN-en": "Modified invitation"
+      "EN-en": "Modified invitation",
+      "ES-es": "Invitación modificada"
     },
 
 
     "GENERAL_ROLE": {
       "FR-fr": ["Propriété", "Nom", "Couleur", "Mentionable", "Non", "Oui", "ID", "Permission"],
-
-      "EN-en": ["Property", "Name", "Color", "Mention", "No", "Yes", "ID", "Permission"]
+      "EN-en": ["Property", "Name", "Color", "Mention", "No", "Yes", "ID", "Permission"],
+      "ES-es": ["Propiedad", "Apellido", "Color", "Mencionado", "No", "sí", "ID", "Permiso"]
     },
 
     "ROLE_CREATE": {
       "FR-fr": "Nouveau rôle",
-      "EN-en": "New role"
+      "EN-en": "New role",
+      "ES-es": "Nuevo rol"
     },
 
     "ROLE_DELETE": {
       "FR-fr": "Rôle supprimé",
-      "EN-en": "Deleted role"
+      "EN-en": "Deleted role",
+      "ES-es": "Rol borrado"
     },
 
     "ROLE_UPDATE": {
       "FR-fr": ["Rôle Modifié", "Mise à jour", "Ancienne permission", "Nouvelle permission"],
-      "EN-en": ["Modified role", "Update", "Old permission", "New permission"]
+      "EN-en": ["Modified role", "Update", "Old permission", "New permission"],
+      "ES-es": ["Rol modificado", "Actualización", "Permiso anterior", "Nuevo permiso"]
     },
 
 
     "EXIT_MEMBER": {
       "FR-fr": ["est actif mais non configuré, pensé à le définir", "Un utilisateur est parti", "Nouveau congé", "Membre", "Oups j'ai oublié ce que je devais faire, quand quelqu'un quitte.", "n'existe pas ou je n'ai pas accès"],
-      "EN-en": ["is active but not configured, thought to define it", "A user is gone", "New leave", "Member", "Oops I forgot what I had to do, when someone leaves.", "does not exist or I do not have access"]
+      "EN-en": ["is active but not configured, thought to define it", "A user is gone", "New leave", "Member", "Oops I forgot what I had to do, when someone leaves.", "does not exist or I do not have access"],
+      "ES-es": ["está activo pero no configurado, pensado para definirlo", "Un usuario se ha ido", "Nueva licencia", "Miembro", "Vaya, olvidé lo que tenía que hacer, cuando alguien se va.", "No existe o no tiene acceso."]
     },
 
     "WELCOME_MEMBER": {
       "FR-fr": ["Un utilisateur a rejoint", "autoRole est actif mais pas configurer", "Nouveau venu"],
-      "EN-en": ["A user has joined", "autoRole is active but not configure", "Newcomer"]
+      "EN-en": ["A user has joined", "autoRole is active but not configure", "Newcomer"],
+      "ES-es": ["Un usuario se ha unido", "autoRole está activo pero no configurar", "Recién llegado"]
     },
 
 
     "MESSAGE": {
       "FR-fr": ["Vous venez de gagner un niveau", "pour plus d'infos", "Vous n'êtes pas autorisé à utiliser cette commande sans l'accord de mon créateur!", "Vous n'avez pas les autorisations pour taper cette commande!", "Nous avons besoin d'arguments pour cette commande", "Voici comment utiliser la commande", "Vous devez mentionner un utilisateur!", "Vous ne pouvez pas utiliser cette commande sur cet utilisateur!", "merci d'attendre", "seconde(s) avant de ré-utiliser la commande", "heure(s) avant de ré-utiliser la commande", "minute(s) avant de ré-utiliser la commande"],
-      "EN-en": ["You have just won a level", "For more info", "You are not allowed to use this command without the agreement of my creator!", "You do not have the permissions to type this order!", "We need arguments for this command", "Here's how to use the command", "You have to mention a user!", "You can not use this command on this user!", "thank you for waiting", "second(s) before re-use the command", "hour(s) before re-use the command", "minute(s) before re-use the command"]
+      "EN-en": ["You have just won a level", "For more info", "You are not allowed to use this command without the agreement of my creator!", "You do not have the permissions to type this order!", "We need arguments for this command", "Here's how to use the command", "You have to mention a user!", "You can not use this command on this user!", "thank you for waiting", "second(s) before re-use the command", "hour(s) before re-use the command", "minute(s) before re-use the command"],
+      "ES-es": ["Acabas de ganar un nivel", "Para más información", "¡No se le permite usar este comando sin el acuerdo de mi creador!", "¡No tienes los permisos para escribir este pedido!", "Necesitamos argumentos para este comando.", "Aquí es cómo usar el comando", "¡Debes mencionar a un usuario!", "¡No puedes usar este comando en este usuario!", "Gracias por esperar", "el segundo(s) Antes de reutilizar el comando", "hora(s) Antes de reutilizar el comando", "minuto(s) Antes de reutilizar el comando"]
     },
 
     "MESSAGE_DELETE/UPDATE": {
       "FR-fr": ["Message supprimé", "Propriété", "Channel", "Channel_id", "Auteur", "Message", "Message modifié", "Ancien Message", "Nouveau Message", "Lien"],
-      "EN-en": ["Deleted message", "Property", "Channel", "Channel_id", "Author", "Message", "Modified message", "Old message", "Nouveau message", "Link"]
+      "EN-en": ["Deleted message", "Property", "Channel", "Channel_id", "Author", "Message", "Modified message", "Old message", "Nouveau message", "Link"],
+      "ES-es": ["Mensaje eliminado", "Propiedad", "Canal", "Canal_id", "Autor", "Mensaje", "Mensaje modificado", "Mensaje viejo", "Nuevo mensaje", "enlazar"]
     },
 
 
     "MESSAGE_REACTION": {
-      "FR-fr": ["⛔ | Éh non ..", "Vous pouvez avoir qu'un seul ticket d'ouvert à la fois.", "🎟️ | Système de Ticket", "Veuillez expliquer la raison de votre demande. Un membre de l'équipe prendra en charge votre ticket sous peu.", "Le staff a besoin de ce rôle pour voir les tickets.", "S'il vous plaît, veuillez réagir une nouvelle fois au message de création de ticket.", "Cet utilisateur a besoin d'aide.", "📝 | Ticket Ouvert", "Un utilisateur à ouvert un ticket et attend qu'on s'occupe de sa demande.", "**Utilisateur :**", "L'auteur a confirmé la fermeture du ticket."],
-      "EN-en": ["⛔ | Ish no ..", "You can have only one ticket from open at a time.", "🎟️ | Ticket system", "Please explain the reason for your request. A member of the team will take care of your ticket shortly.", "Staff needs this role to see tickets.", "Please, please react again to the ticket creation message.", "This user needs help.", "📝 | Open ticket", "A user opens a ticket and waits for his request.", "**User :**", "The author confirmed the closure of the ticket."]
+      "FR-fr": ["⛔ | Eh non ..", "Vous pouvez avoir qu'un seul ticket d'ouvert à la fois.", "🎟️ | Système de Ticket", "Veuillez expliquer la raison de votre demande. Un membre de l'équipe prendra en charge votre ticket sous peu.", "Le staff a besoin de ce rôle pour voir les tickets.", "S'il vous plaît, veuillez réagir une nouvelle fois au message de création de ticket.", "Cet utilisateur a besoin d'aide.", "📝 | Ticket Ouvert", "Un utilisateur à ouvert un ticket et attend qu'on s'occupe de sa demande.", "**Utilisateur :**", "L'auteur a confirmé la fermeture du ticket."],
+      "EN-en": ["⛔ | Eh no ..", "You can have only one ticket from open at a time.", "🎟️ | Ticket system", "Please explain the reason for your request. A member of the team will take care of your ticket shortly.", "Staff needs this role to see tickets.", "Please, please react again to the ticket creation message.", "This user needs help.", "📝 | Open ticket", "A user opens a ticket and waits for his request.", "**User :**", "The author confirmed the closure of the ticket."],
+      "ES-es": ["⛔ | Eh no ..", "Puedes tener un solo boleto de abierto a la vez.", "🎟️ | Sistema de boletos", "Por favor explique el motivo de su solicitud. Un miembro del equipo se encargará de su boleto en breve.", "El personal necesita este rol para ver los boletos.", "Por favor, vuelva a reaccionar nuevamente al mensaje de creación de boletos.", "Este usuario necesita ayuda.", "📝 | Billete abierto", "Un usuario abre un boleto y espera su solicitud.", "**Usuario :**", "El autor confirmó el cierre del boleto.."]
     },
 
 
     "BUTTON_CLICKMENU": {
       "FR-fr": ["Cliquez ici", "Pour commencer l'activité", "dans"],
-      "EN-en": ["Click here", "To start the activity", "in"]
+      "EN-en": ["Click here", "To start the activity", "in"],
+      "ES-es": ["Haga clic aquí", "Para iniciar la actividad.", "dentro"]
     }
   }
 }

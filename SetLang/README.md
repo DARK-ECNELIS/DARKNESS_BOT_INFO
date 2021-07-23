@@ -4,10 +4,10 @@
 
 ### Français [FR-fr]
 ### English [EN-en]
+### Español [ES-es] (⚠ Traducción imperfecta)
 
 ## 🛠 Comming Soon
 
-### Español [ES-es]
 ### Deutsche [DE-de]
 ### русский [RU-ru]
 ### 日本語 [JA-ja]

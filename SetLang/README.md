@@ -4,7 +4,7 @@
 
 ### Français [FR-fr]
 ### English [EN-en]
-### Español [ES-es] (⚠ Traducción imperfecta)
+### Español [ES-es] | ⚠ Traducción imperfecta
 
 ## 🛠 Comming Soon
 

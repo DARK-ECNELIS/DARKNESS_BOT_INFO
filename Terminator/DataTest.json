@@ -3,8 +3,7 @@
     "nav": "『NAVIGATION』",
     "game" : "『GAMING』",
     "anime": "『ANIME』",
-    "fan-art": "『Fan-Art』",
-    "natural": "『Natural』",
+    "natural": "『NATURAL』",
     "art": "『ART』",
     "censored": "『CENSORED』"
   },
@@ -21,22 +20,67 @@
     "game": {
       "gameName": ["imageURL"],
       "OSU": ["imageURL"],
-      "BrawlStars": [
-        { "channelID": ""},
-        { "code": { "index": "", "num": 0 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 1 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 2 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 3 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 4 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 5 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 6 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 7 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 8 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 9 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 10 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 11 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } },
-        { "code": { "index": "", "num": 12 }, "url": "" , "price": { "money": 0, "light": 0, "darkness": 0 } }
-    ]
+      "Assassin's Creed": {
+        "infos": {  "channelID": "866547650160623656", "name": "🗡・assassin-creed" },
+        "stock": [
+          { "code": { "index": "", "num": 0 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618632140312596/Assassins_Creed01.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 1 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618634656890911/Assassins_Creed02.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 2 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618638402396220/Assassins_Creed03.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 3 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618645813723187/Assassins_Creed04.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 4 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618648665858109/Assassins_Creed05.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 5 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618657486499880/Assassins_Creed06.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 6 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618819210477568/Assassins_Creed07.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 7 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618823358631986/Assassins_Creed08.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 8 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618827494215700/Assassins_Creed09.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 9 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618831499784252/Assassins_Creed10.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 10 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618838760120351/Assassins_Creed11.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 11 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618843159928832/Assassins_Creed12.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 12 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618847912095784/Assassins_Creed13.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 13 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618852894916639/Assassins_Creed14.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 14 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618857936461855/Assassins_Creed15.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 15 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618859916177448/Assassins_Creed16.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 16 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618865570103306/Assassins_Creed17.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 17 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618869391130644/Assassins_Creed18.png", "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 18 }, "url": "https://media.discordapp.net/attachments/866547650160623656/868618875086987334/Assassins_Creed19.png", "price": { "money": 0, "light": 0, "darkness": 0 } }
+        ]
+      },
+      "BrawlStars": {
+        "infos": {  "channelID": "866458646819635230", "name": "⚽・Brawl-Stars" },
+        "stock": [
+          { "code": { "index": "", "num": 0 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458702709129266/BrawlStars01.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 1 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458703933997096/BrawlStars02.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 2 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458709096660992/BrawlStars03.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 3 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458714742718504/BrawlStars04.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 4 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458717573349446/BrawlStars05.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 5 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458722196914194/BrawlStars06.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 6 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458727007518730/BrawlStars07.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 7 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458733570818098/BrawlStars08.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 8 }, "url": "https://media.discordapp.net/attachments/866458646819635230/866458737144496138/BrawlStars09.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 9 }, "url": "https://media.discordapp.net/attachments/866458646819635230/868263794646863912/BrawlStars10.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 10 }, "url": "https://media.discordapp.net/attachments/866458646819635230/868263796219707482/BrawlStars11.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 11 }, "url": "https://media.discordapp.net/attachments/866458646819635230/868263807074570270/BrawlStars12.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 12 }, "url": "https://media.discordapp.net/attachments/866458646819635230/868263810371317770/BrawlStars13.png" , "price": { "money": 0, "light": 0, "darkness": 0 } }
+        ]
+      },
+      "Rayman": {
+        "infos": {  "channelID": "868259555900018708", "name": "🏃・rayman" },
+        "stock": [
+          { "code": { "index": "", "num": 0 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259779909386260/Rayman01.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 1 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259783692656640/Rayman02.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 2 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259786964205628/Rayman03.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 3 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259791519248444/Rayman04.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 4 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259794757247006/Rayman05.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 5 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259799819780147/Rayman06.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 6 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259803389120582/Rayman07.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 7 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259808933978132/Rayman08.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 8 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259813635817503/Rayman09.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 9 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259818421485668/Rayman10.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 10 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259822217330728/Rayman11.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 11 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259825610522644/Rayman12.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 12 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259829955833916/Rayman13.png" , "price": { "money": 0, "light": 0, "darkness": 0 } },
+          { "code": { "index": "", "num": 13 }, "url": "https://media.discordapp.net/attachments/868259555900018708/868259833332248656/Rayman14.png" , "price": { "money": 0, "light": 0, "darkness": 0 } }
+        ]
+      }
     },
     "anime": {
       "animeName": {
@@ -57,6 +101,9 @@
       "NanatsuNoTaizai": {
         "Meliodas": ["imageURL"],
         "Elizabeth": ["imageURL"]
+      },
+      "DanMachi": {
+        "?": ["imageURL"]
       }
     },
     "fan-art": {

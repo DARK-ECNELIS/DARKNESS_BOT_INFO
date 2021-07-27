@@ -1,84 +1,62 @@
 # 👾DARKNESS_BOTS_INFOS👾
 
-## 🤖 Mise à jour DARKNESS V5.9
+## 🤖 Mise à jour DARKNESS V5.9.1
 
 ### Commands
 ___
 ### 🛠Patch
 
-### [together]
-> - **[+]** Optimisation du menu
-> - **[+]** Stabilisation de certin jeux
-> - **[+]** Ajout de la possibilité d'utiliser dans plusieur channel together
-> - **[+]** Ajout de la possibilité d'utiliser plusieur together dans le même channel
-> - **[+]** Ajout des paraètre de traduction
+### [botinfo]
+> - **[~]** Correction visuel (mobile)
 
-### [rank]
-> - **[+]** Fusion des preset `BETA_1` et `BETA_2`
+### [setprofile]
+> - **[~]** Corection des presets
 
-### [close]
-> - **[+]** Ajout d'un timer de 5sec avant la supresion du ticket
-> - **[+]** Ajout des paramètre de traduction
+### [profile]
+> - **[~]** Corection des presets
+
+### [background]
+> - **[+]** Integration de la version beta 0.3 (terminator)
 
 ### [help]
-> - **[+]** Ajout des nouvelle commande
-> - **[~]** Une update du help sera avenir afin d'être le plus adapté que possible
+> - **[+]** Supression des commands inutil
 
 ### 📄News
 
-### [profile]
-> - **[+]** Consulté vos paramètre personalisé ou celui d'un autre utilisateur
-> - **[+]** Ajoout du statistique suivant:
-  - AFK Message
-  - Total de cash
-  - Total d'image acheté
-  - Total easter-eggs trouvé
-
-### [setprofile]
-> - **[+]** Un nouveau moyen de personalisé les paramètre d'utilisateur
-> - **[+]** Ajout du choix des preset du rank
-> - **[+]** Ajout du custom afk message
+### [emoji]
+> - **[+]** Ajout des infos sur un emoji venant du serveur
+> - **[+]** Ajout des infos sur un emoji venant d'un autre seveur
 ___
 ### Event
 ___
 ### 🛠Patch
 
-### [message]
-> - **[+]** Correction de la mention du bot
+### [client]
+> - **[+]** Correction des connexions
 
-### [guildDelete]
-> - **[+]** Correction de la suppression des data lang de la base de donné
+### [guildCreate/guildDelete]
+> - **[+]** Supression/Ajout des infos
 
-### [ticketReaction]
-> - **[+]** Ajout des paramètre de langue
-
+### [guildMemberAdd/guildMemberRemove]
+> - **[+]** Ajout d'info suplémentaire
+> - **[+]** Correction des images par default
 ### 📄News
 
-### [ready]
-> - **[+]** Suppresion des information de la guild dans la base de donnée
-
-### [guildDelete]
-> - **[+]** Suppresion des information de la guild dans la base de donnée
-
-### [guildMemberAdd]
-> - **[+]** Modification de l'afichage
-
-### [guildMemberDelete]
-> - **[+]** Modification de l'afichage
+### [VIDE]
 ___
 ### Autre
 
 ___
 ### 📄News
 
-### [clickMenu]
-> - **[+]** Ajout d'un menu interactif pour les together
-> - **[+]** Ajout des paramètre de traduction
+### [DARKNESS]
+> - **[+]** Moins de mise à jour sont avenir pour le bot, je n'apprend plus rien en `js` et j'ai donc décidé d'apronfondir mes conaisssance au niveau gaming.
+Le bot ne sera pas mis au placard et son dashbord est toujour en construction 
 
 
 __Comming Soon__
 
-- Refonte/Optimisation des backgrouds + ajout d'un shop
+- Ajout d'image de backgrouds + ajout d'un shop
 - Refonte/Ajout de preset quand un membre rejoind ou quite la guild
 - Ajout d'un système économic
 - Refonte du `help`

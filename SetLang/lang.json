@@ -8,6 +8,20 @@
       "ES-es": "El módulo musical está temporalmente deshabilitado esperando una actualización del módulo YTDL-CORE.\nPuedes usar el nuevo módulo con el comando. `together` o `yt`\n\n⚠ El módulo está disponible en francés y se traducirá en la próxima actualización."
     },
 
+    "UNAVAILABLE": {
+      "FR-fr":"Cette commande est temporairement désactivée",
+      "EN-en": "This command is temporarily disabled",
+      "ES-es": "Este comando está temporalmente deshabilitado"
+    },
+
+
+    "PERMS": {
+      "FR-fr": "Il me manque la perms d'executé cette action",
+      "EN-en": "I miss the perms of executing this action",
+      "ES-es": "Extraño a los PERMS de la ejecución de esta acción"
+    },
+
+
     "DIRECTMESSAGE": {
       "FR-fr": "Envoyer un DM à un utilisateur",
       "EN-en": "Send a DM to a user",
@@ -281,9 +295,9 @@
       "ES-es": "Expresar a un usuario de un gremio"
     },
     "MUTE": {
-      "FR-fr": "Rendre un utilisateur muet",
-      "EN-en": "Mute a user",
-      "ES-es": "Silencio"
+      "FR-fr": "Rendre un utilisateur muet (Si aucun temps n'est défini, l'utilisateur est muet pour une période indéterminée)",
+      "EN-en": "Mute a user (If no time is defined, the user is silent for an indefinite period)",
+      "ES-es": "Silencio (Si no se define el tiempo, el usuario está mudo por un período indefinido)"
     },
     "PRUNE": {
       "FR-fr": "Purger un certain nombre de message spécifié sur un utilisateur spécifié",
@@ -323,12 +337,12 @@
       "ES-es": "Lista de lectura privada del bot."
     },
     "LOOP": {
-      "FR-fr": "Jouer la file d'attente de boucle",
+      "FR-fr": "Jouer la file d'attente en boucle",
       "EN-en": "Play the loop queue",
       "ES-es": "Juega la cola de bucle"
     },
     "LYRICS": {
-      "FR-fr": "Recherche les paroles d'une musique\n⚠️ Pour améliorer la recherche àjouter le nom de l'auteur",
+      "FR-fr": "Recherche les paroles d'une musique\n⚠️ Pour améliorer la recherche ajouter le nom de l'auteur",
       "EN-en": "Search the lyrics of music\n⚠️ To improve the search to add the name of the author",
       "ES-es": "Busca las letras de una música.\n⚠️ Para mejorar la búsqueda para agregar el nombre del autor."
     },
@@ -343,9 +357,9 @@
       "ES-es": "Ver el tiempo restante en la música reproducida"
     },
     "PAUSE": {
-      "FR-fr": "Pause de la musique en cours de lecture",
-      "EN-en": "Pause of music in the reading courtyard",
-      "ES-es": "Pausa de la música durante la lectura."
+      "FR-fr": "La musique jouée est en pause",
+      "EN-en": "The music being played is paused",
+      "ES-es": "La música jugada está en pausa"
     },
     "PLAY": {
       "FR-fr": "Écoutez de la musique de YouTube ou SoundCloud",
@@ -408,11 +422,6 @@
       "FR-fr": "changer la couleur de fond",
       "EN-en": "change the background color",
       "ES-es": "cambiar el color de fondo"
-    },
-    "BACKGROUND0": {
-      "FR-fr": "Accéder à l'ancienne version de l'arrière-plan",
-      "EN-en": "Access the old version of the background",
-      "ES-es": "Accede a la versión antigua del fondo."
     },
     "BACKGROUND": {
       "FR-fr": "Changer le fond du rang",
@@ -477,6 +486,11 @@
       "FR-fr": "Exécuter un calcul mathématique\n\nExemple: `$math (2/3-100*4) - (23*2/3) + 1`",
       "EN-en": "Execute a mathematical calculation\n\nExample: `$math (2/3-100*4) - (23*2/3) + 1`",
       "ES-es": "Ejecutar un cálculo matemático.\n\nEjemplo: `$math (2/3-100*4) - (23*2/3) + 1`"
+    },
+    "EMOJI": {
+      "FR-fr": "Récupérer des informations sur un emoji.",
+      "EN-en": "Recover information about an emoji.",
+      "ES-es": "Recupera información sobre un emoji."
     },
 
 
@@ -678,37 +692,16 @@
       "ES-es": "`prefix` - Cambiar el prefijo del bot..\n`staff` - Stock el papel del personal.\n`autoRole` - Stock el papel de los nuevos miembros.\n\n`logs` - Stock The Server Log Salon.\n\n`sanction` - Stock The Sanction Show al usar pedidos Ban / Munte / Kick / Report etc... .\n\n`welcome/exit` - Stock El canal donde se envían el mensaje y la URL de llegada y salida..\n\n`welcomeMessage/exitMessage` - El mensaje envía en el salón de llegada y el salón de salida.(agregar `{USER}` En su texto personalizado para que el BOT lo reemplace con el nombre del usuario).\n\n`welcomeURL/exitURL` - La URL de la imagen envía en el programa para llegar y salir que contiene el nombre y el avatar del miembro.\n\n`xpChannel` - Stock La sala de estar en la que se envía el mensaje de nivel superior..\n**⚠️ Tan discapacitado, el bot no reacciona cuando pasaste en el nivel superior**.\n\n`pollChannel` - Stock La sala de estar en la que el bot envía la encuesta con el comando **poll**"
     },
 
-    "!SET_LANG": {
-      "FR_fr": "Cette langue n'est pas prise en charge.\nUtiliser la commande `langList` pour voir les langues disponibles",
-      "EN-en": "This language is not supported.\nUse the command `langList` to see the languages ​​available",
-      "ES-es": "Este idioma no es compatible.\nUsa el comando `langList` para ver los idiomas disponibles."
-    },
-
-    "!SET_LANG_ARGS": {
-      "FR_fr": "Utiliser la commande `langList`",
-      "EN-en": "Use the command `langList`",
-      "ES-es": "Usa el comando `langList`"
-    },
     "SET_LANG": {
-      "FR-fr": "Nouvelle langue définie!",
-      "EN-en": "New language defined!",
-      "ES-es": "Nuevo idioma definido!"
+      "FR-fr": ["Il manque un argument, voici comment utilisé la commande: `(prefix)setlang FR-fr`  \n\n(Utiliser la commande `langList` pour avoir la liste des arguments disponibles)", "Cette langue n'est pas prise en charge.\nUtiliser la commande `langList` pour voir les langues disponibles", "Nouvelle langue définie!"],
+      "EN-en": ["There is missing an argument, here's how used the command:`(prefix)setlang EN-en`  \n\n(Use the command `langList` to have the list of available arguments)", "This language is not supported.\nUse the command `langList` to see the languages ​​available", "New language defined!"],
+      "ES-es": ["Falta un argumento, aquí está la forma en que se usa el comando: `(prefix)setlang ES-es`  \n\n(Usa el comando `langList` tener la lista de argumentos disponibles.)", "Este idioma no es compatible.\nUsa el comando `langList` para ver los idiomas disponibles.", "Nuevo idioma definido!"]
     },
 
-    "SETTINGS.P": {
-      "FR-fr": "Paramètre actuel",
-      "EN-en": "Current parameter",
-      "ES-es": "Parámetro actual"
-    },
-    "SETTINGS.M": {
-      "FR-fr": "Modération",
-      "EN-en": "Moderation",
-      "ES-es": "Moderación"
-    },
-    "SETTINGS.G": {
-      "FR-fr": "Serveur",
-      "EN-en": "Server",
-      "ES-es": "Servidor"
+    "SETTINGS": {
+      "FR-fr": ["Paramètre actuel", "Modération", "Serveur"],
+      "EN-en": ["Current parameter", "Moderation", "Server"],
+      "ES-es": ["Parámetro actual", "Moderación", "Servidor"]
     },
 
     
@@ -841,7 +834,7 @@
     },
 
     "INFO.PING": {
-      "FR-fr": ["Déconnecté", "Disponible", "Occupé", "Indisponible", "Latence du bot", "Latence de l'API", "Base de données", "Actif", "Maintenance", "Dernier redémarrage", "est actuellement"],
+      "FR-fr": ["Déconnecté", "Disponible", "Occupé", "Indisponible", "Latence du bot", "Latence de l'API", "Base de données", "Active", "Maintenance", "Dernier redémarrage", "est actuellement"],
       "EN-en": ["Disconnected", "Available", "Busy", "Unavailable", "Bot latency", "API latency", "Database", "Active", "Maintenance", "Last restart", "is actually"],
       "ES-es": ["Desconectado", "Disponible", "Ocupado", "Indisponible", "Latencia bot", "Latencia de la API", "Base de datos", "Activo", "Mantenimiento", "Último reinicio", "es en realidad"]
     },
@@ -853,7 +846,7 @@
     },
 
     "INFO.SINFO": {
-      "FR-fr": ["Aucun", "Faible", "Moyen", "Elevé", "Très élevé", "Propriétaire", "Infos", "Région", "Rôles", "Membre", "Salon", "Catégorie", "Texte", "Vocal", "Premium", "Boost", "Niveau", "Sécurité", "Règles", "Liste d'emoji", "Date d'anniversaire", "DD/MM/YYYY | hh:mm"],
+      "FR-fr": ["Aucun", "Faible", "Moyen", "Elevé", "Très élevé", "Propriétaire", "Infos", "Région", "Rôles", "Membre", "Salon", "Catégorie", "Texte", "Vocal", "Premium", "Boost", "Niveau", "Sécurité", "Règles", "Liste des émotes", "Date d'anniversaire", "DD/MM/YYYY | hh:mm"],
       "EN-en": ["None", "Low", "Medium", "High", "Very high", "Owner", "Infos", "Region", "Roles", "Member", "channel", "Category", "Text", "Voice", "Premium", "Boost", "Level", "Security", "Rules", "Emoji list", "Birthday", "MM/DD/YYYY | hh:mm"],
       "ES-es": ["Ninguna", "Bajo", "Manera", "Elevado", "Muy elevado", "Dueño", "Información", "Región", "Roles", "Miembro", "Salón", "Categoría", "Texto", "Vocal", "Prima", "Aumentar", "Nivel", "Seguridad", "Reglas", "Lista de emoji", "Fecha de cumpleaños", "DD/MM/YYYY | hh:mm"]
     },
@@ -877,11 +870,17 @@
       "ES-es": ["pollChannel está desactivado", "pollChannel no esta configurado", "Encuesta", "¡Puedes enviar otra encuesta!", "¡Tu encuesta fue enviada!"]
     },
 
+    "UTILES.EMOJI": {
+      "FR-fr": ["Nom", "Création", "DD/MM/YYYY", "Auteur", "Aucune idée", "Anime", "Disponible"],
+      "EN-en": ["Name", "Creation", "MM/DD/YYYY", "Author", "No idea", "Anime", "Available"],
+      "ES-es": ["Nombre", "Creación", "DD/MM/YYYY", "Autor", "Ninguna idea", "Anime", "Disponible"]
+    },
+
 
     "TICKET.SET": {
-      "FR-fr": ["Pour arreter la collection taper `cancel`", "Entrez un titre pour le système de ticket", "Arrêt de la collection", "Réagir avec 🎟️ pour créer un ticket.", "Temps écoulé", "Entrez une description pour le système de ticket"],
-      "EN-en": ["To stop the tape `cancel` collection", "Enter a title for the ticket system", "Stopping the collection", "React with 🎟️ to create a ticket.", "Time elapsed", "Enter a description for the ticket system"],
-      "ES-es": ["Para detener la colección de escritura. `cancel`", "Ingrese un título para el sistema de entradas", "Deteniendo la colección", "Reacciona con 🎟️ para crear un boleto.", "Tiempo pasado", "Ingrese una descripción para el sistema de entradas"]
+      "FR-fr": ["Pour arreter la collection taper `cancel`", "Entrez un titre pour le système de ticket", "Arrêt de la collection", "Réagir avec 🎟️ pour créer un ticket.", "Temps écoulé", "Entrez une description pour le système de ticket", "Système de ticket configuré"],
+      "EN-en": ["To stop the tape `cancel` collection", "Enter a title for the ticket system", "Stopping the collection", "React with 🎟️ to create a ticket.", "Time elapsed", "Enter a description for the ticket system", "Configured ticket system"],
+      "ES-es": ["Para detener la colección de escritura. `cancel`", "Ingrese un título para el sistema de entradas", "Deteniendo la colección", "Reacciona con 🎟️ para crear un boleto.", "Tiempo pasado", "Ingrese una descripción para el sistema de entradas", "Sistema de entradas configurado"]
     },
 
     "TICKET.CLOSE": {
@@ -909,6 +908,12 @@
       "ES-es": ["Culpa", "Los formatos disponibles son", "Verificado que", "está disponible **[aquí]", "Actualización de color"]
     },
 
+    "PROFILE.BACKGROUND": {
+      "FR-fr": ["votre profil a été mis a jour"],
+      "EN-en": ["your profile has been updated"],
+      "ES-es": ["Tu perfil ha sido actualizado"]
+    },
+
     "PROFILE.LEAD": {
       "FR-fr": ["Classement du serveur", "Niveau"],
       "EN-en": ["Server ranking", "Level"],
@@ -916,22 +921,22 @@
     },
 
     "PROFILE.RANK": {
-      "FR-fr": ["Je suis trop puissant pour toi", "Désolé mais je ne prends pas en compte l'un de mes confrères", "Choisissez d'abord un background avec la commande `background` ou `background0`", "Oups j'ai oublié ce que je devais faire, essayez à nouveau."],
-      "EN-en": ["I'm too powerful for you", "Sorry but I do not take into account one of my confreres", "Choose a background first with the command `background` or `background0`", "Oops I forgot what I had to do, try again."],
-      "ES-es": ["Soy demasiado poderoso para ti", "Lo siento, pero no tengo en cuenta uno de mis cohermanos.", "Elija un fondo primero con el comando `background` o `background0`", "Vaya, olvidé lo que tenía que hacer, inténtalo de nuevo."]
+      "FR-fr": ["Je suis trop puissant pour toi", "Désolé mais je ne prends pas en compte l'un de mes confrères", "Oups j'ai oublié ce que je devais faire, essayez à nouveau."],
+      "EN-en": ["I'm too powerful for you", "Sorry but I do not take into account one of my confreres", "Oops I forgot what I had to do, try again."],
+      "ES-es": ["Soy demasiado poderoso para ti", "Lo siento, pero no tengo en cuenta uno de mis cohermanos.", "Vaya, olvidé lo que tenía que hacer, inténtalo de nuevo."]
     },
 
 
     "MODERATION.GENERAL": {
-      "FR-fr": ["Aucune raison spécifiée", "L'utilisateur n'existe pas!", "Action", "Raison", "sanctionChannel est actif mais non configuré, pensé à le définir", "logChannel est actif mais non configuré, pensé à le définir"],
-      "EN-en": ["No specified reason", "The user does not exist!", "Action", "Reason", "sanctionChannel is active but not configured, thought to define it", "logChannel is active but not configured, thought to define it"],
-      "ES-es": ["Ninguna razón especificada", "¡El usuario no existe!", "Acción", "Razón", "sanctionChannel está activo pero no configurado, pensado para definirlo", "logChannel está activo pero no configurado, pensado para definirlo"]
+      "FR-fr": ["Aucune raison spécifiée", "L'utilisateur n'existe pas!", "Action", "Raison", "sanctionChannel est actif mais non configuré, pensé à le définir", "logChannel est actif mais non configuré, pensé à le définir", "Je ne peux pas exécuter cette action sur un utilisateur avec un rôle supérieur à moi", "Interaction exécutée avec succès"],
+      "EN-en": ["No specified reason", "The user does not exist!", "Action", "Reason", "sanctionChannel is active but not configured, thought to define it", "logChannel is active but not configured, thought to define it", "I can not run this action on a user with a superior role to me", "Interaction executed successfully"],
+      "ES-es": ["Ninguna razón especificada", "¡El usuario no existe!", "Acción", "Razón", "sanctionChannel está activo pero no configurado, pensado para definirlo", "logChannel está activo pero no configurado, pensado para definirlo", "No puedo ejecutar esta acción a un usuario con un papel superior para mí.", "Interacción ejecutada con éxito"]
     },
 
     "MODERATION.MUTE": {
-      "FR-fr": ["l'utilisateur mentionné n'est pas muté!", "n'est plus muté!", "est muté pour", "Temps"],
-      "EN-en": ["The user mentioned is not mutated!", "is no longer mutated!", "is mutated for",  "Time"],
-      "ES-es": ["¡El usuario mencionado no está mutado!", "ya no está mutado!", "esta mutado", "Hora"]
+      "FR-fr": ["l'utilisateur mentionné n'est pas muté!", "n'est plus muté!", "est muté pour", "Temps", "Cette valeur n'est pas compatible", "L'utilisateur est déjà muté"],
+      "EN-en": ["The user mentioned is not mutated!", "is no longer mutated!", "is mutated for",  "Time", "This value is not compatible", "The user is already mutated"],
+      "ES-es": ["¡El usuario mencionado no está mutado!", "ya no está mutado!", "esta mutado", "Hora", "Este valor no es compatible", "El usuario ya está mutado."]
     },
 
     "MODERATION.REPORT": {
@@ -947,9 +952,9 @@
     },
 
     "MODERATION.EMOJIADD": {
-      "FR-fr": ["S'il vous plaît choisissez une image ne dépasse pas 256ko", "Veuillez choisir un lien dont l'image ne dépassent pas les 256ko", "Ajouter avec succès"],
-      "EN-en": ["Please choose an image do not exceed 256Ko", "Please choose a link whose image does not exceed 256KO", "Add successfully"],
-      "ES-es": ["Por favor, elija una imagen no exceda de 256ko.", "Por favor, elija un enlace cuya imagen no exceda de 256ko", "Añadir con éxito"]
+      "FR-fr": ["S'il vous plaît choisissez une image ne dépasse pas 256ko", "Veuillez choisir un lien dont l'image ne dépassent pas les 256ko", "Ajouter avec succès", "Veuillez choissir un nom pour l'emoji"],
+      "EN-en": ["Please choose an image do not exceed 256Ko", "Please choose a link whose image does not exceed 256KO", "Add successfully", "Please choose a name for the emoji"],
+      "ES-es": ["Por favor, elija una imagen no exceda de 256ko.", "Por favor, elija un enlace cuya imagen no exceda de 256ko", "Añadir con éxito", "Por favor, elija un nombre para el Emoji"]
     },
 
 
@@ -978,7 +983,7 @@
     },
 
     "MUSIC.SHUF": {
-      "FR-fr": "a mélange la file d'attente",
+      "FR-fr": "a mélangé la file d'attente",
       "EN-en": "mixing the queue",
       "ES-es": "Una mezclando la cola"
     },
@@ -1002,9 +1007,9 @@
     },
 
     "MUSIC.REMOVE": {
-      "FR-fr": ["Vous ne pouvez pas retirer de la queue la musique en cour de lecture", "a rétiré", "de la file d'attente.", "je ne sais pas quoi faire"],
-      "EN-en": ["You can not remove from the tail music in playback yard", "remove", "of the queue.", "I do not know what to do"],
-      "ES-es": ["No se puede quitar de la música cola en el patio de reproducción.", "el Prado", "de la cola.", "No sé qué hacer"]
+      "FR-fr": ["Vous ne pouvez pas retirer de la queue la musique en cour de lecture", "a rétiré", "de la file d'attente.", "je ne sais pas quoi faire", "Vous avez donné une valeur beaucoup trop importante pour la liste de lecture"],
+      "EN-en": ["You can not remove from the tail music in playback yard", "remove", "of the queue.", "I do not know what to do", "You gave a much too important value for the playlist"],
+      "ES-es": ["No se puede quitar de la música cola en el patio de reproducción.", "el Prado", "de la cola.", "No sé qué hacer", "Dio un valor demasiado importante para la lista de reproducción."]
     },
 
     "MUSIC.CLIP": {
@@ -1020,9 +1025,9 @@
     },
 
     "MUSIC.LYRICS": {
-      "FR-fr": ["Veuillez entrer le titre d'une musique.\n\nAfin de trouver les bonnes parôles nous avons désactiver la recherche sur la lecture en cour\n\nNous recherchons une liste large afin d'améliorer la recherche Entrez un titre connu ou d'ajouter le nom de l'auteur améliore la recherche.", "Recherche de l'auteur","Recherche du titre", "Recherche des paroles", "Recherche de la couverture", "Profité du karaoké"],
-      "EN-en": ["Please enter the title of a music.\n\nIn order to find the right lyrics We disable research on reading\n\nWe are looking for a wide list so to improve research enter a known title or adding the author's name enhances search", "Author's search","Search title", "Search for lyrics", "Looking for the cover", "Taken from karaoke"],
-      "ES-es": ["Por favor ingrese el título de la música.\n\nPara encontrar la derecha Maririres desactivamos la investigación sobre la lectura en la corte.\n\nEstamos buscando una amplia lista para mejorar la búsqueda, ingrese un título conocido o agregue el nombre del autor. Mejora la búsqueda.", "Búsqueda del autor","Título de la búsqueda", "Buscar letras", "Buscando la portada", "Tomado de karaoke"]
+      "FR-fr": ["Veuillez entrer le titre d'une musique.\n\nAfin de trouver les bonnes parôles nous avons désactiver la recherche sur la lecture en cours\n\nNous recherchons une liste large afin d'améliorer la recherche Entrez un titre connu ou d'ajouter le nom de l'auteur améliore la recherche.", "Recherche de l'auteur","Recherche du titre", "Recherche des paroles", "Recherche de la couverture", "Profitez du karaoké"],
+      "EN-en": ["Please enter the title of a music.\n\nIn order to find the right lyrics We disable research on reading\n\nWe are looking for a wide list so to improve research enter a known title or adding the author's name enhances search", "Author's search","Search title", "Search for lyrics", "Looking for the cover", "Profiter du karaoké"],
+      "ES-es": ["Por favor ingrese el título de la música.\n\nPara encontrar la derecha Maririres desactivamos la investigación sobre la lectura en la corte.\n\nEstamos buscando una amplia lista para mejorar la búsqueda, ingrese un título conocido o agregue el nombre del autor. Mejora la búsqueda.", "Búsqueda del autor","Título de la búsqueda", "Buscar letras", "Buscando la portada", "Disfrutar de karaoke"]
     },
 
     "MUSIC.MOVE": {
@@ -1038,7 +1043,7 @@
     },
 
     "MUSIC.PAUSE": {
-      "FR-fr": ["à mis en pause la musique.", "La file d'attente est déjà en pause."],
+      "FR-fr": ["à mis la musique en pause.", "La file d'attente est déjà en pause."],
       "EN-en": ["paused the music.", "The queue is already paused."],
       "ES-es": ["Haciendo una pausa la música.", "La cola ya está en pausa."]
     },
@@ -1050,14 +1055,14 @@
     },
 
     "MUSIC.PLAYLIST": {
-      "FR-fr": ["Playlist introuvable", "⌛ récupére la playlist...", "\nListe de lecture supérieure à la limite de caractères...", "à commencé une playlist"],
-      "EN-en": ["Playlist not found", "⌛ Recover the playlist ...", "\nPlaylist superior to the character limit ...", "started a playlist"],
-      "ES-es": ["Lista de reproducción no encontrada", "⌛ Juega la lista de reproducción...", "\nLista de reproducción sobre el límite de carácter...", "comenzó una lista de reproducción"]
+      "FR-fr": ["Playlist introuvable", "⌛ récupére la playlist...", "\nListe de lecture supérieure à la limite de caractères...", "à commencé une playlist", "📡 Aucune playlist n'a été"],
+      "EN-en": ["Playlist not found", "⌛ Recover the playlist ...", "\nPlaylist superior to the character limit ...", "started a playlist", "📡 No playlist has been"],
+      "ES-es": ["Lista de reproducción no encontrada", "⌛ Juega la lista de reproducción...", "\nLista de reproducción sobre el límite de carácter...", "comenzó una lista de reproducción", "📡 Ninguna lista de reproducción ha sido"]
     },
 
 
     "MUSIC.PLAY+": {
-      "FR-fr": ["Quitte le canal vocal...", "`❌ La file d'attente est terminée.`", "Lecture en cour", "Vocal", "Salon", "Durée", "Infos supplémentaire", "skip la musique,", "à mis en pause la musique.", "reprend la musique!", "à unmute la musique!", "à mute la musique!", "diminue le volume, le volume est maintenant", "augmente le volume, le volume est maintenant", "Loop est maintenant", "arrête la musique!"],
+      "FR-fr": ["Quitte le canal vocal...", "`❌ La file d'attente est terminée.`", "Lecture en cours", "Vocal", "Salon", "Durée", "Infos supplémentaires", "skip la musique,", "à mis la musique en pause.", "reprend la musique!", "à unmute la musique!", "à mute la musique!", "diminue le volume, le volume est maintenant", "augmente le volume, le volume est maintenant", "Loop est maintenant", "arrête la musique!"],
       "EN-en": ["Leave the vocal channel ...", "`❌ The queue is complete.`", "reading in court", "Vocal", "Channel", "Duration", "Additional Info", "skip music,", "paused the music.", "Resumes music!", "to unmute the music!", "Mute music!", "decreases the volume, the volume is now", "increase the volume, the volume is now", "Loop is now", "Stop music!"],
       "ES-es": ["Deja el canal vocal ...", "`❌ La cola está completa.`", "leyendo en la corte", "Vocal", "Canal", "Duración", "Información adicional", "Saltar música,", "Haciendo una pausa la música.", "Reanuda la música!", "para reactivar la música!", "para silenciar la música!", "Disminuye el volumen, el volumen es ahora.", "Aumenta el volumen, el volumen es ahora.", "Loop es ahora", "¡Deja de música!"]
     },
@@ -1172,13 +1177,13 @@
 
 
     "EXIT_MEMBER": {
-      "FR-fr": ["est actif mais non configuré, pensé à le définir", "Un utilisateur est parti", "Nouveau congé", "Membre", "Oups j'ai oublié ce que je devais faire, quand quelqu'un quitte.", "n'existe pas ou je n'ai pas accès"],
+      "FR-fr": ["est actif mais non configuré, pensé à le définir", "Un utilisateur est parti", "Nouvelle Sortie", "Membre", "Oups j'ai oublié ce que je devais faire, quand quelqu'un quitte.", "n'existe pas ou je n'ai pas accès"],
       "EN-en": ["is active but not configured, thought to define it", "A user is gone", "New leave", "Member", "Oops I forgot what I had to do, when someone leaves.", "does not exist or I do not have access"],
       "ES-es": ["está activo pero no configurado, pensado para definirlo", "Un usuario se ha ido", "Nueva licencia", "Miembro", "Vaya, olvidé lo que tenía que hacer, cuando alguien se va.", "No existe o no tiene acceso."]
     },
 
     "WELCOME_MEMBER": {
-      "FR-fr": ["Un utilisateur a rejoint", "autoRole est actif mais pas configurer", "Nouveau venu"],
+      "FR-fr": ["Un utilisateur a rejoint", "autoRole est actif mais pas configurer", "Nouveau Arrivant"],
       "EN-en": ["A user has joined", "autoRole is active but not configure", "Newcomer"],
       "ES-es": ["Un usuario se ha unido", "autoRole está activo pero no configurar", "Recién llegado"]
     },

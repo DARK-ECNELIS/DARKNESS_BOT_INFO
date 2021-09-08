@@ -4,7 +4,7 @@
 <img width="35%" src="https://media.discordapp.net/attachments/868872070761697290/885063137529839646/Dark.png">
 <br>
 
-<h1 align="center">⚜ DARKNESS ⚜</h1>
+<h1 align="center">⚜ DARK ECNELIS ⚜</h1>
 
 <p align="center">
 <a href="https://discordbots.org/bot/726211802257686628?utm_source=widget">

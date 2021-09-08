@@ -1,7 +1,7 @@
 # 👾DARKNESS_BOTS_INFOS👾
 
 <p align="center">
-<img width="35%" src="https://images-ext-2.discordapp.net/external/VYEDfsdwB0aAsYGPLOT8wSeqJNnfNXBUxda7tlKt3pw/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/623201954839003158/0ca3902877403901207f5e47a3ef2ad7.webp">
+<img width="35%" src="https://media.discordapp.net/attachments/868872070761697290/885063137529839646/Dark.png">
 <br>
 
 <h1 align="center">⚜ DARKNESS ⚜</h1>

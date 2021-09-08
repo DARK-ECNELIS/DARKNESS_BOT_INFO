@@ -12,7 +12,7 @@
 </a>
  </p>
 <p align="center">
-<a href="https://loritta.website/support"><img src="https://discordapp.com/api/guilds/726208970489987152/widget.png"></a>
+<a href="https://discord.gg/sjABtBmTWa"><img src="https://discordapp.com/api/guilds/726208970489987152/widget.png"></a>
 </p>
 
 ## 🤖 DARKNESS V6 INFOS (comming Soon)

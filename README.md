@@ -1,4 +1,4 @@
-# 👾DARKNESS_BOTS_INFOS👾
+# 👾DARKNESS_BOTS_INFOS👾 (In progress)
 
 <p align="center">
 <img width="35%" src="https://media.discordapp.net/attachments/868872070761697290/885063137529839646/Dark.png">
@@ -11,13 +11,43 @@
  <img src="https://discordbots.org/api/widget/726211802257686628.png?test=123456" alt="Discord Bots" />
 </a>
 <a href="https://paypal.me/DarkEcnelis?locale.x=fr_XC">
- <img width="30%" height="150p" src="https://media.discordapp.net/attachments/868872070761697290/886144639810297896/Sans_titrwqe.png">
+ <img width="300px" height="150p" src="https://media.discordapp.net/attachments/868872070761697290/886144639810297896/Sans_titrwqe.png">
 </a>
 </p>
 <p align="center">
 <a href="https://discord.gg/sjABtBmTWa"><img src="https://discordapp.com/api/guilds/726208970489987152/widget.png"></a>
-<a href="https://paypal.me/DarkEcnelis?locale.x=fr_XC"><img width="15%" height="20p" src="https://media.discordapp.net/attachments/868872070761697290/886146372393377792/H2x1_Paypal_NintendoeShop.jpg"></a>
+<a href="https://paypal.me/DarkEcnelis?locale.x=fr_XC"><img width="150px" height="20p" src="https://media.discordapp.net/attachments/868872070761697290/886146372393377792/H2x1_Paypal_NintendoeShop.jpg"></a>
 </p>
 
 
-## 🤖 DARKNESS V6 INFOS (comming Soon)
+# Flags
+
+| Flag | Code | languages |
+| :-------------: | :-------------: | ------------- |
+| <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/FR%402x.png' width='21' height='15'> | FR-fr | français
+| <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/US%402x.png' width='21' height='15'> | EN-en | English
+| <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ES%402x.png' width='21' height='15'> | ES-es | Español
+
+___
+# <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/FR%402x.png' width='28' height='20'> DARKNESS INFOS V6.O.1
+
+## ❌ Commande Supprimer❌
+
+- suggestImage
+- mixAvatar
+- bug
+- random
+- prush
+- claim
+
+## ✅ Commande Ajouter✅
+
+(/cmd)
+
+### [ADMIN]
+- ConfigList
+- Config
+- Lang
+- Setting
+
+COMMING SOON

@@ -42,12 +42,62 @@ ___
 
 ## ✅ Commande Ajouter✅
 
-(/cmd)
+(Ajout des /commandes)
 
-### [ADMIN]
+### 🔰[DARKNESS]
+- Invite
+- Report
+- Suggest
+### 💻[ADMIN]
 - ConfigList
 - Config
 - Lang
 - Setting
+### 🛠[MODERATION]
+- Mod
+  - Manage-User
+  - Manage-Message
+### 🎟[TICKET]
+- Set-Ticket
+- Ticket
+### 💎[INFOS]
+- Info
+  - Bot
+  - Server
+  - Role
+  - User
+- Ping
+### 🎭[PROFILE]
+- Stats
+  - Background
+  - Colors
+  - Leaderboard
+  - Profile
+  - Rank
+  - Set-Profile
+### 📌[UTILES]
+- Avatar
+- Emoji
+- Math
+- Nick
+- Poll
+- Say
+### 🎮[FUN]
+- Together
+### 👾[API]
+- Api
+  - Actions
+  - Animal
+  - Fact
+  - Fake
+  - Filter
+  - Overlay
+___
+## 🔱 Patch🔱
 
-COMMING SOON
+- Bientôt disponible
+
+
+
+# <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/US%402x.png' width='28' height='20'> DARKNESS INFOS V6.O.1 (coming soon)
+# <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ES%402x.png' width='28' height='20'> DARKNESS INFOS V6.O.1 (Próximamente)
